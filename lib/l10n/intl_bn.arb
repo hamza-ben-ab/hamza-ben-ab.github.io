@@ -1,0 +1,581 @@
+{
+    "confirmButton": "চালিয়ে যান",
+    "profileUnfolowButton": "সদস্যতা ত্যাগ করুন",
+    "cancelButton": "বাতিল করুন",
+   
+  
+
+    "profileAbout": "সম্পর্কিত",
+    "profileFollowing": "সাবস্ক্রিপশন",
+    "profileFollowers": "সাবস্ক্রাইবার",
+   
+
+    "profileSkills": "শিক্ষা পটভূমি",
+    "profileSkillsEstablishment": "প্রতিষ্ঠা",
+    "profileSkillsEstablishmentHint": "বিশ্ববিদ্যালয় বা ইনস্টিটিউট",
+    "profileSkillsDiploma": "ডিপ্লোমা",
+    "profileSkillsDiplomaHint": "সার্টিফিকেট বা ডিপ্লোমা",
+    "deleteAsk": "আপনি কি অবিরত করতে চান ?",
+    
+    "profileExperience": "অভিজ্ঞতা",
+    "profileExperienceCompany": "কোম্পানি",
+    "profileExperienceCompanyHint": "টিভি স্টেশন, রেডিও, সংবাদপত্র",
+    "profileExperienceJobTitle": "কাজের শিরোনাম",
+    "profileExperienceJobTitleHint": "সাংবাদিক, সম্পাদক, প্রতিবেদক",
+    "profileExperiencePeriode": "পিরিয়ড",
+    "profileExperiencePeriodeYear": "সাল",
+    
+    "profileContacts": "যোগাযোগ",
+    
+    
+    
+    "requiredFiled" : "ক্ষেত্র প্রয়োজন",
+    "descriptionPoll" : "জনমত সম্বন্ধে",
+
+    "articleReference" : "নিবন্ধ রেফারেন্স",
+    "snackBarAddParagph" : "অন্তত একটি অনুচ্ছেদ যোগ করুন",
+   
+
+    "createProfileNationality" : "জাতীয়তা",
+    "createProfileChildren" : "শিশুরা",
+    "createProfileRelation" :"সম্পর্কের অবস্থা",
+    "createProfileEducation" :"শিক্ষা",
+    "createProfileOccupation" :"পেশা",
+
+    "snackBarAddSteps" : "অন্তত একটি ধাপ যোগ করুন",
+    
+    
+    "like": "পছন্দ করে",
+    "postViewWrittenBy": "লিখেছেন",
+    "postViewUpdate": "হালনাগাদ",
+    "pictureBy": "দ্বারা ছবি",
+    "videoBy": "দ্বারা ভিডিও",
+    "views": "ভিউ",
+
+    "pictureDetailsAddComment": "আপনার উত্তর টাইপ করুন",
+    "commentModifer": "পরিবর্তন করুন",
+    "commentDelete": "মুছে ফেলা",
+    "commentReply": "উত্তর",
+    "inviteButton" : "আমন্ত্রণ জানান",
+    "iLikeButton" : "আমি পছন্দ করি",
+    "fullScreen" : "পূর্ণ পর্দা",
+
+
+    
+    "saveButton": "সংরক্ষণ",
+    "message": "বার্তা",
+    "notificationTitle": "বিজ্ঞপ্তি",
+    "account" : "অ্যাকাউন্ট",
+
+    "contactUs" : "যোগাযোগ করুন",
+    "aboutUs" : "আমাদের সম্পর্কে",
+    "privacyPolicy": "গোপনীয়তা নীতি",
+    "cookiePolicy": "কুকি নীতি",
+    "copyrightPolicy": "কপিরাইট নীতি",
+    "terms": "শর্তাবলী",
+    "help" : "সাহায্য",
+
+    "accountMenuProfileSetting": "সেটিং এবং গোপনীয়তা",
+    "accountMenuLogOut": "লগ আউট",
+    "seeYourProfile" : "আপনার প্রোফাইল দেখুন",
+    "helpAndSupport" : "সাহায্য ও সমর্থন",
+    "accountEmail" : "অ্যাকাউন্ট ইমেল",
+    "changePassword" : "পাসওয়ার্ড পরিবর্তন করুন",
+    "location": "অবস্থান",
+    "language" : "ভাষা",
+    "newEmail" : "নতুন ইমেইল",
+    "currentPassword" : "বর্তমান পাসওয়ার্ড",
+    
+    "newEmailDescription" :  "আপনার Telltrue অ্যাকাউন্টে একটি বর্তমান ইমেল যোগ করা আপনাকে লগ ইন করতে এবং বিজ্ঞপ্তি পেতে সাহায্য করতে পারে এবং সহজেই আপনার পাসওয়ার্ড পুনরায় সেট করতে পারে।",
+    "currentPassIsWrong" : "বর্তমান পাসওয়ার্ড ভুল",
+    "passWordCondition" : "পাসওয়ার্ড কমপক্ষে 8 অক্ষরের হতে হবে",
+    
+    
+    "messageSorryCannotSend" : "দুখিত, আপনি এই অ্যাকাউন্টে একটি বার্তা পাঠাতে পারবেন না",
+    "blockButton": "ব্লক",
+    "suggestionChatUnBlock": "অবরোধ মুক্ত করুন",
+    "suggestionChatTypeMsg": "আপনার বার্তা টাইপ করুন",
+    "suggestionChatDeleteConversation": "চ্যাট মুছুন",
+    "suggestionChatBlockMsgRequest": "মেসেজ এবং কল ব্লক করবেন?",
+    "suggestionChatBlocktitle2": "Telltrue অ্যাকাউন্ট",
+    "suggestionChatBlockDescrip": "আপনি এই চ্যাটে তাদের বার্তা বা কল করতে পারবেন না, এবং আপনি তাদের বার্তা বা কল পাবেন না।",
+    "suggestionChatBlocktitle1": "আপনি থেকে বার্তা এবং কল অবরুদ্ধ",
+    "suggestionChatBlockMsgDescrip1": "আপনার Telltrue অ্যাকাউন্ট থেকে বার্তা বা কল রিসিভ করবে না",
+    "suggestionChatBlockMsgDescrip2": "এর Telltrue অ্যাকাউন্ট \n কথোপকথন চ্যাটে থাকবে যতক্ষণ না আপনি এটি লুকান।",
+    "suggestionChatDeleteConversationDescrip": "একবার আপনি আপনার এই কথোপকথনের অনুলিপি মুছে ফেললে, এটি পূর্বাবস্থায় ফেরানো যাবে না।",
+
+
+    "messageNoMessageYet": "আপনি এখনও কোনো কথোপকথন করেননি",
+    "messageStartMessage": "একটি নতুন কথোপকথন শুরু করুন",
+
+
+    "copyRight" : "© 2021 টেলট্রু কোম্পানি। সমস্ত অধিকার সংরক্ষিত.",
+    "addprofileImageDes" :   "আপনার প্রোফাইল ফটো আপনার টিমকে জানতে সাহায্য করে যে আপনি টেলট্রুতে কে। এবং যদি আপনার ছবিটি পরিষ্কার হয়, তাহলে ভিড় বা মিটিংয়ে আপনাকে বেছে নেওয়া কারো পক্ষে সহজ হবে!",
+    "personalPicture" : "ব্যক্তিগত ছবি",
+    "postPicture" : "ছবি পোস্ট করুন",
+    "noPictureToshow" : "দেখানোর জন্য কোন ছবি নেই",
+    "pictureSetAsProfilePic": "প্রোফাইল পিকচার হিসেবে সেট করুন",
+    "pictureDelete": "এই ছবিটি মুছে দিন",
+    "pictureDeleteRequest": "আপনি কি এই ছবিটি মুছে ফেলার ব্যাপারে নিশ্চিত?",
+    
+
+    "profilePicAndVid": "ছবি",
+    "profilePicturesOfYou": "তোমার ছবি",
+    "profileVideo": "ভিডিওগুলি",
+    "yourVideos": "আপনার ভিডিওগুলি",
+    "liveVideos": "লাইভ ভিডিও",
+
+
+    "readers" : "রিডিং",
+    "nobreakingNewsyet" : "এখনো কোন ব্রেকিং নিউজ নেই",
+    "noBreakingNewsDes" :  "যখন আপনি ব্রেকিং নিউজ পাবেন, সেগুলি এখানে প্রদর্শিত হবে",
+    "breakingNewsisAvailable" :   "দুর্ভাগ্যবশত এই ব্রেকিং নিউজ পাওয়া যায় না।",
+   
+    "noCommentYetTitle": "এখানে এখনও কোন উত্তর নেই ...",
+    "noCommentsYetDes": "আপনি কি মনে করেন তা শেয়ার করার জন্য প্রথম হন!",
+
+
+    "readLess" : "কম পড়ুন",
+    "vote": "ভোট",
+    "undo" : "পূর্বাবস্থায় ফেরান",
+
+
+    
+  
+
+    "reportSelectProb" :  "চালিয়ে যেতে একটি সমস্যা নির্বাচন করুন",
+    "report1" : "অনৈতিক বিষয়বস্তু",
+    "report2" : "আবর্জনা বিষয়বস্তু",
+    "report3" : "ধর্মের ক্ষতি করে এমন বিষয়বস্তু",
+    "report4" : "নিরাপত্তার ক্ষতি করে এবং সহিংসতা উস্কে দেয় এমন সামগ্রী৷",
+    "sendButton" :  "পাঠান",
+
+
+
+    "eventInterestedButton": "আগ্রহী",
+    "eventNotInterestedButton": "আগ্রহী নই",
+
+    "Participants" : "অংশগ্রহণকারীরা",
+    "career" : "কর্মজীবন",
+    "closeButton" : "বন্ধ",
+    "abstrack": "বিমূর্ত",
+    "reference" : "তথ্যসূত্র",
+
+
+    "noVideoShow" : "দেখানোর জন্য কোন ভিডিও নেই",
+    "noLiveVideoShow" : "দেখানোর জন্য কোন লাইভ ভিডিও নেই",
+    "noPubmatching" : "কোন মিল প্রকাশনা পাওয়া যায়নি",
+    "noEventmatching" : "কোন মিল ইভেন্ট পাওয়া যায়নি",
+    "noTelltruefound" :  "কোন মিলিত সত্য ব্যবহারকারী পাওয়া যায়নি",
+    "result" : "ফলাফল",
+    "seeAllpub" : "সমস্ত প্রকাশনার ফলাফল দেখুন",
+    "seeAllEvent" : "সমস্ত ঘটনা ফলাফল দেখুন",
+    "telltrueUser": "Telltrue ব্যবহারকারীদের",
+    "famousPersonIdentified" : "চিহ্নিত ব্যক্তি",
+    "eventIdentified":"চিহ্নিত ঘটনা",
+     "placeIdentified":"শনাক্ত করা জায়গা",
+     "all" :  "সব",
+     "addBy" : "দ্বারা যোগ করা",
+
+
+     "seeAllpeople" : "সব মানুষের ফলাফল দেখুন",
+    "searchTelltrue" : "Telltrue অনুসন্ধান করুন",
+    "searchFor" : "জন্য অনুসন্ধান করুন",
+    
+
+    "suggestionsForyou" : "আপনার জন্য প্রস্তাবনা",
+    "todayTopWritting": "আজকের শীর্ষ লেখা",
+
+    "notificationNoYetTitle": "এখনও কোন বিজ্ঞপ্তি নেই",
+    "notificationNoYetDes": "আপনি যখন বিজ্ঞপ্তি পাবেন, সেগুলি এখানে দেখাবে৷",
+
+    "inviteYouToReadAn": "পড়তে আমন্ত্রণ জানাই",
+    "inviteYouToAnswer": "আপনাকে উত্তর দিতে আমন্ত্রণ জানাই",
+    "inviteYouToWatch": "দেখার আমন্ত্রণ",
+    "inviteYouToSee": "দেখতে আমন্ত্রণ জানাই",
+    "inviteYouToReadEvent": "একটি ইভেন্ট দেখতে আপনাকে আমন্ত্রণ",
+    "notificationSubscribe": "আপনাকে অনুসরণ করা শুরু করেছে.",
+    "and": "এবং",
+    "other": "অন্যান্য",
+    "commentedYour": "আপনার পোস্ট মন্তব্য",
+    "likedYour": "আপনার পোস্টে প্রতিক্রিয়া",
+    "answerYour": "আপনার ভোটের উত্তর দিয়েছেন",
+    "reportYour" :"আপনার পোস্ট রিপোর্ট করুন",
+
+
+    "deletePostDescription" :  "এই প্রকাশনাটি জাল হতে পারে৷\n তাই, এটি Telltrue থেকে মুছে ফেলা হবে৷",
+    "notiDeletePost" : "দুর্ভাগ্যবশত, আমরা আপনার মুছে ফেলব",
+    "fullNamerequired" : "আপনার পাসপোর্ট বা জাতীয় পরিচয়পত্রে আপনার পুরো নাম লিখুন।",
+
+    "chooseFile" : "একটি ফাইল চয়ন করুন",
+    "driver'sLicence" : "চালকের লাইসেন্স",
+    "driverLicenceDes" : "আপনার ড্রাইভারের লাইসেন্সের একটি ফটো বা স্ক্যান আপলোড করুন।",
+    "driverLicenceFrontSideTitle" : "আপনার ড্রাইভারের লাইসেন্সের সামনের দিক",
+    "driverLicenceFrontSideDes" : "আপনার ড্রাইভারের লাইসেন্সের সামনের দিকটি আপলোড করুন",
+    "nationalId": "জাতীয় পরিচয়পত্র",
+    "nationalIdDes" : "আপনার নথির একটি ফটো বা স্ক্যান আপলোড করুন।",
+    "nationalIdFrontSideTitle" : "আপনার নথির সামনের দিক",
+    "nationalIdFrontSideDes" : "আপনার নথির সামনের দিকটি আপলোড করুন",
+
+    "nationalIdBackSideTitle" : "আপনার নথির পিছনের দিক",
+    "nationalIdBackSideDes" : "আপনার নথির পিছনের দিকটি আপলোড করুন",
+
+    "passport" : "পাসপোর্ট",
+    "passportDes" : "আপনার পাসপোর্ট ছবির পৃষ্ঠার একটি ছবি বা স্ক্যান আপলোড করুন।",
+    "passportUploadDes" : "ছবির সাথে বিস্তারিত পাতা",
+    "chooseOtherOption" : "একটি ভিন্ন আইডি নথি চয়ন করুন",
+    
+
+
+    "driverLicenceBackSideTitle" : "আপনার ড্রাইভারের লাইসেন্সের পিছনের দিক",
+    "driverLicenceBackideDes" :"আপনার ড্রাইভারের লাইসেন্সের পিছনের দিকটি আপলোড করুন",
+    "uploadAproofOfidendity" : "আপনার পরিচয়ের একটি প্রমাণ আপলোড করুন",
+    "chooseCountryDes":  "আপনার হাতে থাকা আইডি ডকুমেন্টটি জারি করা দেশটি দয়া করে বেছে নিন।",
+    "countryDropDowntitle" : "আইডি প্রদানকারী দেশ",
+    "selectCountry" : "দেশ নির্বাচন করুন...",
+    "documentType" : "নথিপত্র ধরণ",
+    "selectDocType" : "একটি নথির ধরন নির্বাচন করুন",
+
+
+
+    "firstAndlastName" : "সম্পূর্ণ আইনি প্রথম এবং শেষ নাম",
+    "firstAndMiddleName" : "সম্পূর্ণ আইনি প্রথম এবং মধ্য নাম",
+    "spellYourName" : "আপনার পাসপোর্ট বা আইডি কার্ডে যেভাবে দেখানো হয়েছে ঠিক সেভাবে আপনার নামের বানান করুন।",
+    "fullLegalLastName": "সম্পূর্ণ আইনি শেষ নাম(গুলি)",
+    "spellHomeTwon": "আপনার পাসপোর্ট বা জাতীয় পরিচয়পত্রে যেমন লেখা আছে আপনার হোমটোয়ান লিখুন।",
+    "spellCurrentLocation" : "আপনার পাসপোর্ট বা জাতীয় পরিচয়পত্রে আপনার বর্তমান অবস্থান লিখুন।",
+    "passwordConditions" : "পাসওয়ার্ডে একটি অক্ষর এবং একটি সংখ্যা থাকতে হবে এবং ন্যূনতম 8টি অক্ষরের হতে হবে",
+    "birthDayCondition" : "আপনার পাসপোর্ট বা জাতীয় পরিচয়পত্রে আপনার জন্মদিন লিখুন।",
+    "phone" : "ফোন",
+    "phoneNumber" : "ফোন নম্বর",
+    "theAccountAlready": "অ্যাকাউন্টটি ইতিমধ্যেই সেই ইমেলের জন্য বিদ্যমান",
+    "welcomeToOurteam" : "আমাদের দলে স্বাগতম",
+
+
+    "snackBarNoUserFound": "No user found for that identifier",
+    "snackBarWrongPassword": "Wrong Password",
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "teltrueSayHey": "আরে!",
+    "teltrueWelcomIntro": "\nএকমাত্র প্ল্যাটফর্ম যেখানে সাংবাদিক নেতা",
+    "formIdentifierLoginPage": "শনাক্তকারী",
+    "formPasswordLoginPage": "পাসওয়ার্ড",
+    "onlyReaderOptionSignIn": "বা (কেবল পাঠক)",
+    "forgotPasswordLoginPage": "পাসওয়ার্ড ভুলে গেছেন ?",
+    "askForSignUpLoginPage": "কোন অ্যাকাউন্ট নেই?",
+    "signUpFlatButtonLoginPage": "নিবন্ধন করুন",
+    "connectButtonLoginPage": "প্রবেশ করুন",
+    "appBarTitleResetPassword": "পাসওয়ার্ড রিসেট করুন",
+    "subtitleResetPassword": "পদক্ষেপ 1: আপনার অ্যাকাউন্টটি সন্ধান করুন",
+    
+    "descriptionResetPassword": "আপনাকে পাসওয়ার্ড রিসেট কোড প্রেরণের জন্য আমাদের কেবল আপনার নিবন্ধিত ইমেল দরকার",
+    "hintTextResetPassword": "আপনার ইমেলটি সঠিকভাবে প্রবেশ করান",
+    "sendRequestResetPassword": "অনুরোধ প্রেরণ করুন",
+    "subtitlePassCode": "পদক্ষেপ 2: যাচাইকরণের কোড",
+    "descriptionPassCode": "আমরা কেবলমাত্র আপনার নিবন্ধিততে যাচাইকরণ কোডটি প্রবেশ করান",
+    "hintTextPassCode": "কোড",
+    "resendCodeFlatButtonPassCode": "পুনরায় পাঠানো কোড!",
+    "verifybuttonPassCode": "যাচাই করুন",
+    "subtitleCreateNewPassword": "পদক্ষেপ 3: নতুন পাসওয়ার্ড তৈরি করুন",
+    "descriptionCreateNewPassword": "আপনার নতুন পাসওয়ার্ড অবশ্যই পূর্বে ব্যবহৃত পাসওয়ার্ডের চেয়ে আলাদা হওয়া উচিত",
+    "hintTextNewPassword": "নতুন পাসওয়ার্ড",
+    "hintTextConfirmNewPassword": "নিশ্চিত কর নতুন গোপননম্বর",
+    "resetPasswordCreatePassword": "পাসওয়ার্ড রিসেট করুন",
+    "appBarTitleSignUpMode": "সাইন আপ মোড",
+    "subtitleSignUpMode": "তুমি কে?",
+    "descriptionSignUpMode": "আপনি সাংবাদিক, সরল পাঠক বা মিডিয়া হিসাবে আমাদের সাথে যোগ দিতে প্রস্তুত (সংবাদপত্র, রেডিও, টিভি ...)",
+    "iamReaderSignUpMode": "আমি পাঠক",
+    "iamJournalistSignUpMode": "আমি সাংবাদিক",
+    "weareMediaSignUpMode": "আমরা মিডিয়া",
+    "appBarTitleSignUpWithEmail": "ব্যক্তিগত তথ্য",
+
+    "hintTextFullNameSignUpWithEmail": "আইডিতে একই",
+    "fullNameTitleSignUpWithEmail": "পুরো নাম",
+    "emailTitleSignUpWithEmail": "অফিসিয়াল ইমেল ঠিকানা",
+    "locationTitleSignUpWithEmail": "বর্তমান অবস্থান",
+    "genderSignUpWithEmail": "লিঙ্গ",
+    "hintTextGetLocationSignUpWithEmail": "দেশ, শহর",
+
+    "yesItsMeButton" : "হ্যা, এটা আমি",
+    "tryAgainButton" : "আবার চেষ্টা কর",
+    "noAccountAttachedDes" : "দুঃখিত, এই অ্যাকাউন্টে কোনও অ্যাকাউন্ট সংযুক্ত নেই",
+    "taostConfirmThePassWord" : "দয়া করে পাসওয়ার্ডটি নিশ্চিত করুন",
+    "toastInvalidCode": "ভুল সঙ্কেত",
+
+    "addPostSearchPlaceHint": "জায়গাটি সন্ধান করুন",
+    "addPostSearchEventHint": "বর্তমান ইভেন্টের শিরোনামটি সন্ধান করুন",
+    "addPostSearchPersonHint": "বিখ্যাত ব্যক্তির নামটি সন্ধান করুন",
+    "tagPerson": "বিখ্যাত ব্যক্তি",
+    "tagEvent": "ইভেন্ট",
+    "tagPlace": "স্থান",
+    "addPostBreakingNewsDesHint": "কী হয়েছে আমাদের বলুন ",
+    "snackBarTopic": "আপনার অবশ্যই বিষয় নির্বাচন করুন",
+
+
+    "hintTextIdentifierSignUpWithEmail": "ইমেল ঠিকানা",
+    "hintTextPasswordSignUpWithEmail": "পাসওয়ার্ড",
+    "hintTextConfirmPasswordSignUpWithEmail": "পাসওয়ার্ড নিশ্চিত করুন",
+   
+    "hintTextSelectMale": "পুরুষ",
+    "hintTextSelectFemale": "মহিলা",
+    "nextButton": "পরবর্তী",
+    "snackBarInvalidFullName": "আপনার পুরো নাম লিখুন!",
+    "snackBarInvalidEmail": "বৈধ ইমেল ঠিকানা লিখুন!",
+    "snackBarInvalidPassword": "পাসওয়ার্ডে 8 টি অক্ষর থাকতে হবে!",
+    "snackBarInvalidConfirmPassword": "আপনার পাসওয়ার্ড নিশ্চিত",
+    "snackBarInvalidLocation": "আপনার বর্তমান অবস্থান নির্বাচন করুন",
+    "appBarTitleJournalistSignUp": "সাংবাদিক তথ্য",
+    "subtitleJournalistSignUpWorkSpace": "কর্মক্ষেত্রের নাম",
+    "subtitleJournalistSignUpBirthday": "জন্ম তারিখ",
+    "subtitleJournalistSignUpUploadId": "আপনার ছবির আইডি আপলোড করুন",
+    "hintTextChannelNameJournalistSignUp": "টিভি বা রেডিও বা সংবাদপত্র ...",
+ 
+    "hintTextYear": "বছর",
+    "hintTextDay": "দিন",
+    "hintTextMonth": "মাস",
+    "descriptionUploadPhotoId": "আপনার পরিচয় নিশ্চিত করার জন্য, আপনাকে আপনার সরকার-ইস্যু করা আইডির একটি রঙিন ছবি আপলোড করতে হবে। আপনার আইডিতে আপনার নাম, জন্মের দিন এবং ফটো অন্তর্ভুক্ত করা উচিত। ac অগ্রহণযোগ্য আইডিতে আপনার অন্তর্ভুক্ত রয়েছে: \n- পাসপোর্ট \n- জাতীয় পরিচয়পত্র driver \n- ড্রাইভারের লাইসেন্স \n একবার আমরা আপনার আইডির একটি পরিষ্কার ছবি পেয়েছি এবং পর্যালোচনা করার পরে আমরা আমাদের সনাক্তকরণের নথিটি আমাদের সার্ভার থেকে মুছব will",
+    "choosePhotoButton": "ছবি নির্বাচন করুন",
+    "snackBarUploadImageId": "চিত্র সফলভাবে আপলোড হয়েছে",
+    "snackBarInvalidBirthday": "বৈধ জন্মের দিন প্রবেশ করুন!",
+    "snackBarSince": "বৈধ শুরুর দিন প্রবেশ করুন!",
+    "snackBarInvalidUpload": "আপনাকে অবশ্যই আপনার পরিচয় ফটো আপলোড করতে হবে",
+    "journalistReporter": "সাংবাদিক ও প্রতিবেদক",
+    "journalistWriter": "সাংবাদিক ও লেখক",
+    "journalistAnimator": "সাংবাদিক ও উপস্থাপক",
+    "photoJournalist": "ফটো জার্নালিস্ট",
+    "journalistEditor": "সাংবাদিক ও সম্পাদক",
+    "onlineJournalistBloger": "অনলাইন সাংবাদিক বা ব্লগার",
+
+    "tvColumnist": "টিভি কলামিস্ট",
+    "freelanceJournalist": "ফ্রিল্যান্স সাংবাদিক",
+    "investigativeJournalist": "তদন্তকারী সাংবাদিক মো",
+
+    "subtitleReviewPage": "সাফল্য!",
+    "descriptionP1ReviewPage": "ধন্যবাদ",
+    "descriptionP3ReviewPage": ", আমরা একটি সাংবাদিক অ্যাকাউন্টের জন্য আপনার অনুরোধ পেয়েছি এবং আমরা এটি পর্যালোচনা প্রক্রিয়াধীন (24 ঘন্টা)। মনে রাখবেন যে আপনার পরিচয় নিশ্চিত হওয়ার 30 দিনের মধ্যে আপনার আইডি সুরক্ষিতভাবে সংরক্ষণ করা হবে এবং মোছা হবে",
+    "snackBarSelectOption": "আপনাকে অবশ্যই বিকল্পটি বেছে নিতে হবে",
+    "doneButton": "সম্পন্ন",
+    "appBarTitleAddProfileImage": "প্রোফাইল ছবি",
+    "subtitleWelcomePage": "আপনি আমাদের অ্যাপ্লিকেশনটিতে সফলভাবে নিবন্ধন করেছেন এবং এটিতে কাজ শুরু করতে পারেন",
+    "startButton": "শুরু করুন",
+    "photoLibrary": "ফটো লাইব্রেরি",
+    "photoCamera": "ক্যামেরা",
+    "appBarTitleSuggestion": "অনুসরণ করার পরামর্শ",
+    "descriptionSuggestion": "সাংবাদিক বা মিডিয়া অনুসরণ করার জন্য শুরু করে আপনার টেলট্রু অভিজ্ঞতাটি ব্যক্তিগতকরণে সহায়তা করতে আপনি আগ্রহী এমন কয়েকটি বিষয় নির্বাচন করুন।",
+    "subtitleSuggestion1": "এর সাংবাদিক",
+    "subtitleSuggestion2": "টেলিভিশন এবং রেডিও",
+    "subtitleSuggestion3": "সংবাদপত্র ও ম্যাগাজিনগুলি",
+    "noJournalistYet": "আপনার দেশের কোনও সাংবাদিক এখনও নিবন্ধন করেন নি",
+    "noTvRadioYet": "আপনার দেশের কোনও টিভি বা রেডিও এখনও নিবন্ধভুক্ত হয়নি",
+    "noNewspaperMagazine": "আপনার দেশের কোনও সংবাদপত্র বা ম্যাগাজিন এখনও নিবন্ধভুক্ত হয়নি",
+
+
+
+    "createPostCommentary" : "ভাষ্য ও দৃষ্টিভঙ্গি",
+    "feel" : "অনুভব করা",
+
+    "createPostQuestionDes": "মতামত সমীক্ষা বা বৈজ্ঞানিক ও পক্ষপাতহীন পদ্ধতিতে কোনও নির্দিষ্ট ইস্যু বা ধারাবাহিক ইস্যু সম্পর্কে জনগণের মতামত নির্ধারণের জন্য ডিজাইন করা তদন্তের মতো।.",
+    "feelingHappy": "খুশি অনুভব করছি",
+    "feelingCool": "শীতল বোধ",
+    "feelingSurprised": "অবাক লাগছে",
+    "feelingShocked": "হতবাক বোধ",
+    "feelingNervous": "বুক দুরদুর করা",
+    "feelingAngry":"রাগ হচ্ছে",
+    "feelingDrool": "অনুভূতি অনুভব করুন",
+    "feelingSweat": "চিৎকার অনুভব",
+    "feelingCrying": "কান্নাকাটি অনুভব করুন",
+    "feelingSad": "খারাপ লাগছে",
+    "feelingDead": "মৃত বোধ",
+    "feelingDubious": "সন্দেহজনক বোধ",
+    "feelingTired": "ক্লান্তি বোধ করা",
+    "feelingLoved": "ভালবাসা বোধ",
+    "feelingPain": "ব্যাথা অনুভব করা",
+    "feelingMuted": "নিঃশব্দ বোধ",
+    "feelingGreed": "লোভ বোধ",
+    "feelingSick": "অসুস্থ বোধ",
+    
+
+    "pollTitle" : "পোল",
+    "choiceOne" : "চয়েস ওয়ান",
+    "choiceTwo" : "চয়েস টু",
+    "choiceThree" : "চয়েস থ্রি",
+    "pollLength" : "পোলের দৈর্ঘ্য",
+    "days" : "দিন",
+    "hours" : "ঘন্টার",
+    "Minutes" : "মিনিট",
+
+    "addPostArticle": "গবেষণা প্রবন্ধ",
+    "addPostArticleGeneralTitle": "সাধারণ শিরোনাম",
+    "addPostArticleWrittersHintText": "লেখকরা",
+    "addPostArticleKeywords": "কীওয়ার্ড",
+    "addPostArticleCoresspondence": "চিঠিপত্র",
+    "addPostArticleAbstract": "এখানে অ্যাবস্ট্রাক্ট লিখুন",
+
+    "addPostArticleFirstPartTitle" : "প্রথম পর্বের শিরোনাম",
+    "addPostArticleSecondPartTitle" : "দ্বিতীয় অংশের শিরোনাম",
+    "addPostArticleThirdPartTitle" : "তৃতীয় অংশের শিরোনাম",
+    "addPostArticleFourthPartTitle" : "চতুর্থ পর্বের শিরোনাম",
+
+    "addPostArticleFirstPartDes" : "প্রথম অংশের বর্ণনা",
+    "addPostArticleSecondPartDes" : "দ্বিতীয় অংশের বর্ণনা",
+    "addPostArticleThirdPartDes" : "তৃতীয় অংশের বর্ণনা",
+    "addPostArticleFourthPartDes" : "চতুর্থ অংশের বর্ণনা",
+    "addPostArticleConclusion" : "উপসংহার",
+
+    "addPostArticleIntro": "ভূমিকা",
+    "unDoneDialogDiscardPost":   "পোস্ট বাতিল করুন",
+    "unDoneDialogDiscardDes":   "এটি পূর্বাবস্থায় ফেরানো যাবে না এবং আপনি আপনার খসড়া হারাবেন।",
+    "unDoneDialogDiscardButton":  "বাতিল করা",
+
+    "createHowToTitle"  :"কিভাবে?",
+    "createHowToSuplliesHintText" : "সরবরাহ",
+    "createHowToThinkInStep" : "ধাপে ধাপে চিন্তা করুন",
+    "createHowToStepTitleHintText" : "ধাপ শিরোনাম (ঐচ্ছিক)",
+    "createHowToStepDetailsHintText" :  "ধাপ বিবরণ",
+    "createHowToShowResult" : "দেখান ফলাফলের",
+    "createHowToAddStepButton" :  "ধাপ যোগ করুন",
+
+    "snackBarSupplies" : "আপনাকে অবশ্যই কিছু সরবরাহ লিখতে হবে",
+    "snackBarSteps" : "আপনাকে কিছু ধাপ লিখতে হবে",
+    "snackBarBiography" : "সম্পর্কে কিছু শব্দ লিখুন দয়া করে",
+
+    "createProfiletitle" : "জীবন বৃত্তান্ত",
+    "createProfileAgeHintText" : "বয়স",
+    "createProfileHomeTwonHintText": "নিজ শহর",
+    "createProfilecurrentCityHintText" : "বর্তমান শহর",
+    "createProfileCvHintText" : "জীবন বৃত্তান্ত",
+
+    "createAnalysisAddpart": "অনুচ্ছেদ যোগ করুন",
+    "createAnalysisTitle": "বিশ্লেষণ এবং পর্যালোচনা",
+    "createAnalysisPartTitle": "অনুচ্ছেদ শিরোনাম",
+    "createAnalysisPartDetails": "অনুচ্ছেদ বিস্তারিত",
+
+    "feelingButton": "অনুভূতি",
+    "topicButton": "বিষয়",
+    "uploadButton": "আপলোড করুন",
+
+
+    "snackBarEmptyTitle" : "দয়া করে একটি শিরোনাম লিখুন",
+    "snackBarEmptyDes" : "দয়া করে বর্ণনা বাক্সে কিছু শব্দ লিখুন",
+    "snackBarEmptyParagraph" : "অনুগ্রহ করে অন্তত একটি অনুচ্ছেদ লিখুন",
+
+    "broadcastingHintTextDes" : "সম্প্রচারের বর্ণনা",
+    "inPictureHintTextDes" : "ছবির বর্ণনা",
+
+    "createStoryTitle" : "গল্প",
+    "createStorytitleHintText" : "গল্প শিরোনাম (ঐচ্ছিক)",
+    "createStoryDesHintText" : "এখানে আপনার গল্প লিখুন",
+
+    "createPostBreakingNewsDes": "আজকের জন্য ব্রেকিং নিউজ",
+    "createPostLastestNewsTitle" : "সর্বশেষ সংবাদ",
+    "createPostLastestNewsDes" : "শীর্ষস্থানীয় খবর, আবহাওয়া, ব্যবসা, বিনোদন, রাজনীতি এবং আরও অনেক কিছু সম্পর্কে সর্বশেষ খবর এবং তথ্য খুঁজুন।",
+    "createPostCommentaryDes" : "ভাষ্যগুলি সাধারণত সংক্ষিপ্ত নিবন্ধ যা 1,000 থেকে 1,500 শব্দের সমন্বয়ে গঠিত হয় এবং তারা ইতিমধ্যে প্রকাশিত একটি বই, প্রতিবেদন বা নিবন্ধের দিকে মনোযোগ আকর্ষণ করে বা সমালোচনা করে।",
+    "createPostEssay" : "প্রবন্ধ",
+    "createPostEssayDes" : "বেশিরভাগ রচনাগুলি ব্যক্তিগত অভিজ্ঞতা বা মতামত সম্পর্কে ছোট থেকে মাঝারি দৈর্ঘ্যের টুকরো। সাধারণত, একটি রচনা একটি বিষয়কে ঘিরে আবর্তিত হয় এবং আপনার মতামত উপস্থাপন করে।",
+    "createPostHowToDes" : "এই নির্দেশমূলক টুকরোগুলিতে ধাপ, উপায় বা টিপস রয়েছে যা পাঠককে নির্দিষ্ট কিছু করতে সাহায্য করে। তারা একটি সমস্যা বা একটি প্রশ্নের উত্তর (সমাধান) প্রদান করে",
+    "createPostProfileDes" : "এই ধরণের নিবন্ধ একজন ব্যক্তির জীবন (আপনার নয়) এবং কৃতিত্বকে ঘিরে আবর্তিত হয়। একটি সাক্ষাৎকারের উপর ভিত্তি করে, আপনি তার জীবনের একটি গভীরভাবে চেহারা প্রদান করেন ...",
+    "createPostAnalysisDes" : "পর্যালোচনা নিবন্ধগুলি বিদ্যমান সাহিত্যের একটি গঠনমূলক এবং সমালোচনামূলক বিশ্লেষণ উপস্থাপন করে, যা বিশ্লেষণ, তুলনা এবং সারাংশের মাধ্যমে সম্পন্ন হয়। তারা নির্দিষ্ট সমস্যা বা ফাঁকগুলি চিহ্নিত করতে পারে এবং এমনকি ভবিষ্যতে গবেষণার জন্য সুপারিশ প্রদান করতে পারে।", 
+    "createPostStoryDes" : "গল্প, খবর, ইতিহাস, কিংবদন্তি, সায়েন্স ফিকশন, ছোট গল্প, ট্র্যাজেডি, কমেডি",
+    "createPostSponsored" : "স্পনসর",
+    "createPostSponsoredDes" : " মূলত, এক ধরনের বিজ্ঞাপন। তারা নিয়মিত সম্পাদকীয়ের মত দেখতে এবং পড়ে, কিন্তু তাদের জন্য একটি নির্দিষ্ট বিজ্ঞাপনদাতা অর্থ প্রদান করে এবং তাই",
+   
+    "createPostArticleDes": "গবেষণা নিবন্ধগুলি খুব বিস্তারিত অধ্যয়ন যা মূল গবেষণা প্রতিবেদন করে। বিবেচিত প্রাথমিক সাহিত্য, মূল গবেষণা প্রবন্ধের মধ্যে রয়েছে পটভূমি অধ্যয়ন, পদ্ধতি, অনুমান, ফলাফল এবং ফলাফলগুলির ব্যাখ্যা",
+
+    "createPostBreakingNewsTitle": "সদ্যপ্রাপ্ত সংবাদ",
+    "createPostBroadcastTitle": "সম্প্রচার",
+    "createPostInpicTitle": "ছবিতে",
+    "createPostInvestigationTitle": "তদন্ত",
+    
+
+    "addPostBreakingNewsTitleHint": "Breaking news title",
+   
+
+    "createPostBroadCastDes": "একটি সংক্ষিপ্ত বিবরণ সহ একটি ইভেন্ট সম্পর্কে একটি সাংবাদিকতার সাক্ষাত্কার, প্রতিবেদন বা লাইভ স্ট্রিমিং শেয়ার করুন",
+    "createPostInPicDes": "ছবির কথা বলুন!",
+    "createPostInvestigationDes": "অপরাধ বা প্রকৃত ঘটনা বা দুর্যোগ সম্পর্কে আপনার তদন্তকে সত্য প্রমাণ বা সাক্ষ্য দিয়ে শেয়ার করুন",
+    "createPostEvent": "একটি সাংস্কৃতিক অনুষ্ঠান বা কর্মসূচির পরিকল্পনা করা",
+
+    "tagTypeToSearch" : "অনুসন্ধান করতে টাইপ করুন",
+    "tagNoTagSearchFound" : "কোন ট্যাগ সার্চ পাওয়া যায়নি",
+
+    "tagSearchNumberOf" : "Teltrue লোকেরা এই বিষয়ে পোস্ট করে",
+    "useButton" :"এটা ব্যবহার কর",
+    "addPostOpinionHint" : "আপনি কি মনে করেন",
+    "addPostEssayDesHintText" : "একটি মতামত বা ব্যক্তিগত অভিজ্ঞতা বর্ণনা করুন",
+    "askQuestionTitleHint": "কিছু জিজ্ঞেস করো",
+
+    "addEventTitle" : "একটি অনুষ্ঠানের আয়োজন করুন",
+    "addEventTitleHint": "অনুষ্ঠানের শিরোনাম",
+    "addEventPlaceLabel": "ইভেন্টের স্থান",
+    "addEventPlaceHint": "হোটেল, কনভেনশন হল, রাস্তার ঠিকানা, অনলাইন ইভেন্ট",
+    "addEventSpeakerLabel": "উপস্থাপক",
+    "addEventSpeakerHint": "স্পিকারের পুরো নাম",
+    "addEventDateLabel": "তারিখ",
+    "addEventMonthHint": "মাস",
+    "addEventDayHint": "দিন",
+    "addStartEventTime": "সময় শুরু",
+    "addEndEventTime": "শেষ সময়",
+    "addEventPoster": "ইভেন্ট পোস্টার",
+    "addEventAboutHint": "ইভেন্ট সম্পর্কে ..."  ,
+
+    "noContentAvailable" : "কোন কন্টেন্ট পাওয়া যায় না",
+    "noOtherPublication" : "প্রদর্শনের জন্য অন্য কোন প্রকাশনা নেই",
+
+
+    "trueKey" : "সত্য",
+    "falseKey" : "মিথ্যা",
+    "report" : "রিপোর্ট" ,
+    "dislike" : "অপছন্দ", 
+    "fiveMostRead" :  "সর্বাধিক পঠিত পাঁচটি",
+    "fiveMostViews" : "পাঁচটি সবচেয়ে বেশি দেখা",
+    "deletedPost" : "প্রকাশনা মুছে ফেলা হয়েছে",
+    "noPostDeletedYet" : "এখনো কোন প্রকাশনা মুছে যায়নি",
+
+
+    "interestAll" : "সব",
+    "interestWorld" : "বিশ্ব",
+    "interestBusiness" : "ব্যবসা এবং ফাইন্যান্স",
+    "interestLifestyle" : "জীবনধারা",
+    "interestTechnology" : "কম্পিউটার বিজ্ঞান ও প্রযুক্তি",
+    "interestSport" : "খেলাধুলা",
+    "interestHealth" : "স্বাস্থ্য ও চিকিৎসা",
+    "interestScience" : "বিজ্ঞান",
+    "interestEntertainment" : "বিনোদন",
+    "interestAgriculture" : "কৃষি",
+    "interestMechanical" : "মেকানিক্স",
+    "interestOther" : "অন্যান্য",
+
+    "filter" : "ছাঁকনি" , 
+    "watch" : "ওয়াচ",
+    "trending" : "ট্রেন্ডিং",
+    "home" : "বাড়ি",
+    "write" : "লিখুন",
+    "readLater" : "পরে পড়ুন",
+    "watchLater" : "পরে দেখুন",
+    "dashbord" : "ড্যাশবোর্ড",
+    "payment" : "পেমেন্ট",
+
+    "read": "পড়",
+    "biography" : "জীবনী",
+    "readMore" : "আরো পড়ুন",
+
+    "profileExperienceSnackBarCompanyName": "কোম্পানির নাম লিখুন",
+    "profileExperienceSnackBarJobTitle":  "কাজের শিরোনাম লিখুন",
+    "profileExperienceSnackBarInvalidPeriode":  "অবৈধ সময়কাল",
+    "addButton" : "যোগ করুন",
+
+    "profileInterest" : "আগ্রহ"
+
+    
+}

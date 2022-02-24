@@ -1,0 +1,600 @@
+{
+    "confirmButton": "继续",
+    "profileUnfolowButton": "退订",
+    "cancelButton": "取消",
+   
+  
+
+    "profileAbout": "关于",
+    "profileFollowing": "订阅",
+    "profileFollowers": "订户",
+   
+
+    "profileSkills": "教育背景",
+    "profileSkillsEstablishment": "成立",
+    "profileSkillsEstablishmentHint": "大学或研究所",
+    "profileSkillsDiploma": "文凭",
+    "profileSkillsDiplomaHint": "证书或文凭",
+    "deleteAsk": "你要继续吗 ？",
+    
+    "profileExperience": "经验",
+    "profileExperienceCompany": "公司",
+    "profileExperienceCompanyHint": "电视台、电台、报纸",
+    "profileExperienceJobTitle": "职称",
+    "profileExperienceJobTitleHint": "记者、编辑、记者",
+    "profileExperiencePeriode": "时期",
+    "profileExperiencePeriodeYear": "年",
+    
+
+    "profileContacts": "联系人",
+   
+   
+   
+   
+    "requiredFiled" : "必填字段",
+    "descriptionPoll" : "关于民意调查",
+
+    "articleReference" : "文章参考",
+    "snackBarAddParagph" : "添加至少一段",
+   
+
+    "createProfileNationality" : "国籍",
+    "createProfileChildren" : "孩子们",
+    "createProfileRelation" :"关系状态",
+    "createProfileEducation" :"教育",
+    "createProfileOccupation" :"职业",
+
+    "snackBarAddSteps" : "添加至少一个步骤",
+   
+   
+   
+   
+     
+    "like": "点赞数",
+    "postViewWrittenBy": "撰稿人",
+    "postViewUpdate": "更新",
+    "pictureBy": "图片由",
+    "videoBy": "视频由",
+    "views": "观看次数",
+
+
+
+
+    "pictureDetailsAddComment": "输入您的回复",
+    "commentModifer": "调整",
+    "commentDelete": "删除",
+    "commentReply": "回覆",
+    "inviteButton" : "邀请",
+    "iLikeButton" : "我喜欢",
+    "fullScreen" : "全屏",
+
+
+
+
+
+
+    "saveButton": "节省",
+    "message": "留言",
+    "notificationTitle": "通知",
+    "account" : "帐户",
+   
+   
+   
+    "contactUs" : "联系方式",
+    "aboutUs" : "大约",
+    "privacyPolicy": "隐私政策",
+    "cookiePolicy": "曲奇饼",
+    "copyrightPolicy": "版权政策",
+    "terms": "条款",
+    "help" : "救命",
+   
+   
+   
+    "accountMenuProfileSetting": "设置和隐私",
+    "accountMenuLogOut": "登出",
+    "seeYourProfile" : "查看您的个人资料",
+    "helpAndSupport" : "帮助与支持",
+    "accountEmail" : "帐户的电子邮件",
+    "changePassword" : "更改密码",
+    "location": "那个地点",
+    "language" : "该语言",
+    "newEmail" : "新邮件",
+    "currentPassword" : "当前密码",
+   
+   
+    "newEmailDescription" :  "将当前电子邮件添加到您的 Telltrue 帐户可以帮助您登录并接收通知以及轻松重置密码。",
+    "currentPassIsWrong" : "当前密码错误",
+    "passWordCondition" : "密码必须至少8个字符",
+
+
+
+
+
+
+    "messageSorryCannotSend" : "抱歉，您无法向此帐户发送消息",
+    "blockButton": "堵塞",
+    "suggestionChatUnBlock": "解除封锁",
+    "suggestionChatTypeMsg": "输入您的消息",
+    "suggestionChatDeleteConversation": "删除聊天",
+    "suggestionChatBlockMsgRequest": "阻止消息和呼叫 ?",
+    "suggestionChatBlocktitle2": "Telltrue 账号",
+    "suggestionChatBlockDescrip": "您无法在此聊天中给他们发消息或打电话，也不会收到他们的消息或电话。",
+    "suggestionChatBlocktitle1": "您阻止了来自",
+    "suggestionChatBlockMsgDescrip1": "您的 Telltrue 帐户不会收到来自",
+    "suggestionChatBlockMsgDescrip2": "的 Telltrue 帐户 \n 除非您将其隐藏，否则对话将保留在聊天中。",
+    "suggestionChatDeleteConversationDescrip": "删除此对话的副本后，便无法撤消。",
+
+
+
+    "messageNoMessageYet": "你还没有进行任何对话",
+    "messageStartMessage": "开始新的对话", 
+
+
+
+    "copyRight" : "©2021 Telltrue 公司。 版权所有。",
+    "addprofileImageDes" : "您的个人资料照片可帮助您的团队了解您在 Telltrue 中的身份。 如果您的照片清晰，别人会更容易在人群或会议中认出您！",
+    "personalPicture" : "个人照片",
+    "postPicture" : "发布图片",
+    "noPictureToshow" : "没有可显示的图片",
+    "pictureSetAsProfilePic": "设为头像",
+    "pictureDelete": "删除这张照片",
+    "pictureDeleteRequest": "您确定要删除这张照片吗？",
+
+    
+
+    "profilePicAndVid": "图片",
+    "profilePicturesOfYou": "你的照片",
+    "profileVideo": "视频",
+    "yourVideos": "你的视频",
+    "liveVideos": "直播视频",
+
+
+    "readers" : "读数",
+    "nobreakingNewsyet" : "还没有突发新闻",
+    "noBreakingNewsDes" :  "当你收到突发新闻时，他们会出现在这里",
+    "breakingNewsisAvailable" :   "遗憾的是，无法获得此突发新闻。",
+   
+    "noCommentYetTitle": "这里还没有回复...",
+    "noCommentsYetDes": "成为第一个分享您的想法的人！",
+    
+
+    "readLess" : "少读",
+    "vote": "投票",
+    "undo" : "取消",
+
+
+
+    "reportSelectProb" :  "请选择问题以继续",
+    "report1" : "不道德的内容",
+    "report2" : "琐碎的内容",
+    "report3" : "危害宗教的内容",
+    "report4" : "危害安全和煽动暴力的内容",
+    "sendButton" :  "发送",
+
+
+
+    "eventInterestedButton": "使感兴趣",
+    "eventNotInterestedButton": "不感兴趣",
+
+
+    "Participants" : "参会人员",
+    "career" : "生涯",
+    "closeButton" : "密切",
+    "abstrack": "抽象的",
+    "reference" : "参考文献",
+
+
+    "noVideoShow" : "没有可显示的视频",
+    "noLiveVideoShow" : "没有可显示的实时视频",
+    "noPubmatching" : "未找到匹配的出版物",
+    "noEventmatching" : "未找到匹配事件",
+    "noTelltruefound" :  "找不到匹配的 Telltrue 用户",
+    "result" : "结果",
+    "seeAllpub" : "查看所有发表结果",
+    "seeAllEvent" : "查看所有事件结果",
+    "telltrueUser": "Telltrue 用户",
+    "famousPersonIdentified" : "身份证明人",
+    "eventIdentified":"确定的事件",
+     "placeIdentified":"确定地点",
+     "all" :  "全部",
+     "addBy" : "添加者",
+
+
+
+     "seeAllpeople" : "查看所有人结果",
+     "searchTelltrue" : "搜索 Telltrue",
+     "searchFor" : "搜索 Telltrue",
+   
+
+
+     "suggestionsForyou" : "给你的建议",
+     "todayTopWritting": "今日头条",
+ 
+     "notificationNoYetTitle": "尚无通知",
+     "notificationNoYetDes": "当您收到通知时，它们会显示在此处",
+     "inviteYouToReadAn": "邀请你阅读",
+    "inviteYouToAnswer": "邀请你回答",
+    "inviteYouToWatch": "邀请你观看",
+    "inviteYouToSee": "邀请你看",
+    "inviteYouToReadEvent": "他邀请你看一个活动",
+    "notificationSubscribe": "开始关注您。",
+    "and": "与",
+    "other": "其他",
+    "commentedYour": "评论了你的帖子",
+    "likedYour": "对你的帖子做出反应",
+    "answerYour": "回答你的民意调查",
+    "reportYour" :"举报你的帖子",
+
+
+    "deletePostDescription" :  "此出版物可能是假的。\n 因此，它将从 Telltrue 中删除",
+    "notiDeletePost" : "很遗憾，我们将删除您的",
+    "fullNamerequired" : "输入您的护照或国民身份证上的全名。",
+
+    "chooseFile" : "选择一个文件",
+    "driver'sLicence" : "驾照",
+    "driverLicenceDes" : "上传驾照的照片或扫描件。",
+    "driverLicenceFrontSideTitle" : "驾驶执照的正面",
+    "driverLicenceFrontSideDes" : "上传驾照正面",
+    "nationalId": "国民身份证",
+    "nationalIdDes" : "上传文件的照片或扫描件。",
+    "nationalIdFrontSideTitle" : "文档的正面",
+    "nationalIdFrontSideDes" : "上传文档的正面",
+
+    "nationalIdBackSideTitle" : "文档的背面",
+    "nationalIdBackSideDes" : "上传文件的背面",
+
+    "passport" : "护照",
+    "passportDes" : "上传护照照片页的照片或扫描件。",
+    "passportUploadDes" : "带图片的详细信息页面",
+    "chooseOtherOption" : "选择不同的身份证件",
+
+
+    "driverLicenceBackSideTitle" : "驾照背面",
+    "driverLicenceBackideDes" :"上传驾照背面",
+    "uploadAproofOfidendity" : "上传您的身份证明",
+    "chooseCountryDes":  "请选择签发您手头身份证件的国家/地区。",
+    "countryDropDowntitle" : "身份证签发国",
+    "selectCountry" : "选择国家...",
+    "documentType" : "文件类型",
+    "selectDocType" : "选择文档类型",
+
+
+
+
+
+
+    "firstAndlastName" : "完整的合法名字和姓氏",
+    "firstAndMiddleName" : "完整的合法名字和中间名",
+    "spellYourName" : "准确拼写您的护照或身份证上显示的姓名。",
+    "fullLegalLastName": "完整的合法姓氏",
+    "spellHomeTwon": "输入您的家乡，因为它写在您的护照或国民身份证上。",
+    "spellCurrentLocation" : "输入您的当前位置，因为它写在您的护照或国民身份证上。",
+    "passwordConditions" : "密码必须包含一个字母和一个数字，并且最少为 8 个字符",
+    "birthDayCondition" : "输入您的生日，因为它写在您的护照或国民身份证上。",
+    "phone" : "电话",
+    "phoneNumber" : "电话号码",
+    "theAccountAlready": "该电子邮件的帐户已存在",
+    "welcomeToOurteam" : "欢迎加入我们的团队",
+
+
+    "snackBarNoUserFound": "No user found for that identifier",
+    "snackBarWrongPassword": "Wrong Password",
+
+
+
+
+    "teltrueSayHey" : "嘿！",
+    "teltrueWelcomIntro":"\n唯一以记者为主导的平台",
+    "formIdentifierLoginPage" : "识别码",
+    "formPasswordLoginPage" : "密码",
+    "onlyReaderOptionSignIn" : "或（仅限读者）",
+    "forgotPasswordLoginPage" : "忘记密码 ？",
+    "askForSignUpLoginPage" : "还没有帐号？",
+    "signUpFlatButtonLoginPage" : "注册",
+    "connectButtonLoginPage" : "登录",
+    "appBarTitleResetPassword" : "重设密码",
+    "subtitleResetPassword" : "步骤1：找到您的帐户",
+    "descriptionResetPassword" : "我们只需要您注册的电子邮件向您发送密码重置代码",
+    "hintTextResetPassword" : "正确输入您的电子邮件",
+    "sendRequestResetPassword" : "发送请求",
+
+    "subtitlePassCode" : "步骤2：验证码",
+    "descriptionPassCode" : "输入我们刚刚在您注册时发送给您的验证码",
+    "hintTextPassCode" : "码",
+    "resendCodeFlatButtonPassCode" : "重新发送验证码 ！",
+    "verifybuttonPassCode" : "校验",
+    "subtitleCreateNewPassword" : "步骤3：建立新密码",
+    "descriptionCreateNewPassword" : "您的新密码必须与以前使用的密码不同",
+    "hintTextNewPassword" : "新密码",
+    "hintTextConfirmNewPassword" : "确认新密码",
+    "resetPasswordCreatePassword" : "重设密码",
+
+     "yesItsMeButton" : "是的，是我",
+    "tryAgainButton" : "再试一次",
+    "noAccountAttachedDes" : "抱歉，此电子邮件未附加任何帐户",
+    "taostConfirmThePassWord" : "请确认密码",
+    "toastInvalidCode": "无效的代码",
+
+
+    "subtitleSignUpMode" : "你是谁 ？",
+    "descriptionSignUpMode" : "您准备好以记者，简易读者或媒体（报纸，广播，电视...）的身份加入我们的行列",
+    "iamReaderSignUpMode" : "我是读者",
+    "iamJournalistSignUpMode" : "我是记者",
+    "weareMediaSignUpMode" : "我们是媒体",
+
+
+    "hintTextFullNameSignUpWithEmail": "标识符相同",
+    "fullNameTitleSignUpWithEmail": "全名",
+    "emailTitleSignUpWithEmail": "官方电子邮件地址",
+    "locationTitleSignUpWithEmail": "当前位置",
+    "genderSignUpWithEmail": "性别",
+    "hintTextGetLocationSignUpWithEmail": "国家城市",
+    
+    "hintTextIdentifierSignUpWithEmail" : "电子邮件地址",
+    "hintTextPasswordSignUpWithEmail" : "密码",
+    "hintTextConfirmPasswordSignUpWithEmail" : "确认密码",
+    
+    "hintTextSelectMale" : "男",
+    "hintTextSelectFemale" : "女",
+    "nextButton": "下一个",
+    "snackBarInvalidFullName" : "输入您的全名 ！",
+    "snackBarInvalidEmail" : "输入有效的电子邮件地址！",
+    "snackBarInvalidPassword" : "密码必须包含8个字符！",
+    "snackBarInvalidConfirmPassword" : "确认你的密码",
+    "snackBarInvalidLocation" : "选择当前位置",
+
+    
+
+
+    "subtitleJournalistSignUpWorkSpace" : "工作区名称",
+    "subtitleJournalistSignUpBirthday" : "出生日期",
+    "subtitleJournalistSignUpUploadId" : "上载您的带照片的身份证",
+    "hintTextChannelNameJournalistSignUp" : "电视或广播或报纸...",
+
+    "hintTextYear" : "年",
+    "hintTextDay" : "天",
+    "hintTextMonth" : "月",
+    "descriptionUploadPhotoId" : "为了确保您的身份，我们需要您上传政府签发的身份证件的彩色照片。 您的身份证应包括您的姓名，出生日期和照片。 \n可接受的ID包括：\n-护照\n-国家ID卡\n-驾照\n一旦我们收到并查看了您ID的清晰照片，我们将从我们的服务器上删除您的身份证件",
+    "choosePhotoButton" : "选择照片",
+    "snackBarUploadImageId" : "图片上传成功",
+    "snackBarInvalidBirthday" : "输入出生的有效日期！",
+    "snackBarSince" : "输入有效的开始日期！",
+    "snackBarInvalidUpload" : "您必须上传您的身份证照片",
+    
+
+
+    "journalistReporter" : "记者兼记者",
+    "journalistWriter" : "记者兼作家",
+    "journalistAnimator" : "记者兼主持人",
+    "photoJournalist" : "摄影记者",
+    "journalistEditor" : "记者兼编辑",
+    "tvColumnist" : "电视专栏作家",
+    "freelanceJournalist" : "自由记者",
+    "investigativeJournalist" : "调查记者",
+    "onlineJournalistBloger" : "在线记者和博客",
+    "subtitleReviewPage" : "成功！",
+    "descriptionP1ReviewPage" : "谢谢",
+    "descriptionP3ReviewPage" : "，我们已经收到您的新闻记者帐户要求，我们正在审查该帐户（24小时）。 请注意，您的ID将在确认您的身份后的30天内安全地存储和删除",
+    "snackBarSelectOption" : "您必须选择选项",
+
+
+    "doneButton" : "完成了",
+    "appBarTitleAddProfileImage" : "个人资料图片",
+    "subtitleWelcomePage" : "您已成功在我们的应用程序中注册，可以开始使用它了",
+    "startButton" : "开始",
+    "photoLibrary" : "照片库",
+    "photoCamera" : "相机",
+
+    "appBarTitleSuggestion" : "建议遵循",
+    "descriptionSuggestion" : "从寻找记者或媒体开始，选择一些您感兴趣的主题，以帮助您个性化您的Teltrue体验。",
+    "subtitleSuggestion1" : "的记者",
+    "subtitleSuggestion2" : "电视和广播" ,
+    "subtitleSuggestion3" : "报纸杂志",
+    "noJournalistYet" : "您所在国家/地区的新闻工作者尚未注册",
+    "noTvRadioYet" : "您所在国家/地区的电视或电台尚未注册",
+    "noNewspaperMagazine" : "您所在国家/地区的报纸或杂志尚未注册",
+
+    "addPostSearchPlaceHint": "找地方",
+    "addPostSearchEventHint": "查找当前事件标题",
+    "addPostSearchPersonHint": "查找名人姓名",
+    "tagPerson": "名人",
+    "tagEvent": "事件",
+    "tagPlace": "地方",
+    "addPostBreakingNewsDesHint": "告诉我们发生了什么 ",
+    "snackBarTopic": "您必须选择主题",
+
+    "createPostCommentary" : "评论与观点",
+    "feel" : "感觉",
+
+    "createPostQuestionDes": "民意调查类似于旨在以科学和公正的方式衡量公众对特定问题或一系列问题的意见的调查或调查",
+    "feelingHappy": "感到开心",
+    "feelingCool": "感觉很酷",
+    "feelingSurprised": "感到惊讶",
+    "feelingShocked": "感到震惊",
+    "feelingNervous": "感到紧张",
+    "feelingAngry": "生气",
+    "feelingDrool": "感觉流口水",
+    "feelingSweat": "感觉在尖叫",
+    "feelingCrying": "感觉在哭",
+    "feelingSad": "感到难过",
+    "feelingDead": "感觉死了",
+    "feelingDubious": "感觉可疑",
+    "feelingTired": "感到疲倦",
+    "feelingLoved": "感觉被爱",
+    "feelingPain": "感到疼痛",
+    "feelingMuted": "感觉很安静",
+    "feelingGreed": "感到贪婪",
+    "feelingSick": "感觉不舒服",
+    
+
+    "pollTitle" : "轮询",
+    "choiceOne" : "选择一",
+    "choiceTwo" : "选择二",
+    "choiceThree" : "选择三",
+    "pollLength" : "轮询长度",
+    "days" : "天",
+    "hours" : "小时",
+    "Minutes" : "分钟",
+
+    "addPostArticle": "研究文章",
+    "addPostArticleGeneralTitle": "总称",
+    "addPostArticleWrittersHintText": "作家",
+    "addPostArticleKeywords": "关键词",
+    "addPostArticleCoresspondence": "一致",
+    "addPostArticleAbstract": "在这里写摘要",
+
+    "addPostArticleFirstPartTitle" : "第一部分标题",
+    "addPostArticleSecondPartTitle" : "第二部分标题",
+    "addPostArticleThirdPartTitle" : "第三部分标题",
+    "addPostArticleFourthPartTitle" : "第四部分标题",
+
+    "addPostArticleFirstPartDes" : "第一部分说明",
+    "addPostArticleSecondPartDes" : "第二部分说明",
+    "addPostArticleThirdPartDes" : "第三部分说明",
+    "addPostArticleFourthPartDes" : "第四部分说明",
+    "addPostArticleConclusion" : "结论",
+
+    "addPostArticleIntro": "介绍",
+    "unDoneDialogDiscardPost":   "丢弃帖子",
+    "unDoneDialogDiscardDes":   "此操作无法撤消，您将丢失草稿。",
+    "unDoneDialogDiscardButton":  "丢弃",
+
+    "createHowToTitle"  :"如何？",
+    "createHowToSuplliesHintText" : "用品",
+    "createHowToThinkInStep" : "分步思考",
+    "createHowToStepTitleHintText" : "步骤标题（可选）",
+    "createHowToStepDetailsHintText" :  "步骤详情",
+    "createHowToShowResult" : "显示结果",
+    "createHowToAddStepButton" :  "添加步骤",
+
+    "snackBarSupplies" : "你需要写下一些用品",
+    "snackBarSteps" : "你需要写下一些步骤",
+    "snackBarBiography" : "请写下一些关于",
+
+    "createProfiletitle" : "个性简介",
+    "createProfileAgeHintText" : "年龄",
+    "createProfileHomeTwonHintText": "家乡",
+    "createProfilecurrentCityHintText" : "当前城市",
+    "createProfileCvHintText" : "个人简历",
+
+    "createAnalysisAddpart": "添加段落",
+    "createAnalysisTitle": "分析和审查",
+    "createAnalysisPartTitle": "段落标题",
+    "createAnalysisPartDetails": "段落详情",
+
+    "feelingButton": "情怀",
+    "topicButton": "话题",
+    "uploadButton": "上传",
+
+    "snackBarEmptyTitle" : "请输入标题",
+    "snackBarEmptyDes" : "请在描述框中输入一些词",
+    "snackBarEmptyParagraph" : "请至少输入一段",
+
+    "broadcastingHintTextDes" : "广播说明",
+    "inPictureHintTextDes" : "图片说明",
+
+    "createStoryTitle" : "故事",
+    "createStorytitleHintText" : "故事标题（可选）",
+    "createStoryDesHintText" : "在这里写下你的故事",
+
+    "createPostBreakingNewsDes": "今天的突发新闻",
+    "createPostLastestNewsTitle" : "最新消息",
+    "createPostLastestNewsDes" : "查找有关头条新闻、天气、商业、娱乐、政治等的最新消息和信息。",
+    "createPostCommentaryDes" : "评论通常是由 1,000 到 1,500 字组成的短文，它们会引起人们对已经出版的书籍、报告或文章的关注或批评。",
+    "createPostEssay" : "散文",
+    "createPostEssayDes" : "大多数文章都是关于个人经历或意见的中短篇文章。通常，一篇文章围绕一个主题并提出您的观点。",
+    "createPostHowToDes" : "这些说明性文章包含帮助读者执行特定操作的步骤、方法或技巧。他们提供问题的（解决方案）或问题的答案",
+    "createPostProfileDes" : "这类文章围绕一个人的生活（不是你的）和成就展开。根据采访，您深入了解了她的生活......",
+    "createPostAnalysisDes" : "评论文章对现有文献进行了建设性和批判性的分析，通过分析、比较和总结来完成。他们可以找出具体的问题或差距，甚至可以为未来的研究提供建议。", 
+    "createPostStoryDes" : "故事、新闻、历史、传奇、科幻小说、短篇小说、悲剧、喜剧",
+    "createPostSponsored" : "赞助",
+    "createPostSponsoredDes" : "赞助内容文章本质上是一种广告。它们看起来和阅读起来都像普通社论，但它们是由特定的广告商付费的。"
+    ,"createPostArticleDes": "研究文章是非常详细的研究报告原始研究。 被视为主要文献，原创研究文章包括背景研究、方法、假设、结果和对研究结果的解释",
+
+
+    "createPostBreakingNewsTitle": "爆炸新闻",
+    "createPostBroadcastTitle": "广播",
+    "createPostInpicTitle": "画中画",
+    "createPostInvestigationTitle": "调查",
+   
+
+    "addPostBreakingNewsTitleHint": "突发新闻标题",
+   
+
+    "createPostBroadCastDes": "分享有关事件的新闻采访、报道或直播，并附上简短说明",
+    "createPostInPicDes": "让图片说话！",
+    "createPostInvestigationDes": "与真实的证据或目击者分享您对犯罪或实际现象或灾难的调查",
+    "createPostEvent": "策划文化活动或工作活动",
+
+    "tagTypeToSearch" : "键入以搜索",
+    "tagNoTagSearchFound" : "找到无标签搜索",
+
+
+    "tagSearchNumberOf" : "Teltrue 人们发帖讨论这个",
+    "useButton" :"用这个",
+    "addPostOpinionHint" : "你怎么看",
+    "addPostEssayDesHintText" : "描述观点或个人经历",
+    "askQuestionTitleHint": "问一些事情",
+
+    "addEventTitle" : "举办活动",
+    "addEventTitleHint": "活动标题",
+    "addEventPlaceLabel": "活动地点",
+    "addEventPlaceHint": "酒店、会议厅、街道地址、在线活动",
+    "addEventSpeakerLabel": "主持人",
+    "addEventSpeakerHint": "演讲者全名",
+    "addEventDateLabel": "日期",
+    "addEventMonthHint": "月",
+    "addEventDayHint": "天",
+    "addStartEventTime": "开始时间",
+    "addEndEventTime": "时间结束",
+    "addEventPoster": "活动海报",
+    "addEventAboutHint": "关于活动..."  ,
+
+    "noContentAvailable" : "没有可用的内容",
+    "noOtherPublication" : "没有其他出版物可显示",
+
+    "trueKey" : "真的",
+    "falseKey" : "虚假",
+    "report" : "报告" ,
+    "dislike" : "反感", 
+    "fiveMostRead" :  "最常阅读的五个",
+    "fiveMostViews" : "观看次数最多的五个",
+    "deletedPost" : "已删除的出版物",
+    "noPostDeletedYet" : "尚未删除任何出版物",
+
+    "interestAll" : "全部",
+    "interestWorld" : "世界",
+    "interestBusiness" : "商业和金融",
+    "interestLifestyle" : "生活方式",
+    "interestTechnology" : "技术",
+    "interestSport" : "运动",
+    "interestHealth" : "健康与医学",
+    "interestScience" : "科学",
+    "interestEntertainment" : "娱乐",
+    "interestAgriculture" : "农业",
+    "interestMechanical" : "力学",
+    "interestOther" : "其他",
+
+
+    "filter" : "筛选" , 
+    "watch" : "手表",
+    "trending" : "趋势",
+    "home" : "主页",
+    "write" : "写",
+    "readLater" : "稍后阅读",
+    "watchLater" : "稍后观看",
+    "dashbord" : "仪表板",
+    "payment" : "付款",
+
+    "read": "读",
+    "biography" : "传记",
+    "readMore" : "阅读更多",
+
+    "profileExperienceSnackBarCompanyName": "输入公司名称",
+    "profileExperienceSnackBarJobTitle":  "输入职位名称",
+    "profileExperienceSnackBarInvalidPeriode":  "无效期间",
+    "addButton" : "添加"
+
+    ,"profileInterest" : "兴趣"
+
+}

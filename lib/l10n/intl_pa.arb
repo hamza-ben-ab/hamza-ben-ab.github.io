@@ -1,0 +1,588 @@
+{
+    "confirmButton": "ਜਾਰੀ ਰੱਖੋ",
+    "profileUnfolowButton": "ਗਾਹਕੀ ਹਟਾਉ",
+    "cancelButton": "ਰੱਦ ਕਰੋ",
+   
+  
+
+    "profileAbout": "ਬਾਰੇ",
+    "profileFollowing": "ਗਾਹਕੀਆਂ",
+    "profileFollowers": "ਗਾਹਕ",
+   
+
+    "profileSkills": "ਸਿੱਖਿਆ ਪਿਛੋਕੜ",
+    "profileSkillsEstablishment": "ਸਥਾਪਨਾ",
+    "profileSkillsEstablishmentHint": "ਯੂਨੀਵਰਸਿਟੀ ਜਾਂ ਸੰਸਥਾ",
+    "profileSkillsDiploma": "ਡਿਪਲੋਮਾ",
+    "profileSkillsDiplomaHint": "ਸਰਟੀਫਿਕੇਟ ਜਾਂ ਡਿਪਲੋਮਾ",
+    "deleteAsk": "ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+    
+    "profileExperience": "ਅਨੁਭਵ",
+    "profileExperienceCompany": "ਕੰਪਨੀ",
+    "profileExperienceCompanyHint": "ਟੀਵੀ ਸਟੇਸ਼ਨ, ਰੇਡੀਓ, ਅਖ਼ਬਾਰ",
+    "profileExperienceJobTitle": "ਕੰਮ ਦਾ ਟਾਈਟਲ",
+    "profileExperienceJobTitleHint": "ਪੱਤਰਕਾਰ, ਸੰਪਾਦਕ, ਰਿਪੋਰਟਰ",
+    "profileExperiencePeriode": "ਪੀਰੀਅਡ",
+    "profileExperiencePeriodeYear": "ਵਰ੍ਹਾ",
+    
+    
+    "profileContacts": "ਸੰਪਰਕਾਂ",
+    
+    
+    
+    "requiredFiled" : "ਖੇਤਰ ਦੀ ਲੋੜ ਹੈ",
+    "descriptionPoll" : "ਪੋਲ ਬਾਰੇ",
+
+    "articleReference" : "ਲੇਖ ਹਵਾਲੇ",
+    "snackBarAddParagph" : "ਘੱਟੋ ਘੱਟ ਇੱਕ ਪੈਰਾ ਸ਼ਾਮਲ ਕਰੋ",
+   
+
+    "createProfileNationality" : "ਕੌਮੀਅਤ",
+    "createProfileChildren" : "ਬੱਚੇ",
+    "createProfileRelation" :"ਰਿਸ਼ਤਾ ਹਾਲਤ",
+    "createProfileEducation" :"ਸਿੱਖਿਆ",
+    "createProfileOccupation" :"ਕਿੱਤਾ",
+
+    "snackBarAddSteps" : "ਘੱਟੋ ਘੱਟ ਇੱਕ ਕਦਮ ਸ਼ਾਮਲ ਕਰੋ",
+    
+    
+     
+    "like": "ਪਸੰਦ",
+    "postViewWrittenBy": "ਦੁਆਰਾ ਲਿਖਿਆ ਗਿਆ",
+    "postViewUpdate": "ਅੱਪਡੇਟ ਕਰੋ",
+    "pictureBy": "ਦੁਆਰਾ ਤਸਵੀਰ",
+    "videoBy": "ਦੁਆਰਾ ਵੀਡੀਓ",
+    "views": "ਦ੍ਰਿਸ਼",
+
+
+
+    "pictureDetailsAddComment": "ਆਪਣਾ ਜਵਾਬ ਟਾਈਪ ਕਰੋ",
+    "commentModifer": "ਸੋਧ",
+    "commentDelete": "ਮਿਟਾਓ",
+    "commentReply": "ਜਵਾਬ",
+    "inviteButton" : "ਸੱਦਾ ਦਿਓ",
+    "iLikeButton" : "ਮੈਨੂੰ ਪਿਆਰ ਹੈ",
+    "fullScreen" : "ਪੂਰੀ-ਸਕ੍ਰੀਨ",
+
+
+
+
+    "saveButton": "ਸੰਭਾਲੋ",
+    "message": "ਸੁਨੇਹੇ",
+    "notificationTitle": "ਸੂਚਨਾਵਾਂ",
+    "account" : "ਖਾਤਾ",
+
+
+
+    "contactUs" : "ਸੰਪਰਕ",
+    "aboutUs" : "ਬਾਰੇ",
+    "privacyPolicy": "ਪਰਾਈਵੇਟ ਨੀਤੀ",
+    "cookiePolicy": "ਕੂਕੀ",
+    "copyrightPolicy": "ਕਾਪੀਰਾਈਟ ਨੀਤੀ",
+    "terms": "ਸ਼ਰਤਾਂ",
+    "help" : "ਮਦਦ ਕਰੋ",
+
+
+
+    "accountMenuProfileSetting": "ਸੈਟਿੰਗ ਅਤੇ ਗੋਪਨੀਯਤਾ",
+    "accountMenuLogOut": "ਲਾੱਗ ਆਊਟ, ਬਾਹਰ ਆਉਣਾ",
+    "seeYourProfile" : "ਆਪਣੀ ਪ੍ਰੋਫਾਈਲ ਵੇਖੋ",
+    "helpAndSupport" : "ਮਦਦ ਅਤੇ ਸਹਾਇਤਾ",
+    "accountEmail" : "ਖਾਤਾ ਈਮੇਲ",
+    "changePassword" : "ਪਾਸਵਰਡ ਬਦਲੋ",
+    "location": "ਟਿਕਾਣਾ",
+    "language" : "ਭਾਸ਼ਾ",
+    "newEmail" : "ਨਵੀਂ ਈਮੇਲ",
+    "currentPassword" : "ਵਰਤਮਾਨ ਪਾਸਵਰਡ",
+    
+    "newEmailDescription" :  "ਆਪਣੇ Telltrue ਖਾਤੇ ਵਿੱਚ ਇੱਕ ਮੌਜੂਦਾ ਈਮੇਲ ਜੋੜਨਾ ਤੁਹਾਨੂੰ ਲੌਗ ਇਨ ਕਰਨ ਅਤੇ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਨਾਲ ਨਾਲ ਆਪਣਾ ਪਾਸਵਰਡ ਅਸਾਨੀ ਨਾਲ ਰੀਸੈਟ ਕਰਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰ ਸਕਦਾ ਹੈ.",
+    "currentPassIsWrong" : "ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਗਲਤ ਹੈ",
+    "passWordCondition" : "ਪਾਸਵਰਡ ਘੱਟੋ ਘੱਟ 8 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+
+
+
+
+
+    "messageSorryCannotSend" : "ਮੁਆਫ ਕਰਨਾ, ਤੁਸੀਂ ਇਸ ਖਾਤੇ ਨੂੰ ਸੁਨੇਹਾ ਨਹੀਂ ਭੇਜ ਸਕਦੇ",
+    "blockButton": "ਬਲਾਕ",
+    "suggestionChatUnBlock": "ਅਨਬਲੌਕ ਕਰੋ",
+    "suggestionChatTypeMsg": "ਆਪਣਾ ਸੁਨੇਹਾ ਟਾਈਪ ਕਰੋ",
+    "suggestionChatDeleteConversation": "ਚੈਟ ਮਿਟਾਓ",
+    "suggestionChatBlockMsgRequest": "ਸੁਨੇਹੇ ਅਤੇ ਕਾਲਾਂ ਨੂੰ ਬਲੌਕ ਕਰੀਏ?",
+    "suggestionChatBlocktitle2": "Telltrue ਖਾਤਾ",
+    "suggestionChatBlockDescrip": "ਤੁਸੀਂ ਇਸ ਚੈਟ ਵਿੱਚ ਉਨ੍ਹਾਂ ਨੂੰ ਸੁਨੇਹਾ ਜਾਂ ਕਾਲ ਨਹੀਂ ਕਰ ਸਕਦੇ, ਅਤੇ ਤੁਸੀਂ ਉਨ੍ਹਾਂ ਦੇ ਸੰਦੇਸ਼ ਜਾਂ ਕਾਲਾਂ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰੋਗੇ.",
+    "suggestionChatBlocktitle1": "ਤੁਸੀਂ ਸੁਨੇਹੇ ਅਤੇ ਕਾਲਾਂ ਨੂੰ ਬਲੌਕ ਕੀਤਾ",
+    "suggestionChatBlockMsgDescrip1": "ਤੁਹਾਡਾ Telltrue ਖਾਤਾ ਸੁਨੇਹੇ ਜਾਂ ਕਾਲਾਂ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰੇਗਾ",
+    "suggestionChatBlockMsgDescrip2": "ਦਾ ਟੈਲਟਰੂ ਖਾਤਾ \n ਗੱਲਬਾਤ ਗੱਲਬਾਤ ਵਿੱਚ ਰਹੇਗੀ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਇਸਨੂੰ ਲੁਕਾਉਂਦੇ ਨਹੀਂ ਹੋ.",
+    "suggestionChatDeleteConversationDescrip": "ਇੱਕ ਵਾਰ ਜਦੋਂ ਤੁਸੀਂ ਇਸ ਗੱਲਬਾਤ ਦੀ ਆਪਣੀ ਕਾਪੀ ਮਿਟਾ ਦਿੰਦੇ ਹੋ, ਤਾਂ ਇਸਨੂੰ ਵਾਪਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ.",
+
+
+
+
+    "messageNoMessageYet": "ਤੁਸੀਂ ਅਜੇ ਕੋਈ ਗੱਲਬਾਤ ਨਹੀਂ ਕੀਤੀ",
+    "messageStartMessage": "ਇੱਕ ਨਵੀਂ ਗੱਲਬਾਤ ਸ਼ੁਰੂ ਕਰੋ",
+
+
+    "copyRight" : "©2021 ਟੈਲਟਰੂ ਕੰਪਨੀ. ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ.",
+    "addprofileImageDes" :   "ਤੁਹਾਡੀ ਪ੍ਰੋਫਾਈਲ ਫੋਟੋ ਤੁਹਾਡੀ ਟੀਮ ਨੂੰ ਇਹ ਜਾਣਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਦੀ ਹੈ ਕਿ ਤੁਸੀਂ ਟੈਲਟ੍ਰੂ ਵਿੱਚ ਕੌਣ ਹੋ. ਅਤੇ ਜੇ ਤੁਹਾਡੀ ਫੋਟੋ ਸਾਫ਼ ਹੈ, ਤਾਂ ਕਿਸੇ ਲਈ ਭੀੜ ਜਾਂ ਮੀਟਿੰਗ ਵਿੱਚ ਤੁਹਾਨੂੰ ਬਾਹਰ ਕੱਣਾ ਸੌਖਾ ਹੋ ਜਾਵੇਗਾ!",
+    "personalPicture" : "ਨਿੱਜੀ ਤਸਵੀਰਾਂ",
+    "postPicture" : "ਤਸਵੀਰਾਂ ਪੋਸਟ ਕਰੋ",
+    "noPictureToshow" : "ਦਿਖਾਉਣ ਲਈ ਕੋਈ ਤਸਵੀਰਾਂ ਨਹੀਂ",
+    "pictureSetAsProfilePic": "ਪ੍ਰੋਫਾਈਲ ਤਸਵੀਰ ਦੇ ਤੌਰ ਤੇ ਸੈਟ ਕਰੋ",
+    "pictureDelete": "ਇਸ ਫੋਟੋ ਨੂੰ ਮਿਟਾਓ",
+    "pictureDeleteRequest": "ਕੀ ਤੁਸੀਂ ਪੱਕਾ ਇਸ ਫੋਟੋ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+
+
+
+    "profilePicAndVid": "ਤਸਵੀਰਾਂ",
+    "profilePicturesOfYou": "ਤੁਹਾਡੀਆਂ ਤਸਵੀਰਾਂ",
+    "profileVideo": "ਵਿਡੀਓਜ਼",
+    "yourVideos": "ਤੁਹਾਡੇ ਵਿਡੀਓਜ਼",
+    "liveVideos": "ਲਾਈਵ ਵੀਡੀਓਜ਼",
+
+
+
+    "readers" : "ਰੀਡਿੰਗਜ਼",
+    "nobreakingNewsyet" : "ਅਜੇ ਤੱਕ ਕੋਈ ਤਾਜ਼ਾ ਖਬਰ ਨਹੀਂ",
+    "noBreakingNewsDes" :  "ਜਦੋਂ ਤੁਹਾਨੂੰ ਤਾਜ਼ਾ ਖਬਰਾਂ ਮਿਲਦੀਆਂ ਹਨ, ਉਹ ਇੱਥੇ ਦਿਖਾਈ ਦੇਣਗੀਆਂ",
+    "breakingNewsisAvailable" :   "ਇਹ ਬ੍ਰੇਕਿੰਗ ਨਿ newsਜ਼ ਬਦਕਿਸਮਤੀ ਨਾਲ ਉਪਲਬਧ ਨਹੀਂ ਹੈ.",
+   
+    "noCommentYetTitle": "ਇੱਥੇ ਅਜੇ ਤੱਕ ਕੋਈ ਜਵਾਬ ਨਹੀਂ ਹੈ ...",
+    "noCommentsYetDes": "ਆਪਣੇ ਵਿਚਾਰ ਸਾਂਝੇ ਕਰਨ ਵਾਲੇ ਪਹਿਲੇ ਵਿਅਕਤੀ ਬਣੋ!",
+    
+    "readLess" : "ਘੱਟ ਪੜ੍ਹੋ",
+    "vote": "ਵੋਟ",
+    "undo" : "ਵਾਪਿਸ",
+
+
+
+
+    "reportSelectProb" :  "ਕਿਰਪਾ ਕਰਕੇ ਜਾਰੀ ਰੱਖਣ ਲਈ ਇੱਕ ਸਮੱਸਿਆ ਚੁਣੋ",
+    "report1" : "ਅਨੈਤਿਕ ਸਮੱਗਰੀ",
+    "report2" : "ਮਾਮੂਲੀ ਸਮਗਰੀ",
+    "report3" : "ਅਜਿਹੀ ਸਮੱਗਰੀ ਜੋ ਧਰਮ ਨੂੰ ਨੁਕਸਾਨ ਪਹੁੰਚਾਉਂਦੀ ਹੈ",
+    "report4" : "ਅਜਿਹੀ ਸਮੱਗਰੀ ਜੋ ਸੁਰੱਖਿਆ ਨੂੰ ਨੁਕਸਾਨ ਪਹੁੰਚਾਉਂਦੀ ਹੈ ਅਤੇ ਹਿੰਸਾ ਨੂੰ ਭੜਕਾਉਂਦੀ ਹੈ",
+    "sendButton" :  "ਭੇਜੋ",
+
+
+
+    "eventInterestedButton": "ਦਿਲਚਸਪੀ ਹੈ",
+    "eventNotInterestedButton": "ਦਿਲਚਸਪੀ ਨਹੀਂ ਹੈ",
+
+
+    "Participants" : "ਭਾਗ ਲੈਣ ਵਾਲੇ",
+    "career" : "ਕੈਰੀਅਰ",
+    "closeButton" : "ਬੰਦ ਕਰੋ",
+    "abstrack": "ਐਬਸਟਰੈਕਟ",
+    "reference" : "ਹਵਾਲੇ",
+
+
+
+
+    "noVideoShow" : "ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਕੋਈ ਵੀਡੀਓ ਨਹੀਂ ਹਨ",
+    "noLiveVideoShow" : "ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਕੋਈ ਲਾਈਵ ਵੀਡੀਓ ਨਹੀਂ ਹੈ",
+    "noPubmatching" : "ਕੋਈ ਮੇਲ ਖਾਂਦਾ ਪ੍ਰਕਾਸ਼ਨ ਨਹੀਂ ਮਿਲਿਆ",
+    "noEventmatching" : "ਕੋਈ ਮੇਲ ਖਾਂਦਾ ਇਵੈਂਟ ਨਹੀਂ ਮਿਲਿਆ",
+    "noTelltruefound" :  "ਕੋਈ ਮੇਲ ਖਾਂਦਾ Telltrue ਉਪਭੋਗਤਾ ਨਹੀਂ ਮਿਲਿਆ",
+    "result" : "ਨਤੀਜਾ",
+    "seeAllpub" : "ਸਾਰੇ ਪ੍ਰਕਾਸ਼ਨਾਂ ਦੇ ਨਤੀਜੇ ਵੇਖੋ",
+    "seeAllEvent" : "ਸਾਰੇ ਇਵੈਂਟ ਨਤੀਜੇ ਵੇਖੋ",
+    "telltrueUser": "ਉਪਭੋਗਤਾ",
+    "famousPersonIdentified" : "ਪਛਾਣਿਆ ਗਿਆ ਵਿਅਕਤੀ",
+    "eventIdentified":"ਪਛਾਣ ਕੀਤੀ ਘਟਨਾ",
+     "placeIdentified":"ਪਛਾਣ ਕੀਤੀ ਥਾਂ",
+     "all" :  "ਸਾਰੇ",
+     "addBy" : "ਦੁਆਰਾ ਜੋੜਿਆ ਗਿਆ",
+
+
+ 
+
+
+     "seeAllpeople" : "ਸਾਰੇ ਲੋਕਾਂ ਦੇ ਨਤੀਜੇ ਦੇਖੋ",
+     "searchTelltrue" : "Telltrue ਖੋਜੋ",
+     "searchFor" : "ਲਈ ਖੋਜ",
+    
+     "suggestionsForyou" : "ਤੁਹਾਡੇ ਲਈ ਸੁਝਾਅ",
+     "todayTopWritting": "ਅੱਜ ਦੀ ਪ੍ਰਮੁੱਖ ਲਿਖਤ",
+ 
+     "notificationNoYetTitle": "ਅਜੇ ਤੱਕ ਕੋਈ ਸੂਚਨਾਵਾਂ ਨਹੀਂ ਹਨ",
+     "notificationNoYetDes": "ਜਦੋਂ ਤੁਸੀਂ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਦੇ ਹੋ, ਤਾਂ ਉਹ ਇੱਥੇ ਦਿਖਾਈ ਦੇਣਗੇ",
+     "inviteYouToReadAn": "ਤੁਹਾਨੂੰ ਪੜ੍ਹਨ ਲਈ ਸੱਦਾ",
+    "inviteYouToAnswer": "ਤੁਹਾਨੂੰ ਜਵਾਬ ਦੇਣ ਲਈ ਸੱਦਾ",
+    "inviteYouToWatch": "ਤੁਹਾਨੂੰ ਦੇਖਣ ਲਈ ਸੱਦਾ ਦਿੰਦਾ ਹੈ",
+    "inviteYouToSee": "ਤੁਹਾਨੂੰ ਦੇਖਣ ਲਈ ਸੱਦਾ",
+    "inviteYouToReadEvent": "ਉਹ ਤੁਹਾਨੂੰ ਇੱਕ ਸਮਾਗਮ ਦੇਖਣ ਲਈ ਸੱਦਾ ਦਿੰਦਾ ਹੈ",
+    "notificationSubscribe": "ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰ ਦਿੱਤਾ।",
+    "and": "ਅਤੇ",
+    "other": "ਦੂਸਰੇ",
+    "commentedYour": "ਤੁਹਾਡੀ ਪੋਸਟ 'ਤੇ ਟਿੱਪਣੀ ਕੀਤੀ",
+    "likedYour": "ਤੁਹਾਡੀ ਪੋਸਟ 'ਤੇ ਪ੍ਰਤੀਕਿਰਿਆ ਦਿੱਤੀ",
+    "answerYour": "ਤੁਹਾਡੇ ਪੋਲ ਦਾ ਜਵਾਬ ਦਿੱਤਾ",
+    "reportYour" :"ਆਪਣੀ ਪੋਸਟ ਦੀ ਰਿਪੋਰਟ ਕਰੋ",
+
+
+    "deletePostDescription" :  "ਇਹ ਪ੍ਰਕਾਸ਼ਨ ਜਾਅਲੀ ਹੋ ਸਕਦਾ ਹੈ।\n ਇਸ ਲਈ, ਇਸਨੂੰ Telltrue ਤੋਂ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ",
+    "notiDeletePost" : "ਬਦਕਿਸਮਤੀ ਨਾਲ, ਅਸੀਂ ਤੁਹਾਡੇ ਨੂੰ ਮਿਟਾ ਦੇਵਾਂਗੇ",
+    "fullNamerequired" : "ਆਪਣਾ ਪੂਰਾ ਨਾਮ ਦਰਜ ਕਰੋ ਕਿਉਂਕਿ ਇਹ ਤੁਹਾਡੇ ਪਾਸਪੋਰਟ ਜਾਂ ਰਾਸ਼ਟਰੀ ਪਛਾਣ ਪੱਤਰ 'ਤੇ ਲਿਖਿਆ ਹੋਇਆ ਹੈ।",
+
+    "chooseFile" : "ਇੱਕ ਫਾਈਲ ਚੁਣੋ",
+    "driver'sLicence" : "ਡਰਾਇਵਰ ਦਾ ਲਾਇਸੈਂਸ",
+    "driverLicenceDes" : "ਆਪਣੇ ਡਰਾਈਵਰ ਲਾਇਸੈਂਸ ਦੀ ਇੱਕ ਫੋਟੋ ਜਾਂ ਸਕੈਨ ਅੱਪਲੋਡ ਕਰੋ।",
+    "driverLicenceFrontSideTitle" : "ਤੁਹਾਡੇ ਡ੍ਰਾਈਵਰਜ਼ ਲਾਇਸੈਂਸ ਦਾ ਸਾਹਮਣੇ ਵਾਲਾ ਪਾਸਾ",
+    "driverLicenceFrontSideDes" : "ਆਪਣੇ ਡ੍ਰਾਈਵਰਜ਼ ਲਾਇਸੰਸ ਦੇ ਸਾਹਮਣੇ ਵਾਲੇ ਪਾਸੇ ਨੂੰ ਅੱਪਲੋਡ ਕਰੋ",
+    "nationalId": "ਰਾਸ਼ਟਰੀ ਆਈ.ਡੀ",
+    "nationalIdDes" : "ਆਪਣੇ ਦਸਤਾਵੇਜ਼ ਦੀ ਇੱਕ ਫੋਟੋ ਜਾਂ ਸਕੈਨ ਅੱਪਲੋਡ ਕਰੋ।",
+    "nationalIdFrontSideTitle" : "ਤੁਹਾਡੇ ਦਸਤਾਵੇਜ਼ ਦਾ ਸਾਹਮਣੇ ਵਾਲਾ ਪਾਸਾ",
+    "nationalIdFrontSideDes" : "ਆਪਣੇ ਦਸਤਾਵੇਜ਼ ਦੇ ਅਗਲੇ ਪਾਸੇ ਨੂੰ ਅੱਪਲੋਡ ਕਰੋ",
+
+    "nationalIdBackSideTitle" : "ਤੁਹਾਡੇ ਦਸਤਾਵੇਜ਼ ਦਾ ਪਿਛਲਾ ਪਾਸਾ",
+    "nationalIdBackSideDes" : "ਆਪਣੇ ਦਸਤਾਵੇਜ਼ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਨੂੰ ਅੱਪਲੋਡ ਕਰੋ",
+
+    "passport" : "ਪਾਸਪੋਰਟ",
+    "passportDes" : "ਆਪਣੇ ਪਾਸਪੋਰਟ ਫੋਟੋ ਪੰਨੇ ਦੀ ਇੱਕ ਫੋਟੋ ਜਾਂ ਸਕੈਨ ਅੱਪਲੋਡ ਕਰੋ।",
+    "passportUploadDes" : "ਤਸਵੀਰ ਦੇ ਨਾਲ ਵੇਰਵੇ ਵਾਲਾ ਪੰਨਾ",
+    "chooseOtherOption" : "ਕੋਈ ਵੱਖਰਾ ID ਦਸਤਾਵੇਜ਼ ਚੁਣੋ",
+
+
+    "driverLicenceBackSideTitle" : "ਤੁਹਾਡੇ ਡਰਾਈਵਰ ਲਾਇਸੰਸ ਦਾ ਪਿਛਲਾ ਪਾਸਾ",
+    "driverLicenceBackideDes" :"ਆਪਣੇ ਡ੍ਰਾਈਵਰਜ਼ ਲਾਇਸੰਸ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਨੂੰ ਅੱਪਲੋਡ ਕਰੋ",
+    "uploadAproofOfidendity" : "ਆਪਣੀ ਪਛਾਣ ਦਾ ਸਬੂਤ ਅੱਪਲੋਡ ਕਰੋ",
+    "chooseCountryDes":  "ਕਿਰਪਾ ਕਰਕੇ ਉਹ ਦੇਸ਼ ਚੁਣੋ ਜਿਸਨੇ ID ਦਸਤਾਵੇਜ਼ ਜਾਰੀ ਕੀਤਾ ਹੈ ਜੋ ਤੁਹਾਡੇ ਕੋਲ ਹੈ।",
+    "countryDropDowntitle" : "ID ਜਾਰੀ ਕਰਨ ਵਾਲਾ ਦੇਸ਼",
+    "selectCountry" : "ਦੇਸ਼ ਚੁਣੋ...",
+    "documentType" : "ਦਸਤਾਵੇਜ਼ ਦੀ ਕਿਸਮ",
+    "selectDocType" : "ਇੱਕ ਦਸਤਾਵੇਜ਼ ਦੀ ਕਿਸਮ ਚੁਣੋ",
+
+
+
+    "firstAndlastName" : "ਪੂਰੇ ਕਾਨੂੰਨੀ ਪਹਿਲੇ ਅਤੇ ਆਖਰੀ ਨਾਮ",
+    "firstAndMiddleName" : "ਪੂਰੇ ਕਾਨੂੰਨੀ ਪਹਿਲੇ ਅਤੇ ਵਿਚਕਾਰਲੇ ਨਾਮ",
+    "spellYourName" : "ਆਪਣੇ ਨਾਮ ਦੀ ਸਪੈਲਿੰਗ ਬਿਲਕੁਲ ਉਸੇ ਤਰ੍ਹਾਂ ਕਰੋ ਜਿਵੇਂ ਇਹ ਤੁਹਾਡੇ ਪਾਸਪੋਰਟ ਜਾਂ ਆਈਡੀ ਕਾਰਡ 'ਤੇ ਦਿਖਾਇਆ ਗਿਆ ਹੈ।",
+    "fullLegalLastName": "ਪੂਰਾ ਕਨੂੰਨੀ ਆਖਰੀ ਨਾਮ(ਨਾਂ)",
+    "spellHomeTwon": "ਆਪਣਾ ਹੋਮਟੌਨ ਦਾਖਲ ਕਰੋ ਕਿਉਂਕਿ ਇਹ ਤੁਹਾਡੇ ਪਾਸਪੋਰਟ ਜਾਂ ਰਾਸ਼ਟਰੀ ਪਛਾਣ ਪੱਤਰ 'ਤੇ ਲਿਖਿਆ ਹੋਇਆ ਹੈ।",
+    "spellCurrentLocation" : "ਆਪਣਾ ਮੌਜੂਦਾ ਟਿਕਾਣਾ ਦਾਖਲ ਕਰੋ ਕਿਉਂਕਿ ਇਹ ਤੁਹਾਡੇ ਪਾਸਪੋਰਟ ਜਾਂ ਰਾਸ਼ਟਰੀ ਪਛਾਣ ਪੱਤਰ 'ਤੇ ਲਿਖਿਆ ਹੋਇਆ ਹੈ।",
+    "passwordConditions" : "ਪਾਸਵਰਡ ਵਿੱਚ ਇੱਕ ਅੱਖਰ ਅਤੇ ਇੱਕ ਨੰਬਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ, ਅਤੇ ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+    "birthDayCondition" : "ਆਪਣਾ ਜਨਮਦਿਨ ਦਾਖਲ ਕਰੋ ਕਿਉਂਕਿ ਇਹ ਤੁਹਾਡੇ ਪਾਸਪੋਰਟ ਜਾਂ ਰਾਸ਼ਟਰੀ ਪਛਾਣ ਪੱਤਰ 'ਤੇ ਲਿਖਿਆ ਹੋਇਆ ਹੈ।",
+    "phone" : "ਫ਼ੋਨ",
+    "phoneNumber" : "ਫੋਨ ਨੰਬਰ",
+    "theAccountAlready": "ਉਸ ਈਮੇਲ ਲਈ ਖਾਤਾ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ",
+    "welcomeToOurteam" : "ਸਾਡੀ ਟੀਮ ਵਿੱਚ ਸੁਆਗਤ ਹੈ",
+
+    "snackBarNoUserFound": "No user found for that identifier",
+    "snackBarWrongPassword": "Wrong Password",
+
+    
+    "teltrueSayHey" : "ਹੇ!",
+    "teltrueWelcomIntro":"\nਇਕੋ ਮੰਚ ਹੈ ਜਿਥੇ ਪੱਤਰਕਾਰ ਨੇਤਾ ਹੁੰਦਾ ਹੈ",
+    "formIdentifierLoginPage" : "ਪਛਾਣਕਰਤਾ",
+    "formPasswordLoginPage" : "ਪਾਸਵਰਡ",
+    "onlyReaderOptionSignIn" : "ਜਾਂ (ਸਿਰਫ ਪਾਠਕ)",
+    "forgotPasswordLoginPage" : "ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ?",
+    "askForSignUpLoginPage" : "ਕੀ ਤੁਹਾਡਾ ਕੋਈ ਖਾਤਾ ਨਹੀਂ ਹੈ?",
+    "signUpFlatButtonLoginPage" : "ਸਾਇਨ ਅਪ",
+    "connectButtonLoginPage" : "ਲਾਗਿਨ",
+    "appBarTitleResetPassword" : "ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰੋ",
+    "subtitleResetPassword" : "ਕਦਮ 1: ਆਪਣਾ ਖਾਤਾ ਲੱਭੋ",
+    "descriptionResetPassword" : "ਪਾਸਵਰਡ ਰੀਸੈਟ ਕੋਡ ਭੇਜਣ ਲਈ ਸਾਨੂੰ ਸਿਰਫ ਤੁਹਾਡੀ ਰਜਿਸਟਰਡ ਈਮੇਲ ਦੀ ਜ਼ਰੂਰਤ ਹੈ",
+    "hintTextResetPassword" : "ਆਪਣੀ ਈਮੇਲ ਨੂੰ ਸਹੀ ਤਰ੍ਹਾਂ ਦਰਜ ਕਰੋ",
+    "sendRequestResetPassword" : "ਬੇਨਤੀ ਭੇਜੀ",
+    "subtitlePassCode" : "ਕਦਮ 2: ਤਸਦੀਕ ਕੋਡ",
+    "descriptionPassCode" : "ਤਸਦੀਕ ਕੋਡ ਦਰਜ ਕਰੋ ਜੋ ਅਸੀਂ ਤੁਹਾਨੂੰ ਹੁਣੇ ਤੁਹਾਡੇ ਰਜਿਸਟਰਡ ਤੇ ਭੇਜਿਆ ਹੈ",
+    "hintTextPassCode" : "ਕੋਡ",
+    "resendCodeFlatButtonPassCode" : "ਕੋਡ ਦੁਬਾਰਾ ਭੇਜੋ!",
+    "verifybuttonPassCode" : "ਪੜਤਾਲ ਕਰੋ",
+    "subtitleCreateNewPassword" : "ਕਦਮ 3: ਨਵਾਂ ਪਾਸਵਰਡ ਬਣਾਓ",
+    "descriptionCreateNewPassword" : "ਤੁਹਾਡਾ ਨਵਾਂ ਪਾਸਵਰਡ ਪਹਿਲਾਂ ਵਰਤੇ ਗਏ ਪਾਸਵਰਡ ਤੋਂ ਵੱਖਰਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+    "hintTextNewPassword" : "ਨਵਾਂ ਪਾਸਵਰਡ",
+    "hintTextConfirmNewPassword" : "ਨਵੇਂ ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+    "resetPasswordCreatePassword" : "ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰੋ",
+
+    "yesItsMeButton" : "ਹਾਂ, ਇਹ ਮੈਂ ਹਾਂ",
+    "tryAgainButton" : "ਫਿਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+    "noAccountAttachedDes" : "ਮੁਆਫ ਕਰਨਾ, ਇਸ ਈਮੇਲ ਨਾਲ ਕੋਈ ਖਾਤਾ ਜੁੜਿਆ ਨਹੀਂ ਹੈ",
+    "taostConfirmThePassWord" : "ਕਿਰਪਾ ਕਰਕੇ ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+    "toastInvalidCode": "ਅਵੈਧ ਕੋਡ",
+
+
+    "subtitleSignUpMode" : "ਤੂੰ ਕੌਣ ਹੈ ?",
+    "descriptionSignUpMode" : "ਤੁਸੀਂ ਸਾਡੇ ਨਾਲ ਇੱਕ ਪੱਤਰਕਾਰ, ਸਰਲ ਪਾਠਕ, ਜਾਂ ਮੀਡੀਆ (ਅਖਬਾਰਾਂ, ਰੇਡੀਓ, ਟੀਵੀ ...) ਵਜੋਂ ਸ਼ਾਮਲ ਹੋਣ ਲਈ ਤਿਆਰ ਹੋ.",
+    "iamReaderSignUpMode" : "ਮੈਂ ਰੀਡਰ ਹਾਂ",
+    "iamJournalistSignUpMode" : "ਮੈਂ ਪੱਤਰਕਾਰ ਹਾਂ",
+    "weareMediaSignUpMode" : "ਅਸੀਂ ਮੀਡੀਆ ਹਾਂ",
+
+    "hintTextFullNameSignUpWithEmail": "ਸਮੈਸਟਰ ਇਨ ਆਈਡੈਂਟੀਫਾਇਰ",
+    "fullNameTitleSignUpWithEmail": "ਪੂਰਾ ਨਾਂਮ",
+    "emailTitleSignUpWithEmail": "ਅਧਿਕਾਰਤ ਈਮੇਲ ਪਤਾ",
+    "locationTitleSignUpWithEmail": "ਮੌਜੂਦਾ ਟਿਕਾਣਾ",
+    "genderSignUpWithEmail": "ਲਿੰਗ",
+    "hintTextGetLocationSignUpWithEmail": "ਦੇਸ਼, ਸ਼ਹਿਰ",
+    
+    "hintTextIdentifierSignUpWithEmail" : "ਈਮੇਲ ਖਾਤਾ",
+    "hintTextPasswordSignUpWithEmail" : "ਪਾਸਵਰਡ",
+    "hintTextConfirmPasswordSignUpWithEmail" : "ਪਾਸਵਰਡ ਪੱਕਾ ਕਰੋ",
+   
+    "hintTextSelectMale" : "ਨਰ",
+    "hintTextSelectFemale" : ".ਰਤ",
+    "nextButton": "ਅਗਲਾ",
+    "snackBarInvalidFullName" : "ਆਪਣਾ ਪੂਰਾ ਨਾਮ ਦਰਜ ਕਰੋ!",
+    "snackBarInvalidEmail" : "ਵੈਧ ਈਮੇਲ ਪਤਾ ਦਰਜ ਕਰੋ!",
+    "snackBarInvalidPassword" : "ਪਾਸਵਰਡ ਵਿੱਚ 8 ਅੱਖਰ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ!",
+    "snackBarInvalidConfirmPassword" : "ਆਪਣੇ ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+    "snackBarInvalidLocation" : "ਆਪਣੀ ਮੌਜੂਦਾ ਸਥਿਤੀ ਦੀ ਚੋਣ ਕਰੋ",
+
+    
+
+
+    "subtitleJournalistSignUpWorkSpace" : "ਵਰਕਸਪੇਸ ਨਾਮ",
+    "subtitleJournalistSignUpBirthday" : "ਜਨਮ ਤਾਰੀਖ",
+    "subtitleJournalistSignUpUploadId" : "ਆਪਣੀ ਫੋਟੋ ਆਈਡੀ ਅਪਲੋਡ ਕਰੋ",
+    "hintTextChannelNameJournalistSignUp" : "ਟੀਵੀ ਜਾਂ ਰੇਡੀਓ ਜਾਂ ਅਖਬਾਰ ...",
+
+    "hintTextYear" : "ਸਾਲ",
+    "hintTextDay" : "ਦਿਨ",
+    "hintTextMonth" : "ਮਹੀਨਾ",
+    "descriptionUploadPhotoId" : "ਤੁਹਾਡੀ ਪਛਾਣ ਨਿਸ਼ਚਤ ਕਰਨ ਲਈ, ਸਾਨੂੰ ਤੁਹਾਡੀ ਸਰਕਾਰ ਦੁਆਰਾ ਜਾਰੀ ਕੀਤੀ ਆਈਡੀ ਦੀ ਰੰਗੀਨ ਫੋਟੋ ਅਪਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ. ਤੁਹਾਡੀ ਆਈਡੀ ਵਿੱਚ ਤੁਹਾਡਾ ਨਾਮ, ਜਨਮ ਦਿਨ ਅਤੇ ਫੋਟੋ ਸ਼ਾਮਲ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ. \nਅਸਵੀਕਾਰਯੋਗ ਆਈਡੀਜ਼ ਵਿੱਚ ਤੁਹਾਡੇ ਸ਼ਾਮਲ ਹਨ: \n- ਪਾਸਪੋਰਟ \n- ਨੈਸ਼ਨਲ ਆਈਡੀ ਕਾਰਡ \n- ਡਰਾਈਵਰ ਲਾਇਸੈਂਸ \n ਇੱਕ ਵਾਰ ਜਦੋਂ ਅਸੀਂ ਤੁਹਾਡੀ ਆਈਡੀ ਦੀ ਇੱਕ ਸਾਫ ਫੋਟੋ ਪ੍ਰਾਪਤ ਕਰਦੇ ਅਤੇ ਸਮੀਖਿਆ ਕਰਦੇ ਹਾਂ ਤਾਂ ਅਸੀਂ ਤੁਹਾਡੇ ਪਛਾਣ ਦਸਤਾਵੇਜ਼ ਨੂੰ ਸਾਡੇ ਸਰਵਰ ਤੋਂ ਮਿਟਾ ਦੇਵਾਂਗੇ.",
+    "choosePhotoButton" : "ਫੋਟੋ ਚੁਣੋ",
+    "snackBarUploadImageId" : "ਚਿੱਤਰ ਸਫਲਤਾਪੂਰਵਕ ਅਪਲੋਡ ਕੀਤਾ ਗਿਆ",
+    "snackBarInvalidBirthday" : "ਜਨਮ ਦਾ ਸਹੀ ਦਿਨ ਦਾਖਲ ਕਰੋ!",
+    "snackBarSince" : "ਵੈਧ ਸ਼ੁਰੂਆਤੀ ਦਿਨ ਦਾਖਲ ਕਰੋ!",
+    "snackBarInvalidUpload" : "ਤੁਹਾਨੂੰ ਆਪਣੀ ਪਛਾਣ ਦੀ ਫੋਟੋ ਅਪਲੋਡ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ",
+    
+
+    "journalistReporter" : "ਪੱਤਰਕਾਰ ਅਤੇ ਰਿਪੋਰਟਰ",
+    "journalistWriter" : "ਪੱਤਰਕਾਰ ਅਤੇ ਲੇਖਕ",
+    "journalistAnimator" : "ਪੱਤਰਕਾਰ ਅਤੇ ਪੇਸ਼ਕਾਰ",
+    "photoJournalist" : "ਫੋਟੋ ਜਰਨਲਿਸਟ",
+    "journalistEditor" : "ਪੱਤਰਕਾਰ ਅਤੇ ਸੰਪਾਦਕ",
+    "tvColumnist" : "ਟੀਵੀ ਕਾਲਮਨਵੀਸ",
+    "freelanceJournalist" : "ਫ੍ਰੀਲਾਂਸ ਪੱਤਰਕਾਰ",
+    "investigativeJournalist" : "ਜਾਂਚ ਪੱਤਰਕਾਰ",
+    "onlineJournalistBloger" : "ਆਨਲਾਈਨ ਪੱਤਰਕਾਰ ਬਲੌਗਰ",
+    "subtitleReviewPage" : "ਸਫਲਤਾ!",
+    "descriptionP1ReviewPage" : "ਧੰਨਵਾਦ ਹੈ",
+    "descriptionP3ReviewPage" : ", ਸਾਨੂੰ ਇੱਕ ਪੱਤਰਕਾਰ ਖਾਤੇ ਲਈ ਤੁਹਾਡੀ ਬੇਨਤੀ ਪ੍ਰਾਪਤ ਹੋ ਗਈ ਹੈ ਅਤੇ ਅਸੀਂ ਇਸਦੀ ਸਮੀਖਿਆ ਕਰਨ ਦੀ ਪ੍ਰਕਿਰਿਆ ਵਿੱਚ ਹਾਂ (24 ਘੰਟੇ). ਇਹ ਯਾਦ ਰੱਖੋ ਕਿ ਤੁਹਾਡੀ ਪਛਾਣ ਤੁਹਾਡੀ ਪਛਾਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਦੇ 30 ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਸੁਰੱਖਿਅਤ lyੰਗ ਨਾਲ ਸਟੋਰ ਕੀਤੀ ਜਾਏਗੀ ਅਤੇ ਮਿਟਾ ਦਿੱਤੀ ਜਾਏਗੀ",
+    "snackBarSelectOption" : "ਤੁਹਾਨੂੰ ਚੋਣ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ",
+
+
+    "doneButton" : "ਹੋ ਗਿਆ",
+    "appBarTitleAddProfileImage" : "ਪ੍ਰੋਫਾਈਲ ਚਿੱਤਰ",
+    "subtitleWelcomePage" : "ਤੁਸੀਂ ਸਾਡੀ ਐਪ ਵਿਚ ਸਫਲਤਾਪੂਰਵਕ ਰਜਿਸਟਰ ਹੋ ਗਿਆ ਹੈ ਅਤੇ ਇਸ 'ਤੇ ਕੰਮ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ",
+    "startButton" : "ਸ਼ੁਰੂ ਕਰੋ",
+    "photoLibrary" : "ਫੋਟੋ ਲਾਇਬ੍ਰੇਰੀ",
+    "photoCamera" : "ਕੈਮਰਾ",
+
+    "appBarTitleSuggestion" : "ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ ਸੁਝਾਅ",
+    "descriptionSuggestion" : "ਕਿਸੇ ਪੱਤਰਕਾਰ ਜਾਂ ਮੀਡੀਆ ਦੀ ਪਾਲਣਾ ਕਰਨ ਦੇ ਨਾਲ ਸ਼ੁਰੂ ਕਰਦਿਆਂ, ਆਪਣੇ ਟੈਲਟਰੂ ਅਨੁਭਵ ਨੂੰ ਨਿਜੀ ਬਣਾਉਣ ਵਿੱਚ ਸਹਾਇਤਾ ਲਈ ਕੁਝ ਵਿਸ਼ੇ ਚੁਣੋ ਜੋ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ.",
+    "subtitleSuggestion1" : "ਦੇ ਪੱਤਰਕਾਰ",
+    "subtitleSuggestion2" : "ਟੈਲੀਵਿਜ਼ਨ ਅਤੇ ਰੇਡੀਓ" ,
+    "subtitleSuggestion3" : "ਅਖਬਾਰਾਂ ਅਤੇ ਰਸਾਲਿਆਂ",
+    "noJournalistYet" : "ਤੁਹਾਡੇ ਦੇਸ਼ ਦੇ ਕਿਸੇ ਪੱਤਰਕਾਰ ਨੇ ਅਜੇ ਰਜਿਸਟਰ ਨਹੀਂ ਕੀਤਾ ਹੈ",
+    "noTvRadioYet" : "ਤੁਹਾਡੇ ਦੇਸ਼ ਦੇ ਕਿਸੇ ਵੀ ਟੀਵੀ ਜਾਂ ਰੇਡੀਓ ਨੇ ਅਜੇ ਰਜਿਸਟਰ ਨਹੀਂ ਕੀਤਾ ਹੈ",
+    "noNewspaperMagazine" : "ਤੁਹਾਡੇ ਦੇਸ਼ ਵਿਚੋਂ ਕੋਈ ਅਖ਼ਬਾਰ ਜਾਂ ਰਸਾਲਾ ਅਜੇ ਰਜਿਸਟਰ ਨਹੀਂ ਹੋਇਆ ਹੈ",
+
+    "addPostSearchPlaceHint": "ਜਗ੍ਹਾ ਲੱਭੋ",
+    "addPostSearchEventHint": "ਮੌਜੂਦਾ ਘਟਨਾ ਦਾ ਸਿਰਲੇਖ ਲੱਭੋ",
+    "addPostSearchPersonHint": "ਮਸ਼ਹੂਰ ਵਿਅਕਤੀ ਦਾ ਨਾਮ ਲੱਭੋ",
+    "tagPerson": "ਮਸ਼ਹੂਰ ਵਿਅਕਤੀ",
+    "tagEvent": "ਘਟਨਾ",
+    "tagPlace": "ਜਗ੍ਹਾ",
+    "addPostBreakingNewsDesHint": "ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਕੀ ਹੋਇਆ ਹੈ ",
+    "snackBarTopic": "ਤੁਹਾਨੂੰ ਵਿਸ਼ਾ ਚੁਣਨਾ ਚਾਹੀਦਾ ਹੈ",
+
+    "createPostCommentary" : "ਟਿੱਪਣੀ ਅਤੇ ਪਰਿਪੇਖ",
+    "feel" : "ਮਹਿਸੂਸ ਕਰੋ",
+
+
+    "createPostQuestionDes": "ਰਾਏ ਪੋਲ ਇਕ ਸਰਵੇਖਣ ਜਾਂ ਵਿਗਿਆਨਕ ਅਤੇ ਨਿਰਪੱਖ mannerੰਗ ਨਾਲ ਕਿਸੇ ਖਾਸ ਮੁੱਦੇ ਜਾਂ ਮੁੱਦਿਆਂ ਦੀ ਲੜੀ ਬਾਰੇ ਲੋਕਾਂ ਦੀ ਰਾਏ ਜਾਣਨ ਲਈ ਤਿਆਰ ਕੀਤੀ ਗਈ ਜਾਂਚ ਜਾਂ ਜਾਂਚ ਦੇ ਸਮਾਨ ਹਨ.",
+    "feelingHappy": "ਖੁਸ਼ ਮਹਿਸੂਸ ਹੋ ਰਿਹਾ ਹੈ",
+    "feelingCool": "ਠੰਡਾ ਮਹਿਸੂਸ ਹੁੰਦਾ ਹੈ",
+    "feelingSurprised": "ਹੈਰਾਨੀ ਮਹਿਸੂਸ ਕਰਦਾ ਹੈ",
+    "feelingShocked": "ਹੈਰਾਨ ਹੋ ਰਿਹਾ ਹੈ",
+    "feelingNervous": "ਘਬਰਾਹਟ ਮਹਿਸੂਸ ਹੁੰਦੀ ਹੈ",
+    "feelingAngry": "ਗੁੱਸਾ ਮਹਿਸੂਸ ਹੁੰਦਾ ਹੈ",
+    "feelingDrool": "ਗੜਬੜੀ ਮਹਿਸੂਸ",
+    "feelingSweat": "ਚੀਕਣਾ ਮਹਿਸੂਸ ਕਰਦਾ ਹੈ",
+    "feelingCrying": "ਰੋਣਾ ਮਹਿਸੂਸ ਕਰਦਾ ਹੈ",
+    "feelingSad": "ਉਦਾਸ ਮਹਿਸੂਸ ਕਰਦਾ ਹੈ",
+    "feelingDead": "ਮਰੇ ਹੋਏ ਮਹਿਸੂਸ ਕਰਦੇ ਹਨ",
+    "feelingDubious": "ਸ਼ੱਕੀ ਮਹਿਸੂਸ ਕਰਦਾ ਹੈ",
+    "feelingTired": "ਥੱਕੇ ਹੋਏ ਮਹਿਸੂਸ ਕਰਦੇ ਹਨ",
+    "feelingLoved": "ਪਿਆਰ ਮਹਿਸੂਸ ਕਰਦਾ ਹੈ",
+    "feelingPain": "ਦਰਦ ਮਹਿਸੂਸ ਕਰਦਾ ਹੈ",
+    "feelingMuted": "ਚੁੱਪ ਮਹਿਸੂਸ ਕਰਦਾ ਹੈ",
+    "feelingGreed": "ਲਾਲਚ ਮਹਿਸੂਸ ਕਰਦਾ ਹੈ",
+    "feelingSick": "ਬਿਮਾਰ ਮਹਿਸੂਸ ਕਰਦਾ ਹੈ",
+    
+
+    "pollTitle" : "ਚੋਣ",
+    "choiceOne" : "ਚੋਣ ਇਕ",
+    "choiceTwo" : "ਚੋਣ ਦੋ",
+    "choiceThree" : "ਚੋਣ ਤਿੰਨ",
+    "pollLength" : "ਪੋਲ ਲੰਬਾਈ",
+    "days" : "ਦਿਨ",
+    "hours" : "ਘੰਟੇ",
+    "Minutes" : "ਮਿੰਟ",
+
+    "addPostArticle": "ਖੋਜ ਲੇਖ",
+    "addPostArticleGeneralTitle": "ਆਮ ਸਿਰਲੇਖ",
+    "addPostArticleWrittersHintText": "ਲੇਖਕ",
+    "addPostArticleKeywords": "ਕੀਵਰਡਸ",
+    "addPostArticleCoresspondence": "ਲਿਖਤ - ਪੜ੍ਹਤ",
+    "addPostArticleAbstract": "ਇੱਥੇ ਸੰਖੇਪ ਲਿਖੋ",
+
+    "addPostArticleFirstPartTitle" : "ਪਹਿਲੇ ਭਾਗ ਦਾ ਸਿਰਲੇਖ",
+    "addPostArticleSecondPartTitle" : "ਦੂਜੇ ਭਾਗ ਦਾ ਸਿਰਲੇਖ",
+    "addPostArticleThirdPartTitle" : "ਤੀਜੇ ਭਾਗ ਦਾ ਸਿਰਲੇਖ",
+    "addPostArticleFourthPartTitle" : "ਚੌਥੇ ਭਾਗ ਦਾ ਸਿਰਲੇਖ",
+
+    "addPostArticleFirstPartDes" : "ਪਹਿਲੇ ਭਾਗ ਦਾ ਵਰਣਨ",
+    "addPostArticleSecondPartDes" : "ਦੂਜੇ ਭਾਗ ਦਾ ਵਰਣਨ",
+    "addPostArticleThirdPartDes" : "ਤੀਜੇ ਭਾਗ ਦਾ ਵਰਣਨ",
+    "addPostArticleFourthPartDes" : "ਚੌਥੇ ਭਾਗ ਦਾ ਵਰਣਨ",
+    "addPostArticleConclusion" : "ਸਿੱਟਾ",
+
+    "addPostArticleIntro": "ਜਾਣ -ਪਛਾਣ",
+    "unDoneDialogDiscardPost":   "ਪੋਸਟ ਨੂੰ ਰੱਦ ਕਰੋ",
+    "unDoneDialogDiscardDes":   "ਇਸਨੂੰ ਅਣਕੀਤਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਅਤੇ ਤੁਸੀਂ ਆਪਣਾ ਡਰਾਫਟ ਗੁਆ ਬੈਠੋਗੇ.",
+    "unDoneDialogDiscardButton":  "ਰੱਦ ਕਰੋ",
+
+    "createHowToTitle"  :"ਕਿਸ ਕਰਨ ਲਈ?",
+    "createHowToSuplliesHintText" : "ਸਪਲਾਈ",
+    "createHowToThinkInStep" : "ਕਦਮਾਂ ਵਿੱਚ ਸੋਚੋ",
+    "createHowToStepTitleHintText" : "ਪੜਾਅ ਦਾ ਸਿਰਲੇਖ (ਵਿਕਲਪਿਕ)",
+    "createHowToStepDetailsHintText" :  "ਕਦਮ ਹੈ ਦਾ ਵੇਰਵਾ",
+    "createHowToShowResult" : "ਨਤੀਜਾ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੋ",
+    "createHowToAddStepButton" :  "ਕਦਮ ਹੈ ਸ਼ਾਮਿਲ",
+
+    "snackBarSupplies" : "ਤੁਹਾਨੂੰ ਕੁਝ ਸਪਲਾਈ ਲਿਖਣ ਦੀ ਜ਼ਰੂਰਤ ਹੈ",
+    "snackBarSteps" : "ਤੁਹਾਨੂੰ ਕੁਝ ਕਦਮ ਲਿਖਣ ਦੀ ਜ਼ਰੂਰਤ ਹੈ",
+    "snackBarBiography" : "ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਬਾਰੇ ਕੁਝ ਸ਼ਬਦ ਲਿਖੋ",
+
+    "createProfiletitle" : "ਸ਼ਖਸੀਅਤ ਪ੍ਰੋਫਾਈਲ",
+    "createProfileAgeHintText" : "ਉਮਰ",
+    "createProfileHomeTwonHintText": "ਜੱਦੀ ਸ਼ਹਿਰ",
+    "createProfilecurrentCityHintText" : "ਵਰਤਮਾਨ ਸ਼ਹਿਰ",
+    "createProfileCvHintText" : "ਬਾਔਡੇਟਾ",
+
+    "createAnalysisAddpart": "ਪੈਰਾ ਸ਼ਾਮਲ ਕਰੋ",
+    "createAnalysisTitle": "ਵਿਸ਼ਲੇਸ਼ਣ ਅਤੇ ਸਮੀਖਿਆ",
+    "createAnalysisPartTitle": "ਪੈਰਾਗ੍ਰਾਫ ਸਿਰਲੇਖ",
+    "createAnalysisPartDetails": "ਪੈਰਾਗ੍ਰਾਫ ਵੇਰਵੇ",
+
+    "feelingButton": "ਭਾਵਨਾਵਾਂ",
+    "topicButton": "ਵਿਸ਼ਾ",
+    "uploadButton": "ਅਪਲੋਡ",
+
+    "snackBarEmptyTitle" : "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਸਿਰਲੇਖ ਟਾਈਪ ਕਰੋ",
+    "snackBarEmptyDes" : "ਕਿਰਪਾ ਕਰਕੇ ਵਰਣਨ ਬਾਕਸ ਵਿੱਚ ਕੁਝ ਸ਼ਬਦ ਟਾਈਪ ਕਰੋ",
+    "snackBarEmptyParagraph" : "ਕਿਰਪਾ ਕਰਕੇ ਘੱਟੋ ਘੱਟ ਇੱਕ ਪੈਰਾ ਦਾਖਲ ਕਰੋ",
+
+    "broadcastingHintTextDes" : "ਪ੍ਰਸਾਰਣ ਵੇਰਵਾ",
+    "inPictureHintTextDes" : "ਤਸਵੀਰ ਦਾ ਵਰਣਨ",
+
+    "createStoryTitle" : "ਕਹਾਣੀ",
+    "createStorytitleHintText" : "ਕਹਾਣੀ ਦਾ ਸਿਰਲੇਖ (ਵਿਕਲਪਿਕ)",
+    "createStoryDesHintText" : "ਆਪਣੀ ਕਹਾਣੀ ਇੱਥੇ ਲਿਖੋ",
+
+    "createPostBreakingNewsDes": "ਅੱਜ ਦੇ ਲਈ ਤਾਜ਼ਾ ਖਬਰ",
+    "createPostLastestNewsTitle" : "ਤਾਜ਼ਾ ਖ਼ਬਰਾਂ",
+    "createPostLastestNewsDes" : "ਪ੍ਰਮੁੱਖ ਕਹਾਣੀਆਂ, ਮੌਸਮ, ਕਾਰੋਬਾਰ, ਮਨੋਰੰਜਨ, ਰਾਜਨੀਤੀ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ 'ਤੇ ਨਵੀਨਤਮ ਖ਼ਬਰਾਂ ਅਤੇ ਜਾਣਕਾਰੀ ਲੱਭੋ.",
+    "createPostCommentaryDes" : "ਟਿੱਪਣੀਆਂ ਆਮ ਤੌਰ 'ਤੇ ਛੋਟੇ ਲੇਖ ਹੁੰਦੇ ਹਨ ਜਿਨ੍ਹਾਂ ਵਿੱਚ 1,000 ਤੋਂ 1,500 ਸ਼ਬਦ ਹੁੰਦੇ ਹਨ, ਅਤੇ ਉਹ ਕਿਸੇ ਕਿਤਾਬ, ਰਿਪੋਰਟ ਜਾਂ ਲੇਖ ਵੱਲ ਧਿਆਨ ਖਿੱਚਦੇ ਹਨ ਜਾਂ ਆਲੋਚਨਾ ਕਰਦੇ ਹਨ ਜੋ ਪਹਿਲਾਂ ਹੀ ਪ੍ਰਕਾਸ਼ਤ ਹੈ.",
+    "createPostEssay" : "ਨਿਬੰਧ",
+    "createPostEssayDes" : "ਬਹੁਤੇ ਲੇਖ ਨਿੱਜੀ ਅਨੁਭਵ ਜਾਂ ਇੱਕ ਰਾਏ ਬਾਰੇ ਛੋਟੇ ਤੋਂ ਮੱਧਮ ਲੰਬਾਈ ਦੇ ਟੁਕੜੇ ਹੁੰਦੇ ਹਨ. ਆਮ ਤੌਰ ਤੇ, ਇੱਕ ਲੇਖ ਇੱਕ ਵਿਸ਼ੇ ਦੇ ਦੁਆਲੇ ਘੁੰਮਦਾ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਵਿਚਾਰ ਪੇਸ਼ ਕਰਦਾ ਹੈ.",
+    "createPostHowToDes" : "ਇਹਨਾਂ ਨੁਸਖੇ ਦੇ ਟੁਕੜਿਆਂ ਵਿੱਚ ਕਦਮ, ਤਰੀਕੇ ਜਾਂ ਸੁਝਾਅ ਹੁੰਦੇ ਹਨ ਜੋ ਪਾਠਕ ਨੂੰ ਕੁਝ ਖਾਸ ਕਰਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਦੇ ਹਨ. ਉਹ ਕਿਸੇ ਸਮੱਸਿਆ ਜਾਂ ਕਿਸੇ ਪ੍ਰਸ਼ਨ ਦੇ ਉੱਤਰ ਲਈ (ਹੱਲ) ਪ੍ਰਦਾਨ ਕਰਦੇ ਹਨ",
+    "createPostProfileDes" : "ਇਸ ਕਿਸਮ ਦਾ ਲੇਖ ਕਿਸੇ ਵਿਅਕਤੀ ਦੇ ਜੀਵਨ (ਤੁਹਾਡੀ ਨਹੀਂ) ਅਤੇ ਪ੍ਰਾਪਤੀਆਂ ਦੇ ਦੁਆਲੇ ਘੁੰਮਦਾ ਹੈ. ਇੱਕ ਇੰਟਰਵਿ interview ਦੇ ਅਧਾਰ ਤੇ, ਤੁਸੀਂ ਉਸਦੀ ਜ਼ਿੰਦਗੀ ਤੇ ਡੂੰਘਾਈ ਨਾਲ ਵਿਚਾਰ ਪ੍ਰਦਾਨ ਕਰਦੇ ਹੋ ...",
+    "createPostAnalysisDes" : "ਸਮੀਖਿਆ ਲੇਖ ਮੌਜੂਦਾ ਸਾਹਿਤ ਦਾ ਇੱਕ ਰਚਨਾਤਮਕ ਅਤੇ ਆਲੋਚਨਾਤਮਕ ਵਿਸ਼ਲੇਸ਼ਣ ਪੇਸ਼ ਕਰਦੇ ਹਨ, ਜੋ ਵਿਸ਼ਲੇਸ਼ਣ, ਤੁਲਨਾ ਅਤੇ ਸੰਖੇਪ ਦੁਆਰਾ ਪੂਰਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ. ਉਹ ਖਾਸ ਸਮੱਸਿਆਵਾਂ ਜਾਂ ਅੰਤਰਾਂ ਦੀ ਪਛਾਣ ਕਰ ਸਕਦੇ ਹਨ ਅਤੇ ਭਵਿੱਖ ਵਿੱਚ ਖੋਜ ਲਈ ਸਿਫਾਰਸ਼ਾਂ ਵੀ ਪ੍ਰਦਾਨ ਕਰ ਸਕਦੇ ਹਨ.", 
+    "createPostStoryDes" : "ਕਹਾਣੀ, ਖ਼ਬਰਾਂ, ਇਤਿਹਾਸ, ਦੰਤਕਥਾ, ਵਿਗਿਆਨ ਗਲਪ, ਛੋਟੀ ਕਹਾਣੀ, ਦੁਖਾਂਤ, ਕਾਮੇਡੀ",
+    "createPostSponsored" : "ਪ੍ਰਾਯੋਜਿਤ",
+    "createPostSponsoredDes" : "ਪ੍ਰਾਯੋਜਿਤ ਸਮਗਰੀ ਲੇਖ, ਸੰਖੇਪ ਰੂਪ ਵਿੱਚ, ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ ਦੀ ਇੱਕ ਕਿਸਮ ਹਨ. ਉਹ ਨਿਯਮਤ ਸੰਪਾਦਕੀ ਦੀ ਤਰ੍ਹਾਂ ਵੇਖਦੇ ਅਤੇ ਪੜ੍ਹਦੇ ਹਨ, ਪਰ ਉਹਨਾਂ ਦਾ ਭੁਗਤਾਨ ਇੱਕ ਖਾਸ ਇਸ਼ਤਿਹਾਰਦਾਤਾ ਦੁਆਰਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ."
+    ,"createPostArticleDes": "ਖੋਜ ਲੇਖ ਬਹੁਤ ਵਿਸਤ੍ਰਿਤ ਅਧਿਐਨ ਹਨ ਜੋ ਮੂਲ ਖੋਜ ਦੀ ਰਿਪੋਰਟ ਕਰਦੇ ਹਨ. ਪ੍ਰਾਇਮਰੀ ਸਾਹਿਤ ਮੰਨਿਆ ਜਾਂਦਾ ਹੈ, ਮੂਲ ਖੋਜ ਲੇਖਾਂ ਵਿੱਚ ਪਿਛੋਕੜ ਅਧਿਐਨ, ਵਿਧੀਆਂ, ਅਨੁਮਾਨ, ਨਤੀਜੇ ਅਤੇ ਖੋਜਾਂ ਦੀ ਵਿਆਖਿਆ ਸ਼ਾਮਲ ਹੁੰਦੀ ਹੈ",
+
+
+    "createPostBreakingNewsTitle": "ਤਾਜਾ ਖਬਰਾਂ",
+    "createPostBroadcastTitle": "ਪ੍ਰਸਾਰਣ",
+    "createPostInpicTitle": "ਤਸਵੀਰ ਵਿੱਚ",
+    "createPostInvestigationTitle": "ਜਾਂਚ",
+
+
+    "addPostBreakingNewsTitleHint": "ਤਾਜ਼ਾ ਖਬਰਾਂ ਦਾ ਸਿਰਲੇਖ",
+   
+
+    "createPostBroadCastDes": "ਇੱਕ ਸੰਖੇਪ ਵਰਣਨ ਦੇ ਨਾਲ ਇੱਕ ਇਵੈਂਟ ਬਾਰੇ ਇੱਕ ਪੱਤਰਕਾਰੀ ਇੰਟਰਵਿiew, ਰਿਪੋਰਟਿੰਗ, ਜਾਂ ਲਾਈਵ ਸਟ੍ਰੀਮਿੰਗ ਸਾਂਝੀ ਕਰੋ",
+    "createPostInPicDes": "ਤਸਵੀਰ ਨੂੰ ਗੱਲਬਾਤ ਕਰੋ!",
+    "createPostInvestigationDes": "ਅਪਰਾਧ ਬਾਰੇ ਜਾਂ ਅਸਲ ਵਰਤਾਰੇ ਬਾਰੇ ਜਾਂ ਤਬਾਹੀ ਬਾਰੇ ਆਪਣੀ ਜਾਂਚ ਨੂੰ ਸੱਚੇ ਪ੍ਰਮਾਣ ਜਾਂ ਗਵਾਹੀ ਨਾਲ ਸਾਂਝਾ ਕਰੋ",
+    "createPostEvent": "ਕਿਸੇ ਸੱਭਿਆਚਾਰਕ ਸਮਾਗਮ ਜਾਂ ਕੰਮ ਦੇ ਪ੍ਰੋਗਰਾਮ ਦੀ ਯੋਜਨਾ ਬਣਾਉਣਾ",
+
+    "tagTypeToSearch" : "ਖੋਜਣ ਲਈ ਟਾਈਪ ਕਰੋ",
+    "tagNoTagSearchFound" : "ਕੋਈ-ਟੈਗ ਖੋਜ ਨਹੀਂ ਮਿਲੀ",
+
+    "tagSearchNumberOf" : "Teltrue ਲੋਕ ਇਸ ਬਾਰੇ ਪੋਸਟ ਕਰਦੇ ਹਨ",
+    "useButton" :"ਇਸ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+    "addPostOpinionHint" : "ਤੁਹਾਨੂੰ ਕੀ ਲੱਗਦਾ ਹੈ",
+    "addPostEssayDesHintText" : "ਕਿਸੇ ਰਾਏ ਜਾਂ ਨਿੱਜੀ ਅਨੁਭਵ ਦਾ ਵਰਣਨ ਕਰੋ",
+    "askQuestionTitleHint": "ਕੁਝ ਪੁੱਛੋ",
+
+    "addEventTitle" : "ਇੱਕ ਸਮਾਗਮ ਦਾ ਆਯੋਜਨ ਕਰੋ",
+    "addEventTitleHint": "ਇਵੈਂਟ ਦਾ ਸਿਰਲੇਖ",
+    "addEventPlaceLabel": "ਘਟਨਾ ਸਥਾਨ",
+    "addEventPlaceHint": "ਹੋਟਲ, ਕਨਵੈਨਸ਼ਨ ਹਾਲ, ਗਲੀ ਦਾ ਪਤਾ, Onlineਨਲਾਈਨ ਇਵੈਂਟ",
+    "addEventSpeakerLabel": "ਪੇਸ਼ਕਾਰ",
+    "addEventSpeakerHint": "ਸਪੀਕਰ ਦਾ ਪੂਰਾ ਨਾਂ",
+    "addEventDateLabel": "ਤਾਰੀਖ਼",
+    "addEventMonthHint": "ਮਹੀਨਾ",
+    "addEventDayHint": "ਦਿਨ",
+    "addStartEventTime": "ਅਰੰਭ ਸਮਾਂ",
+    "addEndEventTime": "ਸਮਾਪਤੀ ਸਮਾਂ",
+    "addEventPoster": "ਇਵੈਂਟ ਪੋਸਟਰ",
+    "addEventAboutHint": "ਘਟਨਾ ਬਾਰੇ ..."  ,
+
+
+    "noContentAvailable" : "ਕੋਈ ਸਮਗਰੀ ਉਪਲਬਧ ਨਹੀਂ ਹੈ",
+    "noOtherPublication" : "ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਕੋਈ ਹੋਰ ਪ੍ਰਕਾਸ਼ਨ ਨਹੀਂ ਹਨ",
+
+    "trueKey" : "ਸੱਚ",
+    "falseKey" : "ਝੂਠਾ",
+    "report" : "ਰਿਪੋਰਟ" ,
+    "dislike" : "ਨਾਪਸੰਦ", 
+    "fiveMostRead" :  "ਸਭ ਤੋਂ ਵੱਧ ਪੜ੍ਹੇ ਜਾਣ ਵਾਲੇ ਪੰਜ",
+    "fiveMostViews" : "ਪੰਜ ਸਭ ਤੋਂ ਵੱਧ ਦ੍ਰਿਸ਼",
+    "deletedPost" : "ਪ੍ਰਕਾਸ਼ਨ ਮਿਟਾਇਆ ਗਿਆ",
+    "noPostDeletedYet" : "ਅਜੇ ਤੱਕ ਕੋਈ ਪ੍ਰਕਾਸ਼ਨ ਮਿਟਾਇਆ ਨਹੀਂ ਗਿਆ ਹੈ",
+
+
+    "interestAll" : "ਸਾਰੇ",
+    "interestWorld" : "ਵਿਸ਼ਵ",
+    "interestBusiness" : "ਵਪਾਰ ਅਤੇ ਵਿੱਤ",
+    "interestLifestyle" : "ਜੀਵਨ ਸ਼ੈਲੀ",
+    "interestTechnology" : "ਤਕਨਾਲੋਜੀ",
+    "interestSport" : "ਖੇਡ",
+    "interestHealth" : "ਸਿਹਤ ਅਤੇ ਦਵਾਈ",
+    "interestScience" : "ਵਿਗਿਆਨ",
+    "interestEntertainment" : "ਮਨੋਰੰਜਨ",
+    "interestAgriculture" : "ਖੇਤੀ ਬਾੜੀ",
+    "interestMechanical" : "ਮਕੈਨਿਕਸ",
+    "interestOther" : "ਹੋਰ",
+
+
+    "filter" : "ਫਿਲਟਰ" , 
+    "watch" : "ਵਾਚ",
+    "trending" : "ਪ੍ਰਚਲਿਤ",
+    "home" : "ਘਰ",
+    "write" : "ਲਿਖੋ",
+    "readLater" : "ਬਾਅਦ ਵਿੱਚ ਪੜ੍ਹੋ",
+    "watchLater" : "ਬਾਅਦ 'ਚ ਦੇਖੋ",
+    "dashbord" : "ਡੈਸ਼ਬੋਰਡ",
+    "payment" : "ਭੁਗਤਾਨ",
+
+    "read": "ਪੜ੍ਹਿਆ",
+    "biography" : "ਜੀਵਨੀ",
+    "readMore" : "ਹੋਰ ਪੜ੍ਹੋ",
+
+    "profileExperienceSnackBarCompanyName": "ਕੰਪਨੀ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ",
+    "profileExperienceSnackBarJobTitle":  "ਨੌਕਰੀ ਦਾ ਸਿਰਲੇਖ ਦਾਖਲ ਕਰੋ",
+    "profileExperienceSnackBarInvalidPeriode":  "ਅਵੈਧ ਅਵਧੀ",
+    "addButton" : "ਸ਼ਾਮਲ ਕਰੋ"
+
+    ,"profileInterest" : "ਰੁਚੀਆਂ"
+
+}

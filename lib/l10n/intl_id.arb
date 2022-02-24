@@ -1,0 +1,590 @@
+{
+    "confirmButton": "Melanjutkan",
+    "profileUnfolowButton": "Berhenti berlangganan",
+    "cancelButton": "Membatalkan",
+   
+  
+
+    "profileAbout": "Tentang",
+    "profileFollowing": "berikut",
+    "profileFollowers": "pengikutnya",
+   
+
+    "profileSkills": "Latar belakang pendidikan",
+    "profileSkillsEstablishment": "Pendirian",
+    "profileSkillsEstablishmentHint": "Universitas atau Institut",
+    "profileSkillsDiploma": "Diploma",
+    "profileSkillsDiplomaHint": "Sertifikat atau Diploma",
+    "deleteAsk": "Apakah Anda ingin melanjutkan ?",
+    
+    "profileExperience": "Pengalaman",
+    "profileExperienceCompany": "Perusahaan",
+    "profileExperienceCompanyHint": "Stasiun TV, Radio, Surat Kabar",
+    "profileExperienceJobTitle": "Judul pekerjaan",
+    "profileExperienceJobTitleHint": "Jurnalis, Editor, Reporter",
+    "profileExperiencePeriode": "Periode",
+    "profileExperiencePeriodeYear": "Tahun",
+    
+   
+    
+
+    "profileContacts": "Kontak",
+  
+  
+  
+    "requiredFiled" : "bidang yang dibutuhkan",
+    "descriptionPoll" : "Tentang polling",
+
+    "articleReference" : "Referensi artikel",
+    "snackBarAddParagph" : "Tambahkan setidaknya satu paragraf",
+   
+
+    "createProfileNationality" : "Kebangsaan",
+    "createProfileChildren" : "Anak-anak",
+    "createProfileRelation" :"Status hubungan",
+    "createProfileEducation" :"Pendidikan",
+    "createProfileOccupation" :"Pendudukan",
+
+    "snackBarAddSteps" : "Tambahkan setidaknya satu langkah",
+  
+  
+  
+     
+    "like": "Suka",
+    "postViewWrittenBy": "Ditulis oleh",
+    "postViewUpdate": "Pembaruan",
+    "pictureBy": "Gambar oleh",
+    "videoBy": "Video oleh",
+    "views": "Pemandangan",
+  
+    
+    "pictureDetailsAddComment": "Ketik balasan Anda",
+    "commentModifer": "Ubah",
+    "commentDelete": "Menghapus",
+    "commentReply": "Balasan",
+    "inviteButton" : "Undang",
+    "iLikeButton" : "saya suka",
+    "fullScreen" : "Layar penuh",
+
+
+    "saveButton": "Simpan",
+    "message": "Pesan",
+    "notificationTitle": "Notifikasi",
+    "account" : "Akun",
+
+
+    "contactUs" : "Hubungi kami",
+    "aboutUs" : "Tentang kami",
+    "privacyPolicy": "Kebijakan pribadi",
+    "cookiePolicy": "Kebijakan Cookie",
+    "copyrightPolicy": "Kebijakan Hak Cipta",
+    "terms": "Ketentuan",
+    "help" : "Membantu",
+
+
+
+  
+    "accountMenuProfileSetting": "Pengaturan dan Privasi",
+    "accountMenuLogOut": "Keluar",
+    "seeYourProfile" : "Lihat profil Anda",
+    "helpAndSupport" : "Bantuan & Dukungan",
+    "accountEmail" : "Email akun",
+    "changePassword" : "Ganti kata sandi",
+    "location": "Lokasinya",
+    "language" : "Bahasa",
+    "newEmail" : "Email baru",
+    "currentPassword" : "Kata sandi saat ini",
+
+
+    "newEmailDescription" :  "Menambahkan email saat ini ke akun Telltrue Anda dapat membantu Anda masuk dan menerima pemberitahuan serta mengatur ulang kata sandi Anda dengan mudah.",
+    "currentPassIsWrong" : "Kata sandi saat ini salah",
+    "passWordCondition" : "Kata sandi harus minimal 8 karakter",
+
+
+    "messageSorryCannotSend" : "Maaf, Anda tidak dapat mengirim pesan ke akun ini",
+    "blockButton": "Memblokir",
+    "suggestionChatUnBlock": "Buka blokir",
+    "suggestionChatTypeMsg": "Ketik pesan anda",
+    "suggestionChatDeleteConversation": "Hapus obrolan",
+    "suggestionChatBlockMsgRequest": "Blokir pesan dan panggilan?",
+    "suggestionChatBlocktitle2": "Akun Telltrue",
+    "suggestionChatBlockDescrip": "Anda tidak dapat mengirim pesan atau menelepon mereka dalam obrolan ini, dan Anda tidak akan menerima pesan atau panggilan mereka.",
+    "suggestionChatBlocktitle1": "Anda Memblokir Pesan dan Panggilan Dari",
+    "suggestionChatBlockMsgDescrip1": "Akun Telltrue Anda tidak akan menerima pesan atau panggilan dari",
+    "suggestionChatBlockMsgDescrip2": "akun Telltrue \n Percakapan akan tetap ada di Obrolan kecuali Anda menyembunyikannya.",
+    "suggestionChatDeleteConversationDescrip": "Setelah Anda menghapus salinan percakapan ini, itu tidak dapat diurungkan.",
+
+
+
+    "messageNoMessageYet": "Anda belum melakukan percakapan apa pun",
+    "messageStartMessage": "Mulai percakapan baru",
+
+    "copyRight" : "© 2021 Perusahaan Telltrue. Seluruh hak cipta.",
+    "addprofileImageDes" :   "Foto profil Anda membantu tim Anda mengetahui siapa Anda di Telltrue. Dan jika foto Anda jelas, akan lebih mudah bagi seseorang untuk memilih Anda di tengah keramaian atau rapat!",
+    "personalPicture" : "Gambar pribadi",
+    "postPicture" : "Posting gambar",
+    "noPictureToshow" : "Tidak ada Gambar untuk ditampilkan",
+    "pictureSetAsProfilePic": "Tetapkan sebagai gambar profil",
+    "pictureDelete": "Hapus foto ini",
+    "pictureDeleteRequest": "Anda yakin ingin menghapus foto ini?",
+    
+
+    "profilePicAndVid": "Foto-foto",
+    "profilePicturesOfYou": "Potret dirimu",
+    "profileVideo": "Video",
+    "yourVideos": "Video Anda",
+    "liveVideos": "Video langsung",
+
+
+
+    "readers" : "Bacaan",
+    "nobreakingNewsyet" : "Belum ada berita terbaru",
+    "noBreakingNewsDes" :  "Saat Anda mendapatkan berita terbaru, mereka akan muncul di sini",
+    "breakingNewsisAvailable" :   "Berita terbaru ini sayangnya tidak tersedia.",
+   
+    "noCommentYetTitle": "Belum ada balasan di sini...",
+    "noCommentsYetDes": "Jadilah yang pertama untuk berbagi apa yang Anda pikirkan!",
+
+    "readLess" : "Baca lebih sedikit",
+    "vote": "suara",
+    "undo" : "membatalkan", 
+
+
+
+
+    "reportSelectProb" :  "Silakan pilih masalah untuk melanjutkan",
+    "report1" : "Konten tidak etis",
+    "report2" : "Konten sepele",
+    "report3" : "Konten yang merugikan agama",
+    "report4" : "Konten yang membahayakan keamanan dan memicu kekerasan",
+    "sendButton" :  "Mengirim",
+
+
+    "eventInterestedButton": "Tertarik",
+    "eventNotInterestedButton": "Tidak tertarik",
+
+    "Participants" : "Peserta",
+    "career" : "Karier",
+    "closeButton" : "Menutup",
+    "abstrack": "Abstrak",
+    "reference" : "Referensi",
+
+
+    "noVideoShow" : "Tidak ada video untuk ditampilkan",
+    "noLiveVideoShow" : "Tidak ada video langsung untuk ditampilkan",
+    "noPubmatching" : "Tidak ada publikasi yang cocok ditemukan",
+    "noEventmatching" : "Tidak ada acara yang cocok ditemukan",
+    "noTelltruefound" :  "Tidak ditemukan pengguna Telltrue yang cocok",
+    "result" : "hasil",
+    "seeAllpub" : "Lihat semua hasil publikasi",
+    "seeAllEvent" : "Lihat semua hasil acara",
+    "telltrueUser": "Telltrue users",
+    "famousPersonIdentified" : "Orang yang teridentifikasi",
+    "eventIdentified":"Acara yang teridentifikasi",
+     "placeIdentified":"Tempat teridentifikasi",
+     "all" :  "Semua",
+     "addBy" : "Ditambahkan oleh",
+
+
+
+     "seeAllpeople" : "Lihat semua orang hasil",
+     "searchTelltrue" : "Cari Telltrue",
+     "searchFor" : "Pencarian untuk",
+
+
+
+     "suggestionsForyou" : "Saran untuk Anda",
+     "todayTopWritting": "Tulisan top hari ini",
+ 
+     "notificationNoYetTitle": "Belum ada notifikasi",
+     "notificationNoYetDes": "Saat Anda mendapatkan notifikasi, notifikasi akan muncul di sini",
+
+
+     "inviteYouToReadAn": "mengundang Anda untuk membaca",
+     "inviteYouToAnswer": "mengundang Anda untuk menjawab",
+     "inviteYouToWatch": "mengundang Anda untuk menonton",
+     "inviteYouToSee": "mengundang Anda untuk melihat",
+     "inviteYouToReadEvent": "dia mengundangmu untuk melihat sebuah acara",
+     "notificationSubscribe": "mulai mengikutimu.",
+     "and": "dan",
+     "other": "yang lain",
+     "commentedYour": "mengomentari postinganmu",
+     "likedYour": "bereaksi terhadap posting Anda",
+     "answerYour": "menjawab jajak pendapat Anda",
+     "reportYour" :"laporkan postinganmu",
+
+
+
+
+     "deletePostDescription" :  "Publikasi ini mungkin palsu.\n Jadi, itu akan dihapus dari Telltrue",
+     "notiDeletePost" : "Sayangnya, kami akan menghapus",
+     "fullNamerequired" : "Masukkan nama lengkap Anda seperti yang tertulis di paspor atau kartu identitas nasional Anda.",
+ 
+     "chooseFile" : "Pilih file",
+     "driver'sLicence" : "Surat izin Mengemudi",
+     "driverLicenceDes" : "Unggah foto atau pindaian SIM Anda.",
+     "driverLicenceFrontSideTitle" : "Sisi depan SIM Anda",
+     "driverLicenceFrontSideDes" : "Unggah sisi depan SIM Anda",
+     "nationalId": "ID Nasional",
+     "nationalIdDes" : "Unggah foto atau pindaian dokumen Anda.",
+     "nationalIdFrontSideTitle" : "Sisi depan dokumen Anda",
+     "nationalIdFrontSideDes" : "Unggah sisi depan dokumen Anda",
+ 
+     "nationalIdBackSideTitle" : "Sisi belakang dokumen Anda",
+     "nationalIdBackSideDes" : "Unggah sisi belakang dokumen Anda",
+ 
+     "passport" : "Paspor",
+     "passportDes" : "Unggah foto atau pindaian halaman foto paspor Anda.",
+     "passportUploadDes" : "Halaman detail dengan gambar",
+     "chooseOtherOption" : "Pilih dokumen ID yang berbeda",
+
+
+     "driverLicenceBackSideTitle" : "Sisi belakang surat izin mengemudi Anda",
+     "driverLicenceBackideDes" :"Unggah sisi belakang SIM Anda",
+     "uploadAproofOfidendity" : "Unggah bukti identitas Anda",
+     "chooseCountryDes":  "Silakan pilih negara yang mengeluarkan dokumen ID yang Anda miliki.",
+     "countryDropDowntitle" : "negara penerbit ID",
+     "selectCountry" : "Pilih negara...",
+     "documentType" : "Tipe dokumen",
+     "selectDocType" : "Pilih jenis dokumen",
+
+
+
+     "firstAndlastName" : "Nama depan dan belakang resmi lengkap",
+     "firstAndMiddleName" : "Nama depan dan tengah resmi lengkap",
+     "spellYourName" : "Eja nama Anda persis seperti yang tertera di paspor atau kartu identitas Anda.",
+     "fullLegalLastName": "Nama belakang resmi lengkap",
+     "spellHomeTwon": "Masukkan hometwon Anda seperti yang tertulis di paspor atau kartu identitas nasional Anda.",
+     "spellCurrentLocation" : "Masukkan lokasi Anda saat ini seperti yang tertulis di paspor atau kartu identitas nasional Anda.",
+     "passwordConditions" : "Kata sandi harus berisi huruf dan angka, dan minimal 8 karakter",
+     "birthDayCondition" : "Masukkan Tanggal Lahir Anda seperti yang tertulis di paspor atau KTP Anda.",
+     "phone" : "Telepon",
+     "phoneNumber" : "Nomor telepon",
+     "theAccountAlready": "Akun sudah ada untuk email itu",
+     "welcomeToOurteam" : "Selamat datang di Tim kami",
+
+
+     "snackBarNoUserFound": "No user found for that identifier",
+     "snackBarWrongPassword": "Wrong Password",
+
+
+
+    
+    "teltrueSayHey" : "Hei!",
+    "teltrueWelcomIntro":"\nSatu-satunya platform di mana jurnalis adalah pemimpinnya",
+    "formIdentifierLoginPage" : "Pengenal",
+    "formPasswordLoginPage" : "Kata sandi",
+    "onlyReaderOptionSignIn" : "Atau (Hanya Pembaca)",
+    "forgotPasswordLoginPage" : "Tidak ingat kata sandi ?",
+    "askForSignUpLoginPage" : "Belum punya akun?",
+    "signUpFlatButtonLoginPage" : "Daftar",
+    "connectButtonLoginPage" : "Gabung",
+    "appBarTitleResetPassword" : "Atur Ulang Kata Sandi",
+    "subtitleResetPassword" : "Langkah 1: Temukan Akun Anda",
+    "descriptionResetPassword" : "Kami hanya perlu email terdaftar Anda untuk mengirimkan kode reset kata sandi",
+    "hintTextResetPassword" : "Masukkan Email Anda dengan benar",
+    "sendRequestResetPassword" : "Kirim Permintaan",
+
+    "subtitlePassCode" : "Langkah 2: Kode Verifikasi",
+    "descriptionPassCode" : "Masukkan kode verifikasi yang baru saja kami kirimkan pada Anda yang terdaftar",
+    "hintTextPassCode" : "Kode",
+    "resendCodeFlatButtonPassCode" : "Kirim Ulang Kode!",
+    "verifybuttonPassCode" : "Memeriksa",
+    "subtitleCreateNewPassword" : "Langkah 3: Buat Kata Sandi Baru",
+    "descriptionCreateNewPassword" : "kata sandi baru Anda harus berbeda dari kata sandi yang digunakan sebelumnya",
+    "hintTextNewPassword" : "kata sandi baru",
+    "hintTextConfirmNewPassword" : "Konfirmasi password baru",
+    "resetPasswordCreatePassword" : "Atur Ulang Kata Sandi",
+
+    
+    "subtitleSignUpMode" : "Kamu siapa ?",
+    "descriptionSignUpMode" : "Anda siap bergabung dengan kami sebagai jurnalis, Simple reader, atau Media (Koran, Radio, Tv ...)",
+    "iamReaderSignUpMode" : "Saya Pembaca",
+    "iamJournalistSignUpMode" : "Saya Jurnalis",
+    "weareMediaSignUpMode" : "Kami adalah Media",
+
+    "yesItsMeButton" : "Ya, ini aku",
+    "tryAgainButton" : "Coba lagi",
+    "noAccountAttachedDes" : "Maaf, tidak ada akun yang dilampirkan ke email ini",
+    "taostConfirmThePassWord" : "Harap konfirmasi kata sandi",
+    "toastInvalidCode": "Kode salah",
+
+    
+    "hintTextFullNameSignUpWithEmail": "Sama di Identifier",
+    "fullNameTitleSignUpWithEmail": "Nama lengkap",
+    "emailTitleSignUpWithEmail": "Alamat Email Resmi",
+    "locationTitleSignUpWithEmail": "Lokasi Saat Ini",
+    "genderSignUpWithEmail": "Jenis kelamin",
+    "hintTextGetLocationSignUpWithEmail": "negara, kota",
+    
+    "hintTextIdentifierSignUpWithEmail" : "Alamat email",
+    "hintTextPasswordSignUpWithEmail" : "Kata sandi",
+    "hintTextConfirmPasswordSignUpWithEmail" : "konfirmasi sandi",
+    
+    "hintTextSelectMale" : "Pria",
+    "hintTextSelectFemale" : "Perempuan",
+    "nextButton": "Lanjut",
+    "snackBarInvalidFullName" : "Masukkan nama lengkapmu !",
+    "snackBarInvalidEmail" : "Masukkan alamat email yang valid!",
+    "snackBarInvalidPassword" : "Kata sandi harus terdiri dari 8 karakter!",
+    "snackBarInvalidConfirmPassword" : "Konfirmasi password Anda",
+    "snackBarInvalidLocation" : "Pilih Lokasi Anda saat ini",
+
+    
+
+    
+    "subtitleJournalistSignUpWorkSpace" : "Nama Ruang Kerja",
+    "subtitleJournalistSignUpBirthday" : "Tanggal lahir",
+    "subtitleJournalistSignUpUploadId" : "Unggah ID Foto Anda",
+    "hintTextChannelNameJournalistSignUp" : "TV atau Radio atau Koran ...",
+    "since" : "Sejak",
+    "hintTextYear" : "Tahun",
+    "hintTextDay" : "Hari",
+    "hintTextMonth" : "Bulan",
+    "descriptionUploadPhotoId" : "Untuk memastikan identitas Anda, Kami meminta Anda untuk mengunggah foto berwarna dari tanda pengenal resmi Anda. Id Anda harus menyertakan nama Anda, hari lahir, dan foto. \n Id yang dapat diterima termasuk: \n- Paspor \n- KTP \n- SIM \n Setelah kami menerima dan meninjau foto identitas Anda yang jelas, kami akan menghapus dokumen Identifikasi Anda dari server kami",
+    "choosePhotoButton" : "Pilih foto",
+    "snackBarUploadImageId" : "gambar berhasil diunggah",
+    "snackBarInvalidBirthday" : "Enter the valid day of Birth!",
+    "snackBarSince" : "Masukkan hari mulai yang valid!",
+    "snackBarInvalidUpload" : "Anda harus mengunggah foto identitas Anda",
+    
+
+    "appBarTitleJournalistKind" : "Jenis Jurnalis",
+    "journalistReporter" : "Jurnalis & Reporter",
+    "journalistWriter" : "Jurnalis & Penulis",
+    "journalistAnimator" : "Jurnalis & Presenter",
+    "photoJournalist" : "Jurnalis foto",
+    "journalistEditor" : "Jurnalis & Editor",
+    "tvColumnist" : "kolumnis TV",
+    "freelanceJournalist" : "Jurnalis lepas",
+    "investigativeJournalist" : "Jurnalis Investigasi",
+    "onlineJournalistBloger" : "Jurnalis atau Blogger Online",
+    "subtitleReviewPage" : "Berhasil!",
+    "descriptionP1ReviewPage" : "Terima kasih",
+    "descriptionP3ReviewPage" : ", Kami telah menerima permintaan Anda untuk membuat akun Jurnalis dan sedang dalam proses meninjaunya (24 jam). Ingatlah bahwa ID Anda akan disimpan dan dihapus dengan aman dalam waktu 30 hari sejak konfirmasi identitas Anda",
+    "snackBarSelectOption" : "Anda harus memilih Opsi",
+
+
+    "doneButton" : "Selesai",
+    "appBarTitleAddProfileImage" : "Gambar profil",
+    "subtitleWelcomePage" : "Anda telah berhasil mendaftar di aplikasi kami dan dapat mulai mengerjakannya",
+    "startButton" : "Mulailah",
+    "photoLibrary" : "Perpustakaan Foto",
+    "photoCamera" : "Kamera",
+
+    "appBarTitleSuggestion" : "Saran untuk diikuti",
+    "descriptionSuggestion" : "Pilih beberapa topik yang Anda minati untuk membantu mempersonalisasi pengalaman Teltrue Anda, dimulai dengan mencari jurnalis atau Media untuk diikuti.",
+    "subtitleSuggestion1" : "Jurnalis dari",
+    "subtitleSuggestion2" : "Televisi dan Radio" ,
+    "subtitleSuggestion3" : "Koran dan Majalah",
+        "noJournalistYet" : "Belum ada jurnalis dari negara Anda yang mendaftar",
+    "noTvRadioYet" : "Belum ada TV atau Radio dari negara Anda yang terdaftar",
+    "noNewspaperMagazine" : "Belum ada Koran atau Majalah dari negara Anda yang mendaftar",
+
+    "addPostSearchPlaceHint": "Temukan tempatnya",
+    "addPostSearchEventHint": "Temukan judul acara saat ini",
+    "addPostSearchPersonHint": "Find the famous person name",
+    "tagPerson": "Orang terkenal",
+    "tagEvent": "Peristiwa",
+    "tagPlace": "Tempat",
+    "addPostBreakingNewsDesHint": "Beritahu kami Apa yang Terjadi",
+    "snackBarTopic": "Anda harus Memilih Topik",
+
+    "createPostCommentary" : "Komentar & Perspektif",
+    "feel" : "merasa",
+
+    "createPostQuestionDes":"Jajak pendapat mirip dengan survei atau penyelidikan yang dirancang untuk mengukur opini publik tentang masalah tertentu atau serangkaian masalah dengan cara yang ilmiah dan tidak bias.",
+    "feelingHappy": "merasa bahagia",
+    "feelingCool": "merasa keren",
+    "feelingSurprised": "merasa terkejut",
+    "feelingShocked": "merasa kaget",
+    "feelingNervous": "merasa gugup",
+    "feelingAngry": "merasa marah",
+    "feelingDrool": "merasa lemas",
+    "feelingSweat":"merasa menjerit",
+    "feelingCrying":"merasa menangis",
+    "feelingSad": "merasa sedih",
+    "feelingDead":"merasa mati",
+    "feelingDubious": "merasa ragu",
+    "feelingTired":"Merasa lelah",
+    "feelingLoved": "merasa dicintai",
+    "feelingPain": "merasa sakit",
+    "feelingMuted": "merasa sunyi",
+    "feelingGreed": "merasa serakah",
+    "feelingSick": "merasa sakit",
+    
+
+    "pollTitle" : "Pemilihan",
+    "choiceOne" : "Pilihan Satu",
+    "choiceTwo" : "Pilihan Dua",
+    "choiceThree" :"Pilihan Tiga",
+    "pollLength" : "Panjang jajak pendapat",
+    "days" : "hari",
+    "hours" : "Jam",
+    "Minutes" : "Menit",
+
+    "addPostArticle": "Artikel Penelitian",
+    "addPostArticleGeneralTitle": "Judul umum",
+    "addPostArticleWrittersHintText": "Penulis",
+    "addPostArticleKeywords": "Kata kunci",
+    "addPostArticleCoresspondence": "Korespondensi",
+    "addPostArticleAbstract": "Tulis Abstrak disini",
+
+    "addPostArticleFirstPartTitle" : "Judul bagian pertama",
+    "addPostArticleSecondPartTitle" : "Judul bagian kedua",
+    "addPostArticleThirdPartTitle" : "Judul bagian ketiga",
+    "addPostArticleFourthPartTitle" : "Judul bagian keempat",
+
+    "addPostArticleFirstPartDes" : "Deskripsi bagian pertama",
+    "addPostArticleSecondPartDes" : "Deskripsi bagian kedua",
+    "addPostArticleThirdPartDes" : "Deskripsi bagian ketiga",
+    "addPostArticleFourthPartDes" : "Deskripsi bagian keempat",
+    "addPostArticleConclusion" : "Kesimpulan",
+
+    "addPostArticleIntro": "pengantar",
+    "unDoneDialogDiscardPost":   "Buang Posting",
+    "unDoneDialogDiscardDes":   "Ini tidak dapat diurungkan dan Anda akan kehilangan draf.",
+    "unDoneDialogDiscardButton":  "Membuang",
+
+    "createHowToTitle"  :"Bagaimana?",
+    "createHowToSuplliesHintText" : "Perlengkapan",
+    "createHowToThinkInStep" : "Pikirkan dalam langkah",
+    "createHowToStepTitleHintText" : "Judul langkah (Opsional)",
+    "createHowToStepDetailsHintText" :  "Detail langkah",
+    "createHowToShowResult" : "Hasil tampilan",
+    "createHowToAddStepButton" :  "Tambahkan langkah",
+
+    "snackBarSupplies" : "Anda perlu menuliskan beberapa persediaan",
+    "snackBarSteps" : "Anda perlu menuliskan beberapa langkah",
+    "snackBarBiography" : "Tolong tuliskan beberapa kata tentang",
+
+    "createProfiletitle" : "Profil Kepribadian",
+    "createProfileAgeHintText" : "Usia",
+    "createProfileHomeTwonHintText": "kampung halaman",
+    "createProfilecurrentCityHintText" : "kota tempat tinggal saat ini",
+    "createProfileCvHintText" : "Daftar Riwayat Hidup",
+
+    "createAnalysisAddpart": "Tambahkan paragraf",
+    "createAnalysisTitle": "Analisis dan Tinjauan",
+    "createAnalysisPartTitle": "Judul paragraf",
+    "createAnalysisPartDetails": "Detail paragraf",
+
+    "feelingButton": "perasaan",
+    "topicButton": "Tema",
+    "uploadButton": "mengunggah",
+
+    "snackBarEmptyTitle" : "tolong ketikkan judulnya",
+    "snackBarEmptyDes" : "silakan ketik beberapa kata di kotak deskripsi",
+    "snackBarEmptyParagraph" : "Harap masukkan setidaknya satu paragraf",
+
+    "broadcastingHintTextDes" : "Deskripsi siaran",
+    "inPictureHintTextDes" : "Deskripsi gambar",
+
+    "createStoryTitle" : "Cerita",
+    "createStorytitleHintText" : "Judul cerita (Opsional)",
+    "createStoryDesHintText" : "Tulis ceritamu disini",
+
+    "createPostBreakingNewsDes": "Berita terhangat hari ini",
+    "createPostLastestNewsTitle" : "Berita terbaru",
+    "createPostLastestNewsDes" : "Temukan berita dan informasi terbaru tentang berita utama, cuaca, bisnis, hiburan, politik, dan banyak lagi.",
+    "createPostCommentaryDes" : "Komentar biasanya artikel pendek yang terdiri dari 1.000 hingga 1.500 kata, dan mereka menarik perhatian atau mengkritik sebuah buku, laporan, atau artikel yang sudah diterbitkan.",
+    "createPostEssay" : "Karangan",
+    "createPostEssayDes" : "Sebagian besar esai adalah potongan pendek hingga sedang tentang pengalaman pribadi atau pendapat. Biasanya, esai berkisar pada satu subjek dan menyajikan pandangan Anda.",
+    "createPostHowToDes" : "Potongan-potongan preskriptif ini berisi langkah-langkah, cara, atau tip yang membantu pembaca melakukan sesuatu yang spesifik. Mereka memberikan (solusi) untuk masalah atau jawaban atas pertanyaan",
+    "createPostProfileDes" : "Jenis artikel ini berkisar pada kehidupan seseorang (bukan milik Anda) dan pencapaiannya. Berdasarkan wawancara, Anda memberikan pandangan mendalam tentang hidupnya ...",
+    "createPostAnalysisDes" : "Review artikel menyajikan analisis konstruktif dan kritis dari literatur yang ada, dicapai melalui analisis, perbandingan, dan ringkasan. Mereka dapat mengidentifikasi masalah atau kesenjangan tertentu dan bahkan dapat memberikan rekomendasi untuk penelitian di masa depan.", 
+    "createPostStoryDes" : "Dongeng, Berita, Sejarah, Legenda, Fiksi Ilmiah, Cerpen, Tragedi, Komedi",
+    "createPostSponsored" : "Disponsori",
+    "createPostSponsoredDes" : "Artikel konten bersponsor, pada dasarnya, adalah sejenis iklan. Mereka terlihat dan dibaca seperti editorial biasa, tetapi dibayar oleh pengiklan tertentu."
+    ,"createPostArticleDes": "artikel penelitian adalah studi yang sangat rinci yang melaporkan penelitian asli. Dianggap sebagai literatur utama, artikel penelitian asli mencakup studi latar belakang, metode, hipotesis, hasil, dan interpretasi temuan",
+
+
+    "createPostBreakingNewsTitle": "Berita Terbaru",
+    "createPostBroadcastTitle": "Penyiaran",
+    "createPostInpicTitle": "Dalam gambar",
+    "createPostInvestigationTitle": "Penyelidikan",
+
+
+    "addPostBreakingNewsTitleHint": "Judul berita terbaru",
+   
+
+    "createPostBroadCastDes": "Bagikan Wawancara Jurnalisme, reportase, atau streaming langsung tentang suatu acara dengan deskripsi singkat",
+    "createPostInPicDes": "Buatlah gambar berbicara!",
+    "createPostInvestigationDes": "Bagikan Investigasi Anda tentang kejahatan atau tentang fenomena aktual atau tentang Bencana dengan bukti atau kesaksian yang benar",
+    "createPostEvent": "Merencanakan acara budaya atau acara kerja",
+
+    "tagTypeToSearch" : "Ketik untuk mencari",
+    "tagNoTagSearchFound" : "Pencarian tanpa tag ditemukan",
+
+
+    "tagSearchNumberOf" : "Teltrue orang memposting tentang ini",
+    "useButton" :"Gunakan ini",
+    "addPostOpinionHint" : "Bagaimana menurut anda",
+    "addPostEssayDesHintText" : "Jelaskan pendapat atau pengalaman pribadi",
+    "askQuestionTitleHint": "Bertanya sesuatu",
+
+    "addEventTitle" : "Menyelenggarakan acara",
+    "addEventTitleHint": "Judul acara",
+    "addEventPlaceLabel": "Tempat Acara",
+    "addEventPlaceHint": "Hotel, Convention Hall, Alamat jalan, Acara Online",
+    "addEventSpeakerLabel": "pembawa acara",
+    "addEventSpeakerHint": "Nama lengkap pembicara",
+    "addEventDateLabel": "Tanggal",
+    "addEventMonthHint": "Bulan",
+    "addEventDayHint": "Hari",
+    "addStartEventTime": "Waktu mulai",
+    "addEndEventTime": "Akhir waktu",
+    "addEventPoster": "Poster Acara",
+    "addEventAboutHint": "Tentang Acara..."  ,
+
+
+
+    "noContentAvailable" : "Tidak ada konten yang tersedia",
+    "noOtherPublication" : "Tidak ada publikasi lain untuk ditampilkan",
+
+    "trueKey" : "sejati",
+    "falseKey" : "palsu",
+    "report" : "palsu" ,
+    "dislike" : "tidak suka", 
+    "fiveMostRead" :  "Lima yang paling banyak dibaca",
+    "fiveMostViews" : "Lima paling-pandangan",
+    "deletedPost" : "Publikasi yang dihapus",
+    "noPostDeletedYet" : "Belum ada publikasi yang dihapus",
+
+
+    "interestAll" : "Semua",
+    "interestWorld" : "Dunia",
+    "interestBusiness" : "Bisnis dan Keuangan",
+    "interestLifestyle" : "Gaya hidup",
+    "interestTechnology" : "Teknologi",
+    "interestSport" : "Olahraga",
+    "interestHealth" : "Kesehatan & Kedokteran",
+    "interestScience" : "Sains",
+    "interestEntertainment" : "Hiburan",
+    "interestAgriculture" : "Pertanian",
+    "interestMechanical" : "Mekanika",
+    "interestOther" : "Lainnya",
+
+    "filter" : "Filter" , 
+    "watch" : "Jam tangan",
+    "trending" : "Sedang tren",
+    "home" : "Rumah",
+    "write" : "Menulis",
+    "readLater" : "Baca nanti",
+    "watchLater" : "Lihat nanti",
+    "dashbord" : "Dasbor",
+    "payment" : "Pembayaran",
+
+    "read":"Membaca",
+    "biography" : "Biografi",
+    "readMore" : "Baca lebih lajut",
+
+    "profileExperienceSnackBarCompanyName": "Masukkan nama perusahaan",
+    "profileExperienceSnackBarJobTitle":  "Masukkan judul pekerjaan",
+    "profileExperienceSnackBarInvalidPeriode":  "Periode tidak valid",
+    "addButton" : "Menambahkan"
+
+    ,"profileInterest" : "Minat"
+
+
+}

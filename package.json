@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "email-verification": "^0.4.6",
+    "node-mailjet": "^3.3.5"
+  }
+}

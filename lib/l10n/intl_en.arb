@@ -1,0 +1,714 @@
+{
+
+    "addButton" : "Add",
+    "doneButton": "Done",
+    "saveButton": "Save",
+
+    "confirmButton": "Continue",
+    
+    "cancelButton": "Cancel",
+   
+    "hintTextYear": "year",
+    "hintTextDay": "day",
+    "hintTextMonth": "month",
+
+    "profileAbout": "About",
+    "profileFollowing": "Subscriptions",
+    "profileFollowers": "Subscribers",
+    "biography" : "Biography",
+    "readMore" : "Read more",
+
+    "profileSkills": "Education Background",
+    "profileSkillsEstablishment": "Establishment",
+    "profileSkillsEstablishmentHint": "University or Institute",
+    "profileSkillsDiploma": "Diploma",
+    "profileSkillsDiplomaHint": "Certificate or Diploma",
+    
+    "profileExperience": "Experiences",
+    "profileExperienceCompany": "The Company",
+    "profileExperienceCompanyHint": "Tv Station, Radio, Newspaper",
+    "profileExperienceJobTitle": "Job Title",
+    "profileExperienceJobTitleHint": "Journalist, Editor, Reporter",
+    "profileExperiencePeriode": "Period",
+    "profileExperiencePeriodeYear": "Year",
+    "profileExperienceSnackBarCompanyName": "Enter company name",
+    "profileExperienceSnackBarJobTitle":  "Enter job title",
+    "profileExperienceSnackBarInvalidPeriode":  "Invalid period",
+    "deleteAsk": "Do you want to continue ?",
+    
+    "profileContacts": "Contacts",
+
+    "requiredFiled" : "Field required",
+    "descriptionPoll" : "Description of poll",
+
+    "articleReference" : "Article references",
+    "snackBarAddParagph" : "Add one paragph a least",
+   
+   
+    "createProfiletitle" : "Personality Profile",
+    "createProfileAgeHintText" : "Born",
+    "createProfileHomeTwonHintText": "Hometown",
+    "createProfilecurrentCityHintText" : "Current City",
+    "createProfileCvHintText" : "Curriculum Vitae",
+
+    "createProfileNationality" : "Nationality",
+    "createProfileChildren" : "Children",
+    "createProfileRelation" :"Relationship Status",
+    "createProfileEducation" :"Education",
+    "createProfileOccupation" :"Occupation",
+
+    "snackBarAddSteps" : "Add at least one step",
+  
+
+    
+    "trueKey" : "True",
+    "falseKey" : "False",
+    "report" : "Report" ,
+    "dislike" : "Dislike", 
+    "fiveMostRead" :  "The five most read",
+    "fiveMostViews" : "The five most view",
+    "deletedPost" : "Deleted publication",
+    "noPostDeletedYet" : "No publication has been deleted yet",
+    "like": "Likes",
+    "postViewWrittenBy": "Written by ",
+    "postViewUpdate": "Updated",
+    "pictureBy": "Picture by ",
+    "videoBy": "Video by ",
+    "views": "Views",
+
+
+   
+    "pictureDetailsAddComment": "Type your reply",
+    "commentModifer": "Modify",
+    "commentDelete": "Delete",
+    "commentReply": "Replies",
+    "inviteButton" : "Invite",
+    "iLikeButton" : "I like",
+    "fullScreen" : "Full-Screen",
+   
+   
+    "message": "Messages",
+    "notificationTitle": "Notifications",
+    "account" : "Account",
+
+    "contactUs" : "Contact Us",
+    "aboutUs" : "About Us",
+    "privacyPolicy": "Privacy Policy",
+    "cookiePolicy": "Cookie Policy",
+    "copyrightPolicy": "Copyright Policy",
+    "terms": "Terms",
+    "help" : "Help",
+
+    
+    "accountMenuProfileSetting": "Setting and Privacy",
+    "accountMenuLogOut": "Log Out",
+    "seeYourProfile" : "See your profile",
+    "helpAndSupport" : "Help & Support",
+    "accountEmail" : "Account email",
+    "changePassword" : "Change password",
+    "location": "Location",
+    "language" : "Language",
+    "newEmail" : "New email",
+    "currentPassword" : "Current password",
+    
+    "newEmailDescription" :  "Adding a current email to your Teltrue account can help you log in and receive notifications as well as reset your password easily.",
+    "currentPassIsWrong" : "Current password is wrong",
+    "passWordCondition" : "Password must be at least 8 characters",
+    
+   
+   
+   
+    "messageSorryCannotSend" : "Sorry, you cannot send a message to this account",
+    "blockButton": "Block",
+    "suggestionChatUnBlock": "Unblock",
+    "suggestionChatTypeMsg": "Type your message",
+    "suggestionChatDeleteConversation": "Delete Chat",
+    "suggestionChatBlockMsgRequest": "Block messages and calls ?",
+    "suggestionChatBlocktitle2": "Telltrue Account",
+    "suggestionChatBlockDescrip": "You can't message or call them in this chat, and you won't receive their messages or calls.",
+    "suggestionChatBlocktitle1": "You Blocked Messages and Calls From",
+    "suggestionChatBlockMsgDescrip1": "Your won't receive messages or calls  from ",
+    "suggestionChatBlockMsgDescrip2": "\nThe conversation will stay in Chats unless you hide it.",
+    "suggestionChatDeleteConversationDescrip": "Once you delete your copy of this conversation, it cannot be undone.",
+
+
+    "messageNoMessageYet": "You didn't make any conversation yet",
+    "messageStartMessage": "Start a new conversation",
+    
+
+    "copyRight" : "©2021 Telltrue Company. All rights reserved.",
+    "addprofileImageDes" :   "Your profile photo helps your team know who you are in Telltrue. And if your photo is clear, it'll be easier for someone to pick you out in a crowd or a meeting!",
+    "subtitleReviewPage": "Success !",
+    "descriptionP1ReviewPage": "Thank's ",
+    "descriptionP3ReviewPage": ", We've received your request for a Journalist account and we are in the process of reviewing it (24hr). Take in mind that Your ID will be securely stored and deleted within 30 days of confirming your identity",
+    
+    "personalPicture" : "Personal pictures",
+    "postPicture" : "Post pictures",
+    "noPictureToshow" : "No Pictures to show",
+    "pictureSetAsProfilePic": "Set as profile picture",
+    "pictureDelete": "Delete this Photo",
+    "pictureDeleteRequest": "Are you sure you want to delete this photo ?",
+    
+
+
+
+    
+    "profilePicAndVid": "Pictures",
+    "profilePicturesOfYou": "Pictures of you",
+    "profileVideo": "Videos",
+    "yourVideos": "Your Videos",
+    "liveVideos": "Live videos",
+   
+    "readers" : "Readers",
+    "nobreakingNewsyet" : "No breaking news yet",
+    "noBreakingNewsDes" :  "When you get breaking news, they'll show up here",
+    "breakingNewsisAvailable" :   "This breaking news is unfortunately not available.",
+   
+    "noCommentYetTitle": "No replies here yet...",
+    "noCommentsYetDes": "Be the first to share what you think !",
+    
+   
+   
+    "readLess" : "Read less",
+    "vote": "vote",
+    "undo" : "Undo",
+   
+    
+
+    "reportSelectProb" :  "Please select a the problem to continue",
+    "report1" : "Unethical content ",
+    "report2" : "Trivial content",
+    "report3" : "Content that harms religion",
+    "report4" : "Content that harms security and incites violence",
+    "sendButton" :  "Send",
+
+    "eventInterestedButton": "Interested",
+    "eventNotInterestedButton": "Not Interested",
+
+    
+
+    
+    "addPostArticle": "Research article",
+    "addPostArticleGeneralTitle": "General title",
+    "addPostArticleWrittersHintText": "Writers",
+    "addPostArticleKeywords": "Keywords",
+    "addPostArticleCoresspondence": "Correspondence",
+    "addPostArticleAbstract": "Write Abstract here",
+    "addPostArticleConclusion" : "Conclusion",
+    "addPostArticleIntro": "Introduction",
+    
+
+    "participants" : "Participants",
+    "career" : "Career",
+    "closeButton" : "Close",
+    "abstrack": "Abstract",
+    "reference" : "Reference",
+   
+   
+   
+   "noVideoShow" : "No Videos to show",
+   "noLiveVideoShow" : "No Live Video to show",
+   "noPubmatching" : "No matching publications found",
+   "noEventmatching" : "No matching event found",
+   "noTelltruefound" :  " No matching telltrue user found",
+   "result" : "results",
+   "seeAllpub" : "See all publications result",
+   "seeAllEvent" : "See all events result",
+   "telltrueUser": "Telltrue users",
+   "famousPersonIdentified" : "Famous person identified",
+   "eventIdentified":"Event identified",
+    "placeIdentified":"Place identified",
+    "all" :  "All",
+    "addBy" : "Added by",
+
+
+
+    "seeAllpeople" : "See all people result",
+    "searchTelltrue" : "Search Telltrue",
+    "searchFor" : "Search for ",
+    "profileUnfolowButton": "Unsubscribe",
+
+
+    "suggestionsForyou" : "Suggestions for you",
+    "todayTopWritting": "Today’s top writing",
+
+    "notificationNoYetTitle": "No notifications yet",
+    "notificationNoYetDes": "When you get notifications, they'll show up here",
+
+    "inviteYouToReadAn": "  invite you to read ",
+    "inviteYouToAnswer": "  invite you to answer ",
+    "inviteYouToWatch": "  invite you to watch ",
+    "inviteYouToSee": "  invite you to see ",
+    "inviteYouToReadEvent": "  invite you to see an event ",
+    "notificationSubscribe": "  started following you.",
+    "and": "and",
+    "other": "other",
+    "commentedYour": " commented your ",
+    "likedYour": "  reacted to your ",
+    "answerYour": "  answered your poll",
+    "reportYour" :" report your ",
+
+    
+   
+    "deletePostDescription" :  "This publication is maybe fake.\n So, it will be deleted from Telltrue",
+    "notiDeletePost" : "Unfortunately, we will delete your ",
+    "fullNamerequired" : "Enter your full name as it is written on your passport or national identity card.",
+
+    "chooseFile" : "Choose a file",
+    "driversLicence" : "Driver's license",
+    "driverLicenceDes" : "Upload a photo or scan of your driver's licence.",
+
+    "driverLicenceFrontSideTitle" : "Front side of your driver's licence",
+    "driverLicenceFrontSideDes" : "Upload the front side of your driver's licence",
+
+    "nationalId": "National ID",
+    "nationalIdDes" : "Upload a photo or scan of your document.",
+    "nationalIdFrontSideTitle" : "Front side of your document",
+    "nationalIdFrontSideDes" : "Upload the front side of your document",
+
+    "nationalIdBackSideTitle" : "Back side of your document",
+    "nationalIdBackSideDes" : "Upload the back side of your document",
+
+    "passport" : "Passport",
+    "passportDes" : "Upload a photo or scan of your passport photo page.",
+    "passportUploadDes" : "Details page with the picture",
+    "chooseOtherOption" : "Choose a different ID document",
+   
+   
+    
+    "driverLicenceBackSideTitle" : "Back side of your driver's licence",
+    "driverLicenceBackideDes" :"Upload the back side of your driver's licence",
+    "uploadAproofOfidendity" : "Upload a proof of your identity",
+    "chooseCountryDes":  "Please choose the country that issued the ID document you have on hand.",
+    "countryDropDowntitle" : "ID issuing country",
+    "selectCountry" : "Select Country...",
+    "documentType" : "Document type",
+    "selectDocType" : "Select a document type",
+
+
+
+
+    "firstAndlastName" : "Full legal first and last names",
+    "firstAndMiddleName" : "Full legal first and middle names",
+    "spellYourName" : "Spell your name exactly as it's shown on your passport or ID card.",
+    "fullLegalLastName": "Full legal last name(s)",
+    "spellHomeTwon": "Enter your hometwon as it is written on your passport or national identity card.",
+    "spellCurrentLocation" : "Enter your current location as it is written on your passport or national identity card.",
+    "passwordConditions" : "Password must contain a letter and a number, and be minimum of 8 characters",
+    "birthDayCondition" : "Enter your Birthday as it is written on your passport or national identity card.",
+    "phone" : "Phone",
+    "phoneNumber" : "Phone number",
+    "theAccountAlready": "The account already exists for that email",
+    "welcomeToOurteam" : "Welcome to our Team",
+
+
+   
+   
+   
+    "journalistReporter": "Reporter",
+    "journalistWriter": "Journalist and Writer",
+    "journalistAnimator": "Tv Presenter",
+    "photoJournalist": "PhotoJournalist",
+    "journalistEditor": "Journalist and Editor",
+    "onlineJournalistBloger": "Online Journalist",
+    "tvColumnist": "Tv Columnist",
+    "freelanceJournalist": "Freelance  Journalist",
+    "investigativeJournalist": "Investigative Journalist",
+    "politician": "Politician",
+    "sercher" : "Searcher",
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+    "formIdentifierLoginPage": "Email Address",
+    "formPasswordLoginPage": "Password",
+    "onlyReaderOptionSignIn": "Or (Only Reader)",
+    "forgotPasswordLoginPage": "Forgot Password ?",
+    "askForSignUpLoginPage": "Don't have an account ?",
+    "signUpFlatButtonLoginPage": "Sign Up",
+    "connectButtonLoginPage": "Log In",
+    "snackBarNoUserFound": "No user found for that identifier",
+    "snackBarWrongPassword": "Wrong Password",
+    "appBarTitleResetPassword": "Reset Password",
+    "subtitleResetPassword": "Step 1 : Find Your Account",
+    "descriptionResetPassword": "We just need your registered email to send you password reset code",
+    "hintTextResetPassword": "Enter your Email correctly",
+
+    "subtitlePassCode": "Step 2 : Verification Code",
+    "descriptionPassCode": "Enter the verification code we just sent you on your registered",
+    "hintTextPassCode": "Code",
+    "resendCodeFlatButtonPassCode": "Resend Code !",
+    "verifybuttonPassCode": "Verify",
+    "subtitleCreateNewPassword": "Step 3 : Create New Password",
+    "descriptionCreateNewPassword": "your new password must be different from the previously used password",
+    "hintTextNewPassword": "New Password",
+    "hintTextConfirmNewPassword": "Confirm New Password",
+
+    "yesItsMeButton" : "Yes, It's me",
+    "tryAgainButton" : "Try again",
+    "noAccountAttachedDes" : "Sorry, no account is attached to this email",
+    "taostConfirmThePassWord" : "Please confirm the password",
+    "toastInvalidCode": "Invalid Code",
+
+
+    "appBarTitleSignUpMode": "Sign Up Mode",
+    "subtitleSignUpMode": "Who are you ?",
+    "descriptionSignUpMode": "you are ready to join us as a journalist, reader, or Media",
+    "iamReaderSignUpMode": "I'am Reader",
+    "iamJournalistSignUpMode": "I'am Journalist",
+    "weareMediaSignUpMode": "We are Media",
+
+
+    "hintTextFullNameSignUpWithEmail": "The Same in the Identifier",
+    "fullNameTitleSignUpWithEmail": "Full Name",
+    "emailTitleSignUpWithEmail": "The Official Email Address",
+    "locationTitleSignUpWithEmail": "The Current Location",
+    "genderSignUpWithEmail": "Gender",
+    "hintTextGetLocationSignUpWithEmail": "Country,  City",
+
+
+    "hintTextIdentifierSignUpWithEmail": "teltrue-name@exemple.com",
+    "hintTextPasswordSignUpWithEmail": "Password",
+    "hintTextConfirmPasswordSignUpWithEmail": "Confirm Password",
+    
+    "hintTextSelectMale": "Male",
+    "hintTextSelectFemale": "Female",
+    "nextButton": "Next",
+    
+    "snackBarInvalidFullName": "Enter your full name !",
+    "snackBarInvalidEmail": "Enter valid  Email address !",
+    "snackBarInvalidPassword": "Password must have 8 characters !",
+    "snackBarInvalidConfirmPassword": "Confirm your password",
+    "snackBarInvalidLocation": "Enter your current Location",
+    "subtitleJournalistSignUpWorkSpace": "Workspace Name",
+    "subtitleJournalistSignUpBirthday": "Date of Birth",
+    "subtitleJournalistSignUpUploadId": "Upload your Photo ID",
+    "hintTextChannelNameJournalistSignUp": "Tv or Radio or Newspaper...",
+    
+    "descriptionUploadPhotoId": "To make sure of your identity, We need you to upload a color photo of your government-issued id. Your Id should include your name, day of Birth, and photo. \nacceptable Ids include your: \n- Passport \n- National Id card \n- driver's license \nOnce we received and reviewed a clear photo of your Id we will delete your  Identification document from our server",
+    "choosePhotoButton": "Choose Photo",
+    "snackBarUploadImageId": "image uploaded successfully",
+    "snackBarInvalidBirthday": "Enter the valid day of Birth!",
+    "snackBarSince": "Enter valid Start day !",
+    "snackBarInvalidUpload": "You must upload your identity photo",
+
+
+
+    "snackBarSelectOption": "You must choose One of Option ",  
+    "appBarTitleAddProfileImage": "Profile Image",
+    "subtitleWelcomePage": "You have successfully registered in our app and can start working on it",
+    "startButton": "Start",
+    "photoCamera": "Camera",
+    "appBarTitleSuggestion": "Suggestion to follow",
+    "descriptionSuggestion": "Select some topics you’re interested in to help personalize your Telltrue experience, starting with finding a journalist or Media to follow.",
+    "subtitleSuggestion1": "Journalists of ",
+    "subtitleSuggestion2": "Television and Radio ",
+    "subtitleSuggestion3": "Newspaper and Magazines ",
+    "noJournalistYet": "No journalist from your country has registered yet",
+    "noTvRadioYet": "No Tv or Radio from your country has registered yet",
+    "noNewspaperMagazine": "No Newspaper or Magazine from your country has registered yet",
+    "appBarTitleAccountMenu": "Account Menu",
+    
+    "profileRead": "Reading",
+    "profilePublications": "Publications",
+    "profileSuggestion": "Suggestion",
+    "profileFollow": "Subscribe",
+   
+    
+    "profileReviews": "Reviews",
+    "profileInviteToRead": "Invite to Read",
+    "profileSuggestionIntro": "So, if you have news or you are a witness...you can suggest it to your Prefer Journalist with Images, Videos or Documents.",
+    "profileSuggestionSubjectHint": "Subject",
+    "profileSuggestiondescription": "Description",
+    "profileSuggestionAddEvidence": "Add Evidence",
+    "profileSuggestionSendButton": "Send",
+    "profileUnfollowRequest": "Unsubscribe from ",
+    
+
+
+    "profileContactsIdentifier": "Identifier",
+
+    
+
+    
+
+    "viewProfile": "View Profile",
+    "deleteConversation": "Delete Conversation",
+    "blockMessage": "Block message",
+    
+    
+
+
+
+    "createPostBreakingNewsTitle": "Breaking News",
+    "addPostBreakingNewsTitleHint": "Breaking news title",
+    "addPostBreakingNewsDesHint": "Tell us What's Happened ",
+
+    "tagTypeToSearch" : "Type to search",
+    "tagNoTagSearchFound" : "No tag search found",
+    "tagSearchNumberOf" : "Teltrue people are posting about this",
+    "useButton" :  "Use This",
+
+
+    
+   
+   
+
+
+
+    "createPostArticleTitle": "Article",
+    "createPostBroadcastTitle": "Broadcasting",
+    "createPostInpicTitle": "In Picture",
+    "createPostInvestigationTitle": "Investigation",
+    "createPostEventTitle": "Event",
+
+
+    "createPostCommentary" : "Commentary & Perspectives",
+    "feel" : "feel",
+
+
+    
+    "createPostBroadCastDes": "Share a Journalism Interview, reportage, or live streaming about an event with a short description",
+    "createPostInPicDes": "Make picture talk !",
+    "createPostInvestigationDes": "Share your Investigation about crime or about actual  phenomenon or about Disaster with true proves or witnessing",
+    "createPostEvent": "Planning a cultural event or work event",
+
+    "createPostBreakingNewsDes": "Breaking news for today",
+    "createPostLastestNewsTitle" : "Latest news",
+    "createPostLastestNewsDes" : "Find the latest news and information on the top stories, weather, business, entertainment, politics, and more.",
+    "createPostCommentaryDes" : "Commentaries are usually short articles that consist of 1,000 to 1,500 words, and they draw attention to, or critique a book, report, or article that is already published.",
+    "createPostEssay" : "Essay",
+    "createPostEssayDes" : "Most essays are short to medium-length pieces about a personal experience or an opinion. Typically, an essay revolves around one subject and presents your views.",
+    "createPostHowToDes" : "These prescriptive pieces contain steps, ways, or tips that help the reader do something specific. They provide the Rx (solution) for a problem or the answer to a question",
+    "createPostProfileDes" : "This type of article revolves around a person’s life (not yours) and accomplishments. Based on an interview, you provide an in-depth look at her life...",
+    "createPostAnalysisDes" : "Review articles present a constructive and critical analysis of existing literature, accomplished through analysis, comparison, and summary. They can identify specific problems or gaps and can even provide recommendations for research in the future.", 
+    "createPostStoryDes" : "Tale, News, History, Legend, Science Fiction, Short Story, Tragedy, Comedy",
+    "createPostSponsored" : "Sponsored",
+    "createPostSponsoredDes" : "Sponsored content articles are, in essence, a type of advertising. They look and read like regular editorials, but they are paid for by a specific advertiser and therefore",
+    "createPostArticleDes": "research articles are very detailed studies that report the original research. Considered primary literature, original research articles include the background study, methods, hypothesis, results, and the interpretation of the findings",
+
+
+    "addPostSearchPlaceHint": "Find the place",
+    "addPostSearchEventHint": "Find the current event title",
+    "addPostSearchPersonHint": "Find the famous person name",
+    "tagPerson": "Famous person",
+    "tagEvent": "Event",
+    "tagPlace": "Place",
+    
+    "snackBarTopic": "You must Select Topic",
+    "askQuestionTitleHint" : "Ask something",
+
+
+    
+    "createPostQuestionDes": "Opinion polls are similar to surveys or an inquiry designed to gauge public opinion about a specific issue or a series of issues in a scientific and unbiased manner.",
+    "feelingHappy": "happy",
+    "feelingCool": "cool",
+    "feelingSurprised": "surprised",
+    "feelingShocked": "shocked",
+    "feelingNervous": "nervous",
+    "feelingAngry": "angry",
+    "feelingDrool": "drool",
+    "feelingSweat": "sweating",
+    "feelingCrying": "crying",
+    "feelingSad": "sad",
+    "feelingDead": "dead",
+    "feelingDubious": "dubious",
+    "feelingTired": "tired",
+    "feelingLoved": "loved",
+    "feelingPain": "pain",
+    "feelingMuted": "muted",
+    "feelingGreed": "greed",
+    "feelingSick": "sick",
+    
+
+    "pollTitle" : "Poll",
+    "choiceOne" : "Choice One",
+    "choiceTwo" : "Choice Two",
+    "choiceThree" : "Choice Three",
+    "pollLength" : "Poll length",
+    "days" : "days",
+    "hours" : "Hours",
+    "Minutes" : "Minutes",
+
+    
+    "unDoneDialogDiscardPost":   "Discard Post",
+    "unDoneDialogDiscardDes":   "This can't be undone and you'll lose your draft.",
+    "unDoneDialogDiscardButton":  "Discard",
+
+
+    "addPostBreakingNews": "Breaking News",
+    "addPostOpiniontitle": "Opinion title",
+    "addPostAnalysistitle": "Analysis title",
+   
+    
+    "addPostInvestigation": "Investigation",
+   
+
+    
+    "feelingButton": "Feelings",
+    "topicButton": "Topic",
+    "uploadButton": "Upload",
+
+
+    "articleTitleHint": "Article title",
+    "investigationTitleHint": "Investigation title",
+    "picAndvidButton": "Photo/Video",
+    
+    "mediaBoxIsEmptyLabel": "No pictures or videos added yet",
+ 
+   
+
+    
+    "addPostOpinionHint": "What do you Think ",
+    "addPostAnalysisHint": "Start your analysis",
+    "addPostArticleHint": "Article Description",
+    "addPostInvestigationHint": "Investigation details",
+    "addPostTypeResourcesHint": "Type your article's resources",
+
+    "addEventTitle" : "Organize an event",
+    "addEventTitleHint": "Event title",
+    "addEventPlaceLabel": "Event Place",
+    "addEventPlaceHint": "Hotel, Convention Hall, Street address, Online Event",
+    "addEventSpeakerLabel": "Animator",
+    "addEventSpeakerHint": "Speaker full name",
+    "addEventDateLabel": "Date",
+    "addEventMonthHint": "Month",
+    "addEventDayHint": "Day",
+    "addStartEventTime": "Start Time",
+    "addEndEventTime": "End Time",
+    "addEventPoster": "Event Poster",
+    "addEventAboutHint": "About Event...",
+
+    
+
+    "startLiveButton": "Start Live",
+    "videoBoxIsEmptyLabel": "No video added yet",
+    "snackBarUplodPicture": "Please Upload a Picture",
+    "snackBarUplodVideo": "Please Upload a video",
+    "addStreamDescription": "Short Description",
+
+    
+    
+
+ 
+    "snackBarArticletitle": "Please type a title  for article !",
+    "snackBarArticleDes": "Please write your article !",
+    "snackBarAnalyisDes": "Please write your analysis !",
+    "snackBarInvestigationTitle": "Please write your investigation !",
+    "snackBarInvestigationDes": "Please write your investigation !",
+    
+    "snackBarEventTitle": "Please type a title for event !",
+    "snackBarEventPlace": "Please type a place address !",
+    "snackBarSpeakerList": "Please type speakers names",
+    "snackBarValidDate": "Please type a valid date",
+    "snackBarValidStartTime": "Please type a valid start time !",
+    "snackBarValidEndTime": "Please type a valid end time",
+    "snackBarPoster": "Please upload a poster !",
+    "snackBarAbout": "Please write some words about event !",
+    
+    
+    "postedAn": "  posted an",
+    "picture": " Picture",
+    "video": " Video ",
+    
+    "eventViewSpeaker": "speaker",
+    
+    
+    "postViewAskBy": "Ask by ",
+    
+
+   
+    "resources": "Resources",
+
+   
+
+
+    "read": "Read",
+    "searchFriend": "Search friend",
+    "sentButton": "Sent",
+    
+    
+
+    "createHowToTitle"  :"How To ?",
+    "createHowToSuplliesHintText" : "Supplies",
+    "createHowToThinkInStep" : "Think in steps",
+    "createHowToStepTitleHintText" : "Step title (Optional)",
+    "createHowToStepDetailsHintText" :  "Details of step",
+    "createHowToShowResult" : "Display result",
+    "createHowToAddStepButton" :  "Add step",
+
+    "snackBarSupplies" : "You need to write down some supplies",
+    "snackBarSteps" : "you need to write down some steps",
+    "snackBarBiography" : "Please write some word about",
+
+    
+
+    "createAnalysisAddpart": "Add paragraph",
+    "createAnalysisTitle": "Analysis and Review",
+    "createAnalysisPartTitle": "Paragraph title",
+    "createAnalysisPartDetails": "Paragraph details",
+
+
+    "snackBarEmptyTitle" : "Please type a title",
+    "snackBarEmptyDes" : "Please type some words in the description Box",
+    "snackBarEmptyParagraph" : "Please type one paragraph au minimum",
+
+    "broadcastingHintTextDes" : "Broadcasting description",
+    "inPictureHintTextDes" : "Picture description",
+
+    "createStoryTitle" : "Story",
+    "createStorytitleHintText" : "Story title (Optional)",
+    "createStoryDesHintText" : "Write your story here",
+
+    "addPostEssayDesHintText" : "describe an opinion or personal experience",
+
+   
+    "noContentAvailable" : "No content available",
+    "noOtherPublication" : "There are no other publications to display",
+
+
+
+    "interestAll" : "All",
+    "interestWorld" : "World",
+    "interestBusiness" : "Business & Finance",
+    "interestLifestyle" : "Lifestyle",
+    "interestTechnology" : "Computers Science & Technology",
+    "interestSport" : "Sport",
+    "interestHealth" : "Health & Medicine",
+    "interestScience" : "Science",
+    "interestEntertainment" : "Entertainment",
+    "interestAgriculture" : "Agriculture",
+    "interestMechanical" : "mechanical",
+    "interestOther" : "Other" , 
+
+
+    "filter" : "Filter" , 
+    "watch" : "Watch",
+    "trending" : "Trending",
+    "home" : "Home",
+    "write" : "Write",
+    "readLater" : "Read later",
+    "watchLater" : "Watch later",
+    "dashbord" : "Dashboard",
+    "payment" : "Payment",
+
+    "profileInterest" : "Interests"
+    
+
+   
+
+    
+
+
+
+
+    
+    
+
+}

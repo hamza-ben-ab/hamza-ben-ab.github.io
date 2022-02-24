@@ -1,0 +1,595 @@
+{
+    
+    "teltrueSayHey": "مرحبا",
+    "teltrueWelcomIntro": "\nالمنصة الوحيدة  التي يكون فيها  الصحفي هو القائد",
+    "formIdentifierLoginPage": "المعرف",
+    "formPasswordLoginPage": "كلمه السر",
+    "onlyReaderOptionSignIn": "أو (القارئ فقط)",
+    "forgotPasswordLoginPage": "هل نسيت كلمة المرور ؟",
+    "askForSignUpLoginPage": "ليس لديك حساب ؟",
+    "signUpFlatButtonLoginPage": "سجل",
+    "connectButtonLoginPage": "تسجيل الدخول",
+    "appBarTitleResetPassword": "إعادة تعيين كلمة المرور",
+    "subtitleResetPassword": "الخطوة 1: ابحث عن حسابك",
+    "descriptionResetPassword": "نحتاج فقط إلى بريدك الإلكتروني المسجل لنرسل لك رمز إعادة تعيين كلمة المرور",
+    "hintTextResetPassword": "أدخل بريدك الإلكتروني بشكل صحيح",
+    "sendRequestResetPassword": "ارسل طلب",
+    "subtitlePassCode": "الخطوة 2: رمز التحقق",
+    "descriptionPassCode": "أدخل رمز التحقق الذي أرسلناه لك للتو على حسابك المسجل",
+    "hintTextPassCode": "الرمز",
+    "resendCodeFlatButtonPassCode": "أعد إرسال الرمز !",
+    "verifybuttonPassCode": "تحقق",
+    "subtitleCreateNewPassword": "الخطوة 3: إنشاء كلمة مرور جديدة",
+    "descriptionCreateNewPassword": "يجب أن تكون كلمة المرور الجديدة مختلفة عن كلمة المرور المستخدمة مسبقًا",
+    "hintTextNewPassword": "كلمة مرور جديدة",
+    "hintTextConfirmNewPassword": "تأكيد كلمة المرور الجديدة",
+    "resetPasswordCreatePassword": "إعادة تعيين كلمة المرور",
+    "subtitleSignUpMode": "من أنت ؟",
+    "descriptionSignUpMode": "أنت جاهز للانضمام إلينا كصحفي أو قارئ بسيط أو إعلام",
+    "iamReaderSignUpMode": "أنا قارئ",
+    "iamJournalistSignUpMode": "انا صحفي",
+    "weareMediaSignUpMode": "نحن ميديا",
+
+    "yesItsMeButton" : "نعم هذا انا",
+    "tryAgainButton" : "حاول مرة أخري",
+    "noAccountAttachedDes" : "عذرا ، لا يوجد حساب مرفق بهذا البريد الإلكتروني",
+    "taostConfirmThePassWord" : "الرجاء تأكيد كلمة المرور",
+    "toastInvalidCode": "الرمز غير صحيح",
+
+
+    "addPostSearchPlaceHint": "ابحث عن المكان",
+    "addPostSearchEventHint": "ابحث عن عنوان الحدث الحالي",
+    "addPostSearchPersonHint": "ابحث عن اسم الشخص المشهور",
+    "tagPerson": "شخص مشهور",
+    "tagEvent": "حدث",
+    "tagPlace": "مكان",
+    "addPostBreakingNewsDesHint": "أخبرنا بما حدث",
+    "snackBarTopic": "يجب عليك تحديد الموضوع",
+
+  
+    "hintTextIdentifierSignUpWithEmail": "عنوان البريد الالكترونى",
+    "hintTextPasswordSignUpWithEmail": "كلمه السر",
+    "hintTextConfirmPasswordSignUpWithEmail": "تأكيد كلمة المرور",
+ 
+
+    "hintTextFullNameSignUpWithEmail": "الشيء نفسه في المعرف",
+    "fullNameTitleSignUpWithEmail": "الاسم بالكامل",
+    "emailTitleSignUpWithEmail": "عنوان البريد الإلكتروني الرسمي",
+    "locationTitleSignUpWithEmail": "الموقع الحالي",
+    "genderSignUpWithEmail": "جنس",
+    "hintTextGetLocationSignUpWithEmail": "البلد والمدينة",
+
+
+    "hintTextSelectMale": "الذكر",
+    "hintTextSelectFemale": "أنثى",
+    "nextButton": "التالى",
+    "snackBarInvalidFullName": "أدخل اسمك الكامل !",
+    "snackBarInvalidEmail": "أدخل عنوان بريد إلكتروني صالح!",
+    "snackBarInvalidPassword": "يجب أن تتكون كلمة المرور من 8 أحرف!",
+    "snackBarInvalidConfirmPassword": "تأكيد كلمة المرور",
+    "snackBarInvalidLocation": "حدد موقعك الحالي",
+    "subtitleJournalistSignUpWorkSpace": "اسم مساحة العمل",
+    "subtitleJournalistSignUpBirthday": "تاريخ الميلاد",
+    "subtitleJournalistSignUpUploadId": "قم بتحميل معرف الصورة الخاص بك",
+    "hintTextChannelNameJournalistSignUp": "تلفزيون أو راديو أو جريدة ...",
+
+    "hintTextYear": "عام",
+    "hintTextDay": "يوم",
+    "hintTextMonth": "شهر",
+    "descriptionUploadPhotoId": "للتأكد من هويتك ، نحتاج منك تحميل صورة ملونة من بطاقة هويتك الصادرة عن الحكومة. يجب أن يتضمن هويتك اسمك وتاريخ ميلادك وصورتك. \n تشمل المعرفات المقبولة: \n- جواز السفر \n- بطاقة الهوية الوطنية \n- رخصة القيادة \n بمجرد استلامنا صورة واضحة عن هويتك ومراجعتها ، سنحذف مستند التعريف الخاص بك من الخادم الخاص بنا",
+    "choosePhotoButton": "اختر صورة",
+    "snackBarUploadImageId": "تم تحميل الصورة بنجاح",
+    "snackBarInvalidBirthday": "أدخل يوم الميلاد الصحيح",
+    "snackBarSince": "أدخل يوم بدء صالحًا",
+    "snackBarInvalidUpload": "يجب عليك تحميل صورة هويتك",
+    "appBarTitleJournalistKind": "نوع الصحفي",
+   
+    "subtitleReviewPage": "نجاح!",
+    "descriptionP1ReviewPage": "شكر ",
+    "descriptionP3ReviewPage": "، لقد تلقينا طلبك للحصول على حساب صحفي ونقوم بمراجعته (24 ساعة). ضع في اعتبارك أنه سيتم تخزين هويتك بشكل آمن وحذفها في غضون 30 يومًا من تأكيد هويتك",
+    "snackBarSelectOption": "يجب عليك اختيار الخيار",
+    "doneButton": "تم",
+    "appBarTitleAddProfileImage": "صورة الحساب",
+    "subtitleWelcomePage": "لقد قمت بالتسجيل بنجاح في تطبيقنا ويمكنك البدء في العمل عليه",
+    "startButton": "إبدأ",
+    "photoLibrary": "مكتبة الصور",
+    "photoCamera": "الة تصوير",
+    "appBarTitleSuggestion": "اقتراح لمتابعة",
+    "descriptionSuggestion": "حدد بعض الموضوعات التي تهتم بها للمساعدة في تخصيص تجربتك في Teltrue ، بدءًا من البحث عن صحفي أو وسائط لمتابعة.",
+    "subtitleSuggestion1": " صحفيو",
+    "subtitleSuggestion2": "التلفزيون والراديو",
+    "subtitleSuggestion3": "الصحف والمجلات",
+    "noJournalistYet": "لم يتم تسجيل أي صحفي من بلدك حتى الآن",
+    "noTvRadioYet": "لم يتم تسجيل أي تلفزيون أو راديو من بلدك حتى الآن",
+    "noNewspaperMagazine": "لم تسجل أي صحيفة أو مجلة من بلدك  حتى الآن",
+    "appBarTitleAccountMenu": "قائمة الحساب",
+    
+
+
+    "profileRead": "قراءة",
+    "profileFollowing": "الاشتراكات",
+    "profileFollowers": "مشتركين",
+    "profilePublications": "المنشورات",
+    "profileSuggestion": "اقتراح",
+    "profileFollow": "الإشتراك",
+    "profileAbout": "حول",
+    "profilePicAndVid": "الصور",
+    "profileReviews": "المراجعات",
+    "profileInviteToRead": "دعوة للقراءة",
+    "profileAboutHint": "حول",
+    "profileSuggestionIntro": "إذا كان لديك أخبار أو كنت شاهداً ... يمكنك اقتراحها على الصحفي المفضل لديك مع الصور أو مقاطع الفيديو أو المستندات.",
+    "profileSuggestionSubjectHint": "موضوع",
+    "profileSuggestiondescription": "وصف",
+    "profileSuggestionAddEvidence": "أضف الدليل",
+    "profileSuggestionSendButton": "إرسال",
+    "profileUnfollow": "إلغاء الاشتراك",
+    "cancelButton": "إلغاء",
+    "profilehintReviews": "أضف رأيك حول",
+    "saveButton": "حفظ",
+    "profileSkills": "المهارات",
+    "profileSkillsEstablishment": "المؤسسة",
+    "profileSkillsEstablishmentHint": "الجامعة أو المعهد",
+    "profileSkillsDiploma": "شهادة دبلوم",
+    "profileSkillsDiplomaHint": "الشهادة أو الدبلوم",
+    "profileSkillsDeleteAsk": "هل تريد الاستمرار ؟",
+    "confirmButton": "تأكيد",
+
+    "profileExperience": "الخبرة",
+    "profileExperienceCompany": "الشركة",
+    "profileExperienceCompanyHint": "محطة تلفزيون ، راديو ، جريدة",
+    "profileExperienceJobTitle": "المسمى الوظيفي",
+    "profileExperienceJobTitleHint": "صحفي ,محرر, مراسل",
+    "profileExperiencePeriode": "الفترة",
+    "profileExperiencePeriodeYear": "عام",
+    "profileExperiencePeriodeAt": "إلى",
+
+    "profileInterests": "الإهتمامات",
+    
+    "profileContacts": "جهات الاتصال",
+    "profileContactsIdentifier": "المعرف",
+
+
+    "createPostCommentary" : "التعليق ووجهات النظر",
+    "feel" : "يشعر",
+
+    "createPostQuestionDes": ".تشبه استطلاعات الرأي الاستطلاعات أو الاستفسار المصمم لقياس الرأي العام حول قضية معينة أو سلسلة من القضايا بطريقة علمية وغير منحازة",
+    
+
+
+    
+    "feelingHappy": "السعادة",
+    "feelingCool": "برودة",
+    "feelingSurprised": "الإندهاش",
+    "feelingShocked": "الصدمة",
+    "feelingNervous": "  التوتر",
+    "feelingAngry": "الغضب",
+    "feelingDrool": "سال لعابه",
+    "feelingSweat": "التعرق",
+    "feelingCrying": "الصراخ ",
+    "feelingSad": "الحزن",
+    "feelingDead": "الموت",
+    "feelingDubious": "التردد",
+    "feelingTired": "التعب",
+    "feelingLoved": "الحب",
+    "feelingPain": "الألم",
+    "feelingMuted": "الصمت",
+    "feelingGreed": "الجشع",
+    "feelingSick": "المرض",
+   
+
+    "pollTitle" : "تصويت",
+    "choiceOne" : "الخيار الأول",
+    "choiceTwo" : "الاختيار الثاني",
+    "choiceThree" : "الاختيار الثالث",
+    "pollLength" : "طول الاستطلاع",
+    "days" : "أيام",
+    "hours" : "ساعات",
+    "Minutes" : "دقائق",
+
+    "addPostArticle": "مقاله بحثيه",
+    "addPostArticleGeneralTitle": "العنوان العام",
+    "addPostArticleWrittersHintText": "الكتاب",
+    "addPostArticleKeywords": "الكلمات الدالة",
+    "addPostArticleCoresspondence": "مراسلة",
+    "addPostArticleAbstract": "اكتب الملخص هنا",
+
+    "addPostArticleFirstPartTitle" : "عنوان الجزء الأول",
+    "addPostArticleSecondPartTitle" : "عنوان الجزء الثاني",
+    "addPostArticleThirdPartTitle" : "عنوان الجزء الثالث",
+    "addPostArticleFourthPartTitle" : "عنوان الجزء الرابع",
+
+    "addPostArticleFirstPartDes" : "وصف الجزء الأول",
+    "addPostArticleSecondPartDes" : "وصف الجزء الثاني",
+    "addPostArticleThirdPartDes" : "وصف الجزء الثالث",
+    "addPostArticleFourthPartDes" : "وصف الجزء الرابع",
+    "addPostArticleConclusion" : "الإستنتاج",
+
+    "addPostArticleIntro": "مقدمة",
+    "unDoneDialogDiscardPost":   "تجاهل المنشور",
+    "unDoneDialogDiscardDes":   "لا يمكن التراجع عن هذا وستفقد مسودتك.",
+    "unDoneDialogDiscardButton":  "تجاهل",
+
+    "createHowToTitle"  :"كيف؟",
+    "createHowToSuplliesHintText" : "لوازم",
+    "createHowToThinkInStep" : "فكر بخطوات",
+    "createHowToStepTitleHintText" : "عنوان الخطوة (اختياري)",
+    "createHowToStepDetailsHintText" :  "تفاصيل الخطوة",
+    "createHowToShowResult" : "نتيجة العرض",
+    "createHowToAddStepButton" :  "أضف خطوة",
+
+    "snackBarSupplies" : "يجب أن تكتب بعض المستلزمات",
+    "snackBarSteps" : "يجب أن تكتب بعض الخطوات",
+    "snackBarBiography" : "الرجاء كتابة بعض الكلمات عن",
+
+    "createProfiletitle" : "السيرة الذاتية",
+    "createProfileAgeHintText" : "العمر",
+    "createProfileHomeTwonHintText": "مسقط رأس",
+    "createProfilecurrentCityHintText" : "المدينة الحالية",
+    "createProfileCvHintText" : "السيرة الذاتية",
+
+    "createAnalysisAddpart": "أضف فقرة",
+    "createAnalysisTitle": "التحليل والمراجعة",
+    "createAnalysisPartTitle": "عنوان الفقرة",
+    "createAnalysisPartDetails": "تفاصيل الفقرة",
+
+    "feelingButton": "المشاعر",
+    "topicButton": "الموضوع",
+    "uploadButton": "تحميل",
+
+    "snackBarEmptyTitle" : "الرجاء كتابة العنوان",
+    "snackBarEmptyDes" : "الرجاء كتابة بعض الكلمات في حقل الوصف",
+    "snackBarEmptyParagraph" : "الرجاء كتابة فقرة واحدة كحد أدنى",
+
+    "broadcastingHintTextDes" : "وصف البث",
+    "inPictureHintTextDes" : "وصف الصورة",
+
+    "createStoryTitle" : "قصة",
+    "createStorytitleHintText" : "عنوان القصة (اختياري)",
+    "createStoryDesHintText" : "اكتب قصتك هنا",
+
+
+    "createPostBreakingNewsDes": "الأخبار العاجلة لهذا اليوم",
+    "createPostLastestNewsTitle" : "أحدث الأخبار",
+    "createPostLastestNewsDes" : "اعثر على أحدث الأخبار والمعلومات حول أهم الأخبار والطقس والأعمال والترفيه والسياسة والمزيد.",
+    "createPostCommentaryDes" : "التعليقات عادة ما تكون مقالات قصيرة تتكون من 1000 إلى 1500 كلمة ، وهي تلفت الانتباه أو تنتقد كتابًا أو تقريرًا أو مقالًا تم نشره بالفعل.",
+    "createPostEssay" : "مقال",
+    "createPostEssayDes" : "معظم المقالات هي مقالات قصيرة إلى متوسطة الطول حول تجربة شخصية أو رأي. عادةً ما تدور المقالة حول موضوع واحد وتقدم وجهات نظرك.",
+    "createPostHowToDes" : "تحتوي هذه الأجزاء الإرشادية على خطوات أو طرق أو نصائح تساعد القارئ على القيام بشيء محدد. يقدمون (الحل) لمشكلة أو إجابة لسؤال",
+    "createPostProfileDes" : "يدور هذا النوع من المقالات حول حياة الشخص (وليس حياتك) والإنجازات. بناءً على مقابلة ، تقدم نظرة متعمقة على حياتها ...",
+    "createPostAnalysisDes" : "تقدم مقالات المراجعة تحليلاً بناءً ونقديًا للأدبيات الموجودة ، ويتم إنجازه من خلال التحليل والمقارنة والملخص. يمكنهم تحديد مشاكل أو ثغرات محددة ويمكنهم حتى تقديم توصيات للبحث في المستقبل.", 
+    "createPostStoryDes" : "حكاية ، أخبار ، تاريخ ، أسطورة ، خيال علمي ، قصة قصيرة ، مأساة ، كوميديا",
+    "createPostSponsored" : "برعاية",
+    "createPostSponsoredDes" : "تعتبر مقالات المحتوى المدعوم ، في جوهرها ، نوعًا من الإعلانات. تبدو وكأنها مقالات افتتاحية عادية ، ولكن يتم الدفع لها من قبل معلن معين ",
+   
+    "createPostArticleDes": "المقالات البحثية هي دراسات مفصلة للغاية تقدم تقريرًا عن البحث الأصلي. تشمل المقالات البحثية الأصلية التي تم اعتبارها في الأدبيات الأولية ، دراسة الخلفية والأساليب والفرضيات والنتائج وتفسير النتائج",
+
+
+
+    "createPostBreakingNewsTitle": "أخبار عاجلة",
+    "createPostBroadcastTitle": "البث",
+    "createPostInpicTitle": "في الصورة",
+    "createPostInvestigationTitle": "تحقيق",
+   
+
+    "addPostBreakingNewsTitleHint": "عنوان الأخبار العاجلة",
+   
+
+    "createPostBroadCastDes": "شارك في مقابلة صحفية أو ريبورتاج أو بث مباشر حول حدث مع وصف موجز",
+    "createPostInPicDes": "! اجعل الصورة تتحدث",
+    "createPostInvestigationDes": "شارك تحقيقاتك حول الجريمة أو حول ظاهرة فعلية أو حول كارثة مع الإثباتات الحقيقية أو الشهادة",
+    "createPostEvent": "التخطيط لحدث ثقافي أو حدث عمل",
+
+    "tagTypeToSearch" : "اكتب للبحث",
+    "tagNoTagSearchFound" : "لم يتم العثور على بحث علامة",
+
+
+
+    "tagSearchNumberOf" : "نشر أفراد Teltrue حول هذا الموضوع",
+    "useButton" :  "استخدم هذا",
+    "addPostOpinionHint" : "ما رأيك",
+    "addPostEssayDesHintText" : "صِف رأيًا أو تجربة شخصية",
+    "askQuestionTitleHint": "اسأل شيئا",
+
+    "addEventTitle" : "تنظيم حدث",
+    "addEventTitleHint": "عنوان الحدث",
+    "addEventPlaceLabel": "مكان الحدث",
+    "addEventPlaceHint": "فندق ، قاعة المؤتمرات ، عنوان الشارع ، حدث عبر الإنترنت",
+    "addEventSpeakerLabel": "مقدم",
+    "addEventSpeakerHint": "اسم المتحدث الكامل",
+    "addEventDateLabel": "تاريخ",
+    "addEventMonthHint": "شهر",
+    "addEventDayHint": "يوم",
+    "addStartEventTime": "وقت البدء",
+    "addEndEventTime": "وقت النهاية",
+    "addEventPoster": "ملصق الحدث",
+    "addEventAboutHint": "حول الحدث ...",
+
+
+    "noContentAvailable" : "لا يوجد محتوى متاح",
+    "noOtherPublication" : "لا توجد منشورات أخرى لعرضها",
+
+    "trueKey" : "صحيح",
+    "falseKey" : "خطأ",
+    "report" : "التبليغ" ,
+    "dislike" : "لم يعجبنى", 
+    "fiveMostRead" :  "الخمسة الأكثر قراءة",
+    "fiveMostViews" : "الخمسة الأكثر مشاهدة",
+    "deletedPost" : "المنشورات  المحذوفة",
+    "noPostDeletedYet" : "لم يتم حذف أي منشور بعد",
+
+
+    "interestAll" : "الكل",
+    "interestWorld" : "العالمية",
+    "interestBusiness" : "المال والأعمال",
+    "interestLifestyle" : "أسلوب الحياة",
+    "interestTechnology" : "علوم الكمبيوتر والتكنولوجيا",
+    "interestSport" : "رياضة",
+    "interestHealth" : "الصحة والعلاج",
+    "interestScience" : "علوم",
+    "interestEntertainment" : "ترفية",
+    "interestAgriculture" : "الزراعة",
+    "interestMechanical" : "علم الميكانيكا",
+    "interestOther" : "آخر",
+
+    "filter" : "الفلاتر" , 
+    "watch" : "شاهد",
+    "trending" : "الشائع",
+    "home" : "الصفحة الرئيسية",
+    "write" : "اكتب",
+    "readLater" : "اقرأ لاحقا",
+    "watchLater" : "أشاهده لاحقا",
+    "dashbord" : "لوحة القيادة",
+    "payment" : "الدفع",
+
+
+    "read": "اقرا",
+    "biography" : "سيرة شخصية",
+    "readMore" : "اقرأ أكثر",
+
+
+    "profileExperienceSnackBarCompanyName": "أدخل اسم الشركة",
+    "profileExperienceSnackBarJobTitle":  "أدخل المسمى الوظيفي",
+    "profileExperienceSnackBarInvalidPeriode":  "فترة غير صالحة",
+    "addButton" : "اضف",
+
+    "profileInterest" : "الإهتمامات",
+
+    "requiredFiled" : "حقل مطلوب",
+    "descriptionPoll" : "حول الاستطلاع",
+
+    "articleReference" : "مراجع المقالات",
+    "snackBarAddParagph" : "أضف على الأقل فقرة واحدة",
+   
+
+    "createProfileNationality" : "الجنسية",
+    "createProfileChildren" : "الاطفال",
+    "createProfileRelation" :"الحالة الاجتماعية",
+    "createProfileEducation" :"التعليم",
+    "createProfileOccupation" :"المهنة",
+
+    "snackBarAddSteps" : "أضف خطوة واحدة على الأقل",
+
+    
+  
+    "like": "الإعجابات",
+    "postViewWrittenBy": "من تأليف",
+    "postViewUpdate": "تحديث",
+    "pictureBy": "صورة",
+    "videoBy": "فيديو",
+    "views": "المشاهدات",
+
+    "pictureDetailsAddComment": "اكتب الرد الخاص بك",
+    "commentModifer": "تعديل",
+    "commentDelete": "حذف",
+    "commentReply": "الإجابات",
+    "inviteButton" : "دعوة",
+    "iLikeButton" : "أعجبني",
+    "fullScreen" : "كامل الشاشة",
+
+    "message": "الرسائل",
+    "notificationTitle": "الإشعارات",
+    "account" : "الحساب",
+
+    "contactUs" : "اتصل بنا",
+    "aboutUs" : "معلومات عنا",
+    "privacyPolicy": "السياسة الخاصة",
+    "cookiePolicy": "سياسة ملفات الارتباط",
+    "copyrightPolicy": "سياسة حقوق النشر",
+    "terms": "مصطلحات",
+    "help" : "المساعدة ",
+
+    "accountMenuProfileSetting": "الإعداد والخصوصية",
+    "accountMenuLogOut": "تسجيل خروج",
+    "seeYourProfile" : "انظر ملفك الشخصي",
+    "helpAndSupport" : "المساعدة والدعم",
+    "accountEmail" : "حساب البريد الإلكتروني",
+    "changePassword" : "تغيير كلمة المرور",
+    "location": "الموقع",
+    "language" : "اللغة",
+    "newEmail" : "بريد إلكتروني جديد",
+    "currentPassword" : "كلمة المرور الحالية",
+
+    "newEmailDescription" :  "يمكن أن تساعدك إضافة بريد إلكتروني الحالي إلى حساب Telltrue الخاص بك في تسجيل الدخول وتلقي الإشعارات وكذلك إعادة تعيين كلمة المرور الخاصة بك بسهولة.",
+    "currentPassIsWrong" : "كلمة المرور الحالية خاطئة",
+    "passWordCondition" : "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+
+
+    "messageSorryCannotSend" : "آسف ، لا يمكنك إرسال رسالة إلى هذا الحساب",
+    "blockButton": "حضر المراسلة",
+    "suggestionChatUnBlock": "رفع الحظر",
+    "suggestionChatTypeMsg": "اكتب الرسالة الخاصة بك",
+    "suggestionChatDeleteConversation": "حذف الدردشة",
+    "suggestionChatBlockMsgRequest": "هل ترغب في حظر الرسائل والمكالمات؟",
+    
+    "suggestionChatBlockDescrip": ".لا يمكنك مراسلتهم أو الاتصال بهم في هذه الدردشة ، ولن تتلقى رسائلهم أو مكالماتهم",
+    "suggestionChatBlocktitle1": "لقد حظرت الرسائل والمكالمات الواردة من",
+    "suggestionChatBlockMsgDescrip1": "لن يتلقى الحساب  الخاص بك رسائل أو مكالمات من",
+    "suggestionChatBlockMsgDescrip2": "\nستبقى المحادثة في الدردشات ما لم تخفيها.",
+    "suggestionChatDeleteConversationDescrip": "بمجرد حذف نسختك من هذه المحادثة ، لا يمكن التراجع عنها.",
+
+
+    "messageNoMessageYet": "لم تقم بإجراء أي محادثة بعد",
+    "messageStartMessage": "ابدأ محادثة جديدة",
+
+
+    "copyRight" : "© 2021 شركة Telltrue. كل الحقوق محفوظة.",
+    "addprofileImageDes" :   "تساعد صورة ملفك الشخصي فريقك في معرفة من أنت في Telltrue. وإذا كانت صورتك واضحة ، فسيكون من الأسهل على شخص ما اصطحابك في حشد أو اجتماع!",
+
+    
+    "personalPicture" : "الصور الشخصية",
+    "postPicture" : "صور المنشورات",
+    "noPictureToshow" : "لا توجد صور لإظهارها",
+    "pictureSetAsProfilePic": "تعيين كصورة الملف الشخصي",
+    "pictureDelete": "حذف هذه الصورة",
+    "pictureDeleteRequest": "هل أنت متأكد أنك تريد حذف هذه الصورة ؟",
+
+   
+    "profilePicturesOfYou": "صور لك",
+    "profileVideo": "مقاطع فيديو",
+    "yourVideos": "فيديوهاتك",
+    "liveVideos": "فيديوهات مباشرة",
+
+
+    "readers" : "القراءات",
+    "nobreakingNewsyet" : "لا توجد أخبار عاجلة حتى الآن",
+    "noBreakingNewsDes" :  "عندما تتلقى أخبارًا عاجلة ، ستظهر هنا",
+    "breakingNewsisAvailable" :   "هذا الخبر العاجل للأسف غير متوفر.",
+   
+    "noCommentYetTitle": "لا توجد ردود هنا حتى الآن ...",
+    "noCommentsYetDes": "كن أول من يشارك رأيك!",
+
+    "readLess" : "أقرأ أقل",
+    "vote": "صوت",
+    "undo" : "التراجع",
+
+    "reportSelectProb" :  "الرجاء تحديد مشكلة للمتابعة",
+    "report1" : "محتوى غير أخلاقي",
+    "report2" : "محتوى تافه",
+    "report3" : "المحتوى الذي يضر بالدين",
+    "report4" : "المحتوى الذي يضر بالأمن ويحرض على العنف",
+    "sendButton" :  "إرسال",
+
+
+    "eventInterestedButton": "مهتم",
+    "eventNotInterestedButton": "غير مهتم",
+
+    "Participants" : "مشاركون",
+    "career" : "السيرة الذاتية",
+    "closeButton" : "إغلاق",
+    "abstrack": "الملخص",
+    "reference" : "المراجع",
+
+
+    "noVideoShow" : "لا توجد مقاطع فيديو لعرضها",
+    "noLiveVideoShow" : "ليس هناك فيديو مباشر للعرض",
+    "noPubmatching" : "لم يتم العثور على منشورات مطابقة",
+    "noEventmatching" : "لم يتم العثور على حدث مطابق",
+    "noTelltruefound" :  "لم يتم العثور على مستخدم telltrue مطابق",
+    "result" : "نتيجة",
+    "seeAllpub" : "رؤية نتائج جميع المنشورات",
+    "seeAllEvent" : "رؤية نتيجة جميع الأحداث",
+    "telltrueUser": "مستخدمي Telltrue",
+    "famousPersonIdentified" : "شخص محدد",
+    "eventIdentified":"حدث محدد",
+     "placeIdentified":"المكان المحدد",
+     "all" :  "الكل",
+     "addBy" : "أضيفت من قبل",
+
+     
+    "seeAllpeople" : "رؤية نتائج كل الناس",
+    "searchTelltrue" : "ابحث في Telltrue",
+    "searchFor" : "البحث عن",
+    "profileUnfolowButton": "إلغاء الاشتراك",
+
+
+    "suggestionsForyou" : "اقتراحات لك",
+    "todayTopWritting": "أهم الكتابات لليوم",
+
+    "notificationNoYetTitle": "لا يوجد إشعارات حتى الآن",
+    "notificationNoYetDes": "عندما تتلقى إشعارات ، ستظهر هنا",
+
+
+    "inviteYouToReadAn": "يدعوك لقراءة",
+    "inviteYouToAnswer": "يدعوك للإجابة",
+    "inviteYouToWatch": "يدعوك للمشاهدة",
+    "inviteYouToSee": "يدعوك لرؤية",
+    "inviteYouToReadEvent": "يدعوك لمشاهدة حدث",
+    "notificationSubscribe": "بدأ بمتابعتك.",
+    "and": "و",
+    "other": "آخرين",
+    "commentedYour": "علق على",
+    "likedYour": "تفاعل على ",
+    "answerYour": "أجاب على استطلاعك",
+    "reportYour" :"أبلغ عن",
+
+
+    "deletePostDescription" :  "قد يكون هذا المنشور مزيفًا. \n لذلك ، سيتم حذفه من Telltrue",
+    "notiDeletePost" : "لسوء الحظ ، سنقوم بحذف ملف",
+    "fullNamerequired" : "أدخل اسمك بالكامل كما هو مكتوب في جواز سفرك أو بطاقة الهوية الوطنية.",
+
+    "chooseFile" : "اختر ملفًا",
+    "driver'sLicence" : "رخصة القيادة",
+    "driverLicenceDes" : "قم بتحميل صورة أو نسخة ممسوحة ضوئيًا من رخصة قيادتك.",
+    "driverLicenceFrontSideTitle" : "الجانب الأمامي من رخصة قيادتك",
+    "driverLicenceFrontSideDes" : "قم بتحميل الجانب الأمامي من رخصة القيادة الخاصة بك",
+    "nationalId": "الهوية الوطنية",
+    "nationalIdDes" : "قم بتحميل صورة أو مسح ضوئي للمستند الخاص بك.",
+    "nationalIdFrontSideTitle" : "الجانب الأمامي من المستند الخاص بك",
+    "nationalIdFrontSideDes" : "قم بتحميل الجانب الأمامي من المستند الخاص بك",
+
+    "nationalIdBackSideTitle" : "الجانب الخلفي من المستند الخاص بك",
+    "nationalIdBackSideDes" : "قم بتحميل الجانب الخلفي من المستند الخاص بك",
+
+    "passport" : "جواز سفر",
+    "passportDes" : "قم بتحميل صورة أو مسح ضوئي لصفحة صورة جواز السفر.",
+    "passportUploadDes" : "صفحة التفاصيل مع الصورة",
+    "chooseOtherOption" : "اختر وثيقة هوية مختلفة",
+
+    "driverLicenceBackSideTitle" : "الجانب الخلفي من رخصة قيادتك",
+    "driverLicenceBackideDes" :"قم بتحميل الجانب الخلفي من رخصة القيادة الخاصة بك",
+    "uploadAproofOfidendity" : "قم بتحميل مستند إثبات هويتك",
+    "chooseCountryDes":  "يرجى اختيار الدولة التي أصدرت وثيقة الهوية الموجودة لديك.",
+    "countryDropDowntitle" : "الدولة التي أصدرت الهوية",
+    "selectCountry" : "اختر الدولة...",
+    "documentType" : "نوع الوثيقة",
+    "selectDocType" : "حدد نوع الوثيقة",
+
+
+
+    "firstAndlastName" : "الاسم الأول والأخير القانوني الكامل",
+    "firstAndMiddleName" : "الاسم الأول والوسط القانوني الكامل",
+    "spellYourName" : "تهجى اسمك تمامًا كما يظهر في جواز السفر أو بطاقة الهوية.",
+    "fullLegalLastName": "اسم العائلة القانوني الكامل (الأسماء)",
+    "spellHomeTwon": "أدخل مسقط رأسك كما هو مكتوب في جواز سفرك أو بطاقة الهوية الوطنية.",
+    "spellCurrentLocation" : "أدخل موقعك الحالي كما هو مكتوب في جواز سفرك أو بطاقة الهوية الوطنية.",
+    "passwordConditions" : "يجب أن تحتوي كلمة المرور على حرف ورقم ، ولا تقل عن 8 أحرف",
+    "birthDayCondition" : "أدخل تاريخ ميلادك كما هو مكتوب في جواز سفرك أو بطاقة الهوية الوطنية.",
+    "phone" : "الهاتف",
+    "phoneNumber" : "رقم الهاتف",
+    "theAccountAlready": "الحساب موجود بالفعل لهذا البريد الإلكتروني",
+    "welcomeToOurteam" : "مرحبًا بك في فريقنا",
+
+
+    "snackBarNoUserFound": "No user found for that identifier",
+    "snackBarWrongPassword": "Wrong Password",
+    "journalistReporter": "مراسل",
+    "journalistWriter": "صحفي وكاتب",
+    "journalistAnimator": "صحفي ومقدم",
+    "photoJournalist": "المصور الصحفي",
+    "journalistEditor": "صحفي ومحرر",
+    "onlineJournalistBloger": "صحفي عبر الإنترنت أو مدون",
+    "tvColumnist": "كاتب عمود تلفزيوني",
+    "freelanceJournalist": "صحفي مستقل",
+    "investigativeJournalist": "المحقق الصحفي",
+    "politician": "Politician",
+    "sercher" : "Searcher"
+
+
+
+
+
+
+
+
+
+}

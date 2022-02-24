@@ -1,0 +1,593 @@
+{
+    "confirmButton": "계속하다",
+    "profileUnfolowButton": "수신거부",
+    "cancelButton": "취소",
+   
+  
+
+    "profileAbout": "정보",
+    "profileFollowing": "구독",
+    "profileFollowers": "구독자",
+   
+
+    "profileSkills": "교육 배경",
+    "profileSkillsEstablishment": "설립",
+    "profileSkillsEstablishmentHint": "대학 또는 기관",
+    "profileSkillsDiploma": "졸업 증서",
+    "profileSkillsDiplomaHint": "수료증 또는 디플로마",
+    "deleteAsk": "계속하시겠습니까?",
+    
+    "profileExperience": "경험담",
+    "profileExperienceCompany": "그 회사",
+    "profileExperienceCompanyHint": "TV 방송국, 라디오, 신문",
+    "profileExperienceJobTitle": "직위",
+    "profileExperienceJobTitleHint": "기자, 편집자, 기자",
+    "profileExperiencePeriode": "기간",
+    "profileExperiencePeriodeYear": "년도",
+    
+
+
+    "profileContacts": "콘택트 렌즈",
+
+
+
+
+    "requiredFiled" : "필수 필드",
+    "descriptionPoll" : "설문조사에 대하여",
+
+    "articleReference" : "문서 참고",
+    "snackBarAddParagph" : "하나 이상의 단락 추가",
+   
+
+    "createProfileNationality" : "국적",
+    "createProfileChildren" : "어린이들",
+    "createProfileRelation" :"관계 상태",
+    "createProfileEducation" :"교육",
+    "createProfileOccupation" :"직업",
+
+    "snackBarAddSteps" : "단계를 하나 이상 추가하세요.",
+
+
+
+
+
+     
+    "like": "좋아요",
+    "postViewWrittenBy": "에 의해 작성",
+    "postViewUpdate": "업데이트",
+    "pictureBy": "사진 작성자",
+    "videoBy": "동영상 작성자",
+    "views": "조회수",
+
+
+
+    "pictureDetailsAddComment": "답장 입력",
+    "commentModifer": "수정",
+    "commentDelete": "삭제",
+    "commentReply": "답글",
+    "inviteButton" : "초대",
+    "iLikeButton" : "좋아요",
+    "fullScreen" : "전체 화면",
+
+
+    "saveButton": "저장",
+    "message": "메시지",
+    "notificationTitle": "알림",
+    "account" : "계정",
+
+
+    "contactUs" : "문의하기",
+    "aboutUs" : "회사 소개",
+    "privacyPolicy": "개인 정보 정책",
+    "cookiePolicy": "쿠키 정책",
+    "copyrightPolicy": "저작권 정책",
+    "terms": "약관",
+    "help" : "돕다",
+
+
+    "accountMenuProfileSetting": "설정 및 개인정보 보호",
+    "accountMenuLogOut": "로그 아웃",
+    "seeYourProfile" : "프로필 보기",
+    "helpAndSupport" : "도움말 및 지원",
+    "accountEmail" : "계정 이메일",
+    "changePassword" : "비밀번호 변경",
+    "location": "위치",
+    "language" : "언어",
+    "newEmail" : "새 이메일",
+    "currentPassword" : "현재 비밀번호",
+    
+
+    "newEmailDescription" :  "현재 이메일을 Telltrue 계정에 추가하면 로그인하고 알림을 받을 수 있을 뿐만 아니라 비밀번호를 쉽게 재설정할 수 있습니다.",
+    "currentPassIsWrong" : "현재 비밀번호가 잘못되었습니다",
+    "passWordCondition" : "비밀번호는 8자 이상이어야 합니다.",
+
+
+
+    "messageSorryCannotSend" : "죄송합니다. 이 계정으로 메시지를 보낼 수 없습니다.",
+    "blockButton": "블록",
+    "suggestionChatUnBlock": "차단 해제",
+    "suggestionChatTypeMsg": "메시지 입력",
+    "suggestionChatDeleteConversation": "채팅 삭제",
+    "suggestionChatBlockMsgRequest": "메시지와 전화를 차단하시겠습니까?",
+    "suggestionChatBlocktitle2": "Telltrue 계정",
+    "suggestionChatBlockDescrip": "이 채팅에서는 메시지를 보내거나 전화를 걸 수 없으며 메시지나 전화를 받을 수 없습니다.",
+    "suggestionChatBlocktitle1": "당신은 메시지와 전화를 차단했습니다",
+    "suggestionChatBlockMsgDescrip1": "Telltrue 계정은 다음에서 오는 메시지나 전화를 받지 않습니다.",
+    "suggestionChatBlockMsgDescrip2": "님의 텔트루 계정 \n 숨기지 않는 한 대화는 채팅에 유지됩니다.",
+    "suggestionChatDeleteConversationDescrip": "이 대화의 사본을 삭제하면 취소할 수 없습니다.",
+
+
+
+
+    "messageNoMessageYet": "당신은 아직 어떤 대화도 하지 않았습니다",
+    "messageStartMessage": "새 대화 시작",
+
+
+    "copyRight" : "©2021 텔트루 컴퍼니. 판권 소유.",
+    "addprofileImageDes" :   "귀하의 프로필 사진은 귀하의 팀이 Telltrue에서 귀하가 누구인지 알 수 있도록 도와줍니다. 그리고 사진이 선명하면 군중이나 회의에서 누군가가 당신을 더 쉽게 알아볼 수 있습니다!",
+    "personalPicture" : "개인 사진",
+    "postPicture" : "사진 게시",
+    "noPictureToshow" : "표시할 사진이 없습니다",
+    "pictureSetAsProfilePic": "프로필 사진으로 설정",
+    "pictureDelete": "이 사진 삭제",
+    "pictureDeleteRequest": "이 사진을 삭제하시겠습니까?",
+
+
+
+    "profilePicAndVid": "사진",
+    "profilePicturesOfYou": "당신의 사진",
+    "profileVideo": "동영상",
+    "yourVideos": "당신의 비디오",
+    "liveVideos": "라이브 비디오",
+
+
+
+    "readers" : "판독값",
+    "nobreakingNewsyet" : "아직 속보가 없습니다",
+    "noBreakingNewsDes" :  "속보를 받으면 여기에 표시됩니다.",
+    "breakingNewsisAvailable" :   "이 속보를 볼 수 없습니다.",
+   
+    "noCommentYetTitle": "아직 답변이 없습니다...",
+    "noCommentsYetDes": "당신의 생각을 가장 먼저 공유하세요!",
+
+    "readLess" : "덜 읽기",
+    "vote": "투표",
+    "undo" : "실행 취소",
+
+
+
+    "reportSelectProb" :  "계속하려면 문제를 선택하세요.",
+    "report1" : "비윤리적인 내용",
+    "report2" : "사소한 내용",
+    "report3" : "종교에 해를 끼치는 콘텐츠",
+    "report4" : "보안을 해치고 폭력을 조장하는 콘텐츠",
+    "sendButton" :  "보내다",
+
+
+
+    "eventInterestedButton": "관심있는",
+    "eventNotInterestedButton": "관심이 없다",
+
+
+    "Participants" : "참가자들",
+    "career" : "생애",
+    "closeButton" : "닫다",
+    "abstrack": "추상적 인",
+    "reference" : "참고문헌",
+
+
+    "noVideoShow" : "표시할 동영상이 없습니다",
+    "noLiveVideoShow" : "표시할 라이브 비디오가 없습니다",
+    "noPubmatching" : "일치하는 출판물이 없습니다",
+    "noEventmatching" : "일치하는 이벤트를 찾을 수 없습니다",
+    "noTelltruefound" :  "일치하는 Telltrue 사용자가 없습니다",
+    "result" : "결과",
+    "seeAllpub" : "모든 출판물 결과 보기",
+    "seeAllEvent" : "모든 이벤트 결과 보기",
+    "telltrueUser": "Telltrue 사용자",
+    "famousPersonIdentified" : "신원 확인된 사람",
+    "eventIdentified":"식별된 사건",
+     "placeIdentified":"식별된 장소",
+     "all" :  "모두",
+     "addBy" : "추가한 사람",
+
+
+     "seeAllpeople" : "모든 사람 결과 보기",
+     "searchTelltrue" : "검색 텔트루",
+     "searchFor" : "에 대한 검색",
+
+
+
+     "suggestionsForyou" : "당신을 위한 제안",
+    "todayTopWritting": "오늘의 인기글",
+
+    "notificationNoYetTitle": "알림이 아직 없습니다.",
+    "notificationNoYetDes": "알림을 받으면 여기에 표시됩니다.",
+
+     "inviteYouToReadAn": "읽도록 초대",
+     "inviteYouToAnswer": "응답하도록 초대합니다",
+     "inviteYouToWatch": "시청하도록 초대합니다",
+     "inviteYouToSee": "당신을 볼 초대",
+     "inviteYouToReadEvent": "그는 당신을 이벤트를 보도록 초대합니다",
+     "notificationSubscribe": "팔로우 시작했습니다.",
+     "and": "그리고",
+     "other": "다른 사람들",
+     "commentedYour": "귀하의 게시물에 댓글을 달았습니다",
+     "likedYour": "당신의 게시물에 반응",
+     "answerYour": "귀하의 설문 조사에 응답",
+     "reportYour" :"당신의 게시물을 신고",
+
+
+
+
+
+     "deletePostDescription" :  "이 출판물은 가짜일 수 있습니다.\n 따라서 Telltrue에서 삭제됩니다.",
+     "notiDeletePost" : "불행히도, 우리는 당신의",
+     "fullNamerequired" : "여권 또는 주민등록증에 기재된 성명을 그대로 입력하십시오.",
+ 
+     "chooseFile" : "파일 선택",
+     "driver'sLicence" : "운전 면허증",
+     "driverLicenceDes" : "운전면허증 사진이나 스캔본을 업로드하세요.",
+     "driverLicenceFrontSideTitle" : "운전면허증 앞면",
+     "driverLicenceFrontSideDes" : "운전면허증 앞면 업로드",
+     "nationalId": "국립 ID",
+     "nationalIdDes" : "문서의 사진이나 스캔을 업로드하십시오.",
+     "nationalIdFrontSideTitle" : "문서 앞면",
+     "nationalIdFrontSideDes" : "문서 앞면 업로드",
+ 
+     "nationalIdBackSideTitle" : "문서 뒷면",
+     "nationalIdBackSideDes" : "문서 뒷면 업로드",
+ 
+     "passport" : "여권",
+     "passportDes" : "여권 사진 페이지의 사진 또는 스캔을 업로드하십시오.",
+     "passportUploadDes" : "사진이 있는 상세 페이지",
+     "chooseOtherOption" : "다른 신분증 선택",
+
+
+
+     "driverLicenceBackSideTitle" : "운전면허증 뒷면",
+     "driverLicenceBackideDes" :"운전면허증 뒷면 업로드",
+     "uploadAproofOfidendity" : "신분증 업로드",
+     "chooseCountryDes":  "소지하신 신분증을 발급한 국가를 선택하십시오.",
+     "countryDropDowntitle" : "신분증 발급 국가",
+     "selectCountry" : "국가 선택...",
+     "documentType" : "문서 유형",
+     "selectDocType" : "문서 유형 선택",
+
+
+
+     "firstAndlastName" : "완전한 법적 성과 이름",
+     "firstAndMiddleName" : "완전한 법적 이름 및 중간 이름",
+     "spellYourName" : "여여권이나 ID 카드에 표시된 대로 정확하게 이름을 철자하십시오.",
+     "fullLegalLastName": "실명",
+     "spellHomeTwon": "여권 또는 주민등록증에 기재된 대로 홈투를 입력하세요.",
+     "spellCurrentLocation" : "여권 또는 주민등록증에 기재된 현재 위치를 입력합니다.",
+     "passwordConditions" : "비밀번호는 문자와 숫자를 포함해야 하며 최소 8자 이상이어야 합니다.",
+     "birthDayCondition" : "여권 또는 주민등록증에 기재된 생일을 입력하세요.",
+     "phone" : "전화",
+     "phoneNumber" : "전화 번호",
+     "theAccountAlready": "해당 이메일에 대한 계정이 이미 있습니다.",
+     "welcomeToOurteam" : "우리 팀에 오신 것을 환영합니다",
+
+
+
+     "snackBarNoUserFound": "No user found for that identifier",
+     "snackBarWrongPassword": "Wrong Password",
+
+
+
+    
+    "teltrueSayHey" : "야!",
+    "teltrueWelcomIntro":"\n기자가 리더인 유일한 플랫폼",
+    "formIdentifierLoginPage" : "식별자",
+    "formPasswordLoginPage" : "암호",
+    "onlyReaderOptionSignIn" : "또는 (독자 만)",
+    "forgotPasswordLoginPage" : "비밀번호를 잊으 셨나요 ?",
+    "askForSignUpLoginPage" : "계정이 없으십니까?",
+    "signUpFlatButtonLoginPage" : "가입하기",
+    "connectButtonLoginPage" : "로그인",
+    "appBarTitleResetPassword" : "암호를 재설정",
+    "subtitleResetPassword" : "1 단계 : 계정 찾기",
+    "descriptionResetPassword" : "비밀번호 재설정 코드를 보내려면 등록된 이메일만 있으면 됩니다.",
+    "hintTextResetPassword" : "이메일을 정확하게 입력하세요",
+    "sendRequestResetPassword" : "요청 보내기",
+
+    "subtitlePassCode" : "2 단계 : 인증 코드",
+    "descriptionPassCode" : "방금 보내 드린 인증 코드를 입력하십시오.",
+    "hintTextPassCode" : "암호",
+    "resendCodeFlatButtonPassCode" : "코드 재전송!",
+    "verifybuttonPassCode" : "검증",
+    "subtitleCreateNewPassword" : "3 단계 : 새 비밀번호 생성",
+    "descriptionCreateNewPassword" : "새 비밀번호는 이전에 사용한 비밀번호와 달라야합니다.",
+    "hintTextNewPassword" : "새 비밀번호",
+    "hintTextConfirmNewPassword" : "새 암호를 확인합니다",
+    "resetPasswordCreatePassword" : "암호를 재설정",
+
+    "yesItsMeButton" : "그래, 나야",
+    "tryAgainButton" : "다시 시도하십시오",
+    "noAccountAttachedDes" : "죄송합니다. 이 이메일에 연결된 계정이 없습니다.",
+    "taostConfirmThePassWord" : "비밀번호를 확인해주세요",
+    "toastInvalidCode": "유효하지 않은 코드",
+
+
+
+    "subtitleSignUpMode" : "당신은 누구입니까?",
+    "descriptionSignUpMode" : "언론인, 단순 독자 또는 미디어 (신문, 라디오, TV ...)로 참여할 준비가되었습니다.",
+    "iamReaderSignUpMode" : "나는 독자입니다",
+    "iamJournalistSignUpMode" : "저는 기자입니다",
+    "weareMediaSignUpMode" : "우리는 미디어입니다",
+
+
+    "hintTextFullNameSignUpWithEmail": "식별자에서 동일",
+    "fullNameTitleSignUpWithEmail": "성명",
+    "emailTitleSignUpWithEmail": "공식 이메일 주소",
+    "locationTitleSignUpWithEmail": "현재 위치",
+    "genderSignUpWithEmail": "성별",
+    "hintTextGetLocationSignUpWithEmail": "국가, 도시",
+    
+    "hintTextIdentifierSignUpWithEmail" : "이메일 주소",
+    "hintTextPasswordSignUpWithEmail" : "암호",
+    "hintTextConfirmPasswordSignUpWithEmail" : "비밀번호 확인",
+    
+    "hintTextSelectMale" : "남성",
+    "hintTextSelectFemale" : "여자",
+    "nextButton": "다음",
+    "snackBarInvalidFullName" : "당신의 성함을 입력 해주세요 !",
+    "snackBarInvalidEmail" : "유효한 이메일 주소를 입력하십시오!",
+    "snackBarInvalidPassword" : "비밀번호는 8 자 여야합니다!",
+    "snackBarInvalidConfirmPassword" : "암호를 확인",
+    "snackBarInvalidLocation" : "현재 위치 선택",
+    "appBarTitleJournalistSignUp" : "언론인 정보",
+    "subtitleJournalistSignUpWorkSpace" : "작업 공간 이름",
+    "subtitleJournalistSignUpBirthday" : "생년월일",
+    "subtitleJournalistSignUpUploadId" : "사진 ID 업로드",
+    "hintTextChannelNameJournalistSignUp" : "텔레비전, 라디오, 신문 ...",
+  
+    "hintTextYear" : "년",
+    "hintTextDay" : "일",
+    "hintTextMonth" : "달",
+    "descriptionUploadPhotoId" : "신원 확인을 위해 정부 발행 신분증의 컬러 사진을 업로드해야합니다. 귀하의 ID에는 귀하의 이름, 생년월일 및 사진이 포함되어야합니다. \n 허용되는 신분증에는 다음이 포함됩니다. \n- 여권 \n- 국가 신분증 \n- 운전 면허증 \n 신분증의 선명한 사진을 받고 검토 한 후 서버에서 신분증을 삭제합니다.",
+    "choosePhotoButton" : "사진 선택",
+    "snackBarUploadImageId" : "이미지가 성공적으로 업로드되었습니다.",
+    "snackBarInvalidBirthday" : "유효한 생년월일을 입력하세요!",
+    "snackBarSince" : "유효한 시작일을 입력하세요!",
+    "snackBarInvalidUpload" : "신원 사진을 업로드해야합니다",
+    
+
+
+    "journalistReporter" : "기자 및 기자",
+    "journalistWriter" : "저널리스트 및 작가",
+    "journalistAnimator" : "언론인 및 발표자",
+    "photoJournalist" : "사진 기자",
+    "journalistEditor" : "저널리스트 및 편집자",
+    "tvColumnist" : "TV 칼럼니스트",
+    "freelanceJournalist" : "프리랜서 기자",
+    "investigativeJournalist" : "탐사보도 기자",
+    "onlineJournalistBloger" : "온라인 저널리스트 및 블로거",
+    "subtitleReviewPage" : "성공!",
+    "descriptionP1ReviewPage" : "감사",
+    "descriptionP3ReviewPage" : ", 저널리스트 계정에 대한 귀하의 요청이 접수되었으며 현재 검토 중입니다 (24 시간). 귀하의 ID는 본인 확인 후 30 일 이내에 안전하게 저장 및 삭제됩니다.",
+    "snackBarSelectOption" : "옵션을 선택해야합니다",
+
+
+    "doneButton" : "끝난",
+    "appBarTitleAddProfileImage" : "프로필 이미지",
+    "subtitleWelcomePage" : "앱에 성공적으로 등록했으며 작업을 시작할 수 있습니다.",
+    "startButton" : "스타트",
+    "photoLibrary" : "사진 라이브러리",
+    "photoCamera" : "카메라",
+
+    "appBarTitleSuggestion" : "따라야 할 제안",
+    "descriptionSuggestion" : "팔로우 할 저널리스트 나 미디어를 찾는 것부터 시작하여 Teltrue 경험을 개인화하는 데 관심이있는 몇 가지 주제를 선택하십시오.",
+    "subtitleSuggestion1" : "언론인",
+    "subtitleSuggestion2" : "텔레비전과 라디오" ,
+    "subtitleSuggestion3" : "신문 및 잡지",
+    "noJournalistYet" : "귀하의 국가에서 등록 된 기자가 아직 없습니다.",
+    "noTvRadioYet" : "해당 국가의 TV 또는 라디오가 아직 등록되지 않았습니다.",
+    "noNewspaperMagazine" : "해당 국가의 신문이나 잡지가 아직 등록되지 않았습니다.",
+
+    "addPostSearchPlaceHint": "장소 찾기",
+    "addPostSearchEventHint": "현재 이벤트 제목 찾기",
+    "addPostSearchPersonHint": "유명한 사람 이름 찾기",
+    "tagPerson": "유명한 사람",
+    "tagEvent": "이벤트",
+    "tagPlace": "장소",
+    "addPostBreakingNewsDesHint": "무슨 일이 있었는지 알려주세요 ",
+    "snackBarTopic": "주제를 선택해야 합니다.",
+
+    "createPostCommentary" : "논평 및 관점",
+    "feel" : "느끼다",
+
+    "createPostQuestionDes": "여론 조사는 과학적이고 편견 없는 방식으로 특정 문제 또는 일련의 문제에 대한 여론을 측정하기 위해 고안된 설문 조사 또는 조사와 유사합니다.",
+    "feelingHappy": "행복한 느낌",
+    "feelingCool": "시원하다",
+    "feelingSurprised": "놀랐다",
+    "feelingShocked": "충격을 받다",
+    "feelingNervous": "긴장하다",
+    "feelingAngry": "화를 느끼다",
+    "feelingDrool": "침을 흘리다",
+    "feelingSweat": "비명을 지르다",
+    "feelingCrying": "울다",
+    "feelingSad": "슬퍼하다",
+    "feelingDead": "죽은 느낌",
+    "feelingDubious": "의심스럽다",
+    "feelingTired": "피곤하다",
+    "feelingLoved": "사랑받는 느낌",
+    "feelingPain": "고통을 느끼다",
+    "feelingMuted": "음소거 느낌",
+    "feelingGreed": "탐욕을 느끼다",
+    "feelingSick": "아프다",
+    
+
+    "pollTitle" : "투표",
+    "choiceOne" : "초이스 원",
+    "choiceTwo" : "두 번째 선택",
+    "choiceThree" : "세 번째 선택",
+    "pollLength" : "설문조사 길이",
+    "days" : "날",
+    "hours" : "시간",
+    "Minutes" : "분",
+
+    "addPostArticle": "연구 자료",
+    "addPostArticleGeneralTitle": "일반 제목",
+    "addPostArticleWrittersHintText": "작가",
+    "addPostArticleKeywords": "키워드",
+    "addPostArticleCoresspondence": "일치",
+    "addPostArticleAbstract": "여기에 초록 쓰기",
+
+    "addPostArticleFirstPartTitle" : "첫 번째 부분 제목",
+    "addPostArticleSecondPartTitle" : "두 번째 부분 제목",
+    "addPostArticleThirdPartTitle" : "세 번째 부분 제목",
+    "addPostArticleFourthPartTitle" : "네 번째 부분 제목",
+
+    "addPostArticleFirstPartDes" : "첫 번째 부분 설명",
+    "addPostArticleSecondPartDes" : "두 번째 부분 설명",
+    "addPostArticleThirdPartDes" : "세 번째 부분 설명",
+    "addPostArticleFourthPartDes" : "네 번째 부분 설명",
+    "addPostArticleConclusion" : "결론",
+
+    "addPostArticleIntro": "소개",
+    "unDoneDialogDiscardPost":   "게시물 삭제",
+    "unDoneDialogDiscardDes":   "이 작업은 취소할 수 없으며 초안을 잃게 됩니다.",
+    "unDoneDialogDiscardButton":  "버리다",
+
+    "createHowToTitle"  :"어떻게?",
+    "createHowToSuplliesHintText" : "용품",
+    "createHowToThinkInStep" : "단계적으로 생각하기",
+    "createHowToStepTitleHintText" : "단계 제목(선택 사항)",
+    "createHowToStepDetailsHintText" :  "단계의 세부사항",
+    "createHowToShowResult" : "디스플레이 결과",
+    "createHowToAddStepButton" :  "단계 추가",
+
+    "snackBarSupplies" : "몇 가지 준비물을 작성해야 합니다.",
+    "snackBarSteps" : "당신은 몇 가지 단계를 기록해야합니다",
+    "snackBarBiography" : "에 대해 몇 마디 적어주세요.",
+
+    "createProfiletitle" : "성격 프로필",
+    "createProfileAgeHintText" : "나이",
+    "createProfileHomeTwonHintText": "고향",
+    "createProfilecurrentCityHintText" : "현재 도시",
+    "createProfileCvHintText" : "이력서",
+
+    "createAnalysisAddpart": "단락 추가",
+    "createAnalysisTitle": "분석 및 검토",
+    "createAnalysisPartTitle": "단락 제목",
+    "createAnalysisPartDetails": "단락 세부정보",
+
+    "feelingButton": "감정",
+    "topicButton": "주제",
+    "uploadButton": "업로드",
+
+    "snackBarEmptyTitle" : "제목을 입력해주세요",
+    "snackBarEmptyDes" : "설명 상자에 몇 가지 단어를 입력하십시오",
+    "snackBarEmptyParagraph" : "하나 이상의 단락을 입력하세요.",
+
+    "broadcastingHintTextDes" : "방송 설명",
+    "inPictureHintTextDes" : "사진 설명",
+
+    "createStoryTitle" : "이야기",
+    "createStorytitleHintText" : "스토리 제목(선택사항)",
+    "createStoryDesHintText" : "여기에 당신의 이야기를 쓰세요",
+
+    "createPostBreakingNewsDes": "오늘의 속보",
+    "createPostLastestNewsTitle" : "최근 소식",
+    "createPostLastestNewsDes" : "주요 기사, 날씨, 비즈니스, 연예, 정치 등에 대한 최신 뉴스와 정보를 찾아보십시오.",
+    "createPostCommentaryDes" : "논평은 일반적으로 1,000~1,500단어로 구성된 짧은 기사로 이미 출판된 책, 보고서 또는 기사에 대한 관심을 끌거나 비판합니다.",
+    "createPostEssay" : "수필",
+    "createPostEssayDes" : "대부분의 에세이는 개인적인 경험이나 의견에 대한 짧거나 중간 길이의 글입니다. 일반적으로 에세이는 하나의 주제를 중심으로 진행되며 귀하의 견해를 제시합니다.",
+    "createPostHowToDes" : "이 규범적인 부분에는 독자가 특정 작업을 수행하는 데 도움이 되는 단계, 방법 또는 팁이 포함되어 있습니다. 그들은 문제에 대한 (해결책) 또는 질문에 대한 답변을 제공합니다.",
+    "createPostProfileDes" : "이 유형의 기사는 개인의 삶(당신이 아닌)과 성취를 중심으로 진행됩니다. 인터뷰를 바탕으로 그녀의 삶을 심층적으로 살펴봅니다...",
+    "createPostAnalysisDes" : "리뷰 기사는 분석, 비교 및 ​​요약을 통해 달성된 기존 문헌에 대한 건설적이고 비판적인 분석을 제시합니다. 그들은 특정 문제나 격차를 식별할 수 있으며 향후 연구에 대한 권장 사항을 제공할 수도 있습니다.", 
+    "createPostStoryDes" : "이야기, 뉴스, 역사, 전설, 공상 과학, 단편 소설, 비극, 코미디",
+    "createPostSponsored" : "후원",
+    "createPostSponsoredDes" : "스폰서 콘텐츠 기사는 본질적으로 일종의 광고입니다. 일반 사설처럼 보이고 읽지만 특정 광고주가 비용을 지불합니다."
+    ,"createPostArticleDes": "연구 기사는 원래 연구를 보고하는 매우 상세한 연구입니다. 기본 문헌으로 간주되는 독창적인 연구 기사에는 배경 연구, 방법, 가설, 결과 및 결과 해석이 포함됩니다.",
+
+
+    "createPostBreakingNewsTitle": "긴급 속보",
+    "createPostBroadcastTitle": "방송",
+    "createPostInpicTitle": "사진 속",
+    "createPostInvestigationTitle": "조사",
+
+
+    "addPostBreakingNewsTitleHint": "속보 제목",
+   
+
+    "createPostBroadCastDes": "짧은 설명과 함께 이벤트에 대한 저널리즘 인터뷰, 보도 자료 또는 라이브 스트리밍 공유",
+    "createPostInPicDes": "사진 토크를 확인하세요!",
+    "createPostInvestigationDes": "범죄 또는 실제 현상 또는 재해에 대한 조사를 진정한 증거 또는 목격자와 공유하십시오.",
+    "createPostEvent": "문화 행사 또는 업무 행사 기획",
+
+    "tagTypeToSearch" : "검색하려면 입력",
+    "tagNoTagSearchFound" : "태그 없는 검색을 찾을 수 없습니다.",
+
+
+    "tagSearchNumberOf" : "Teltrue 사람들이 이에 대해 게시합니다.",
+    "useButton" :"이것을 사용",
+    "addPostOpinionHint" : "어떻게 생각하나요",
+    "addPostEssayDesHintText" : "의견이나 개인적인 경험을 기술하십시오.",
+    "askQuestionTitleHint": "뭔가를 묻다",
+
+    "addEventTitle" : "이벤트 구성",
+    "addEventTitleHint": "이벤트 제목",
+    "addEventPlaceLabel": "이벤트 장소",
+    "addEventPlaceHint": "호텔, 컨벤션 홀, 주소, 온라인 이벤트",
+    "addEventSpeakerLabel": "증여자",
+    "addEventSpeakerHint": "스피커 전체 이름",
+    "addEventDateLabel": "날짜",
+    "addEventMonthHint": "월",
+    "addEventDayHint": "일",
+    "addStartEventTime": "시작 시간",
+    "addEndEventTime": "종료 시간",
+    "addEventPoster": "이벤트 포스터",
+    "addEventAboutHint": "이벤트 정보..."  ,
+
+
+    "noContentAvailable" : "사용 가능한 콘텐츠가 없습니다",
+    "noOtherPublication" : "표시할 다른 출판물이 없습니다",
+
+    "trueKey" : "진실",
+    "falseKey" : "그릇된",
+    "report" : "보고서" ,
+    "dislike" : "싫어함", 
+    "fiveMostRead" :  "가장 많이 읽은 5가지",
+    "fiveMostViews" : "최다 조회수 5개",
+    "deletedPost" : "삭제된 출판물",
+    "noPostDeletedYet" : "아직 삭제된 출판물이 없습니다.",
+
+    "interestAll" : "모두",
+    "interestWorld" : "세계",
+    "interestBusiness" : "비즈니스 및 금융",
+    "interestLifestyle" : "생활 양식",
+    "interestTechnology" : "기술",
+    "interestSport" : "스포츠",
+    "interestHealth" : "건강 및 의학",
+    "interestScience" : "과학",
+    "interestEntertainment" : "오락",
+    "interestAgriculture" : "농업",
+    "interestMechanical" : "역학",
+    "interestOther" : "다른",
+
+
+    "filter" : "필터" , 
+    "watch" : "손목 시계",
+    "trending" : "동향",
+    "home" : "홈",
+    "write" : "쓰다",
+    "readLater" : "나중에 읽기",
+    "watchLater" : "나중에 보기",
+    "dashbord" : "계기반",
+    "payment" : "지불",
+
+    "read": "읽다",
+    "biography" : "의 전기",
+    "readMore" : "자세히 보기",
+
+    "profileExperienceSnackBarCompanyName": "회사 이름을 입력하세요",
+    "profileExperienceSnackBarJobTitle":  "직함을 입력하세요",
+    "profileExperienceSnackBarInvalidPeriode":  "유효하지 않은 기간",
+    "addButton" : "추가하다"
+
+    ,"profileInterest" : "관심사"
+
+}

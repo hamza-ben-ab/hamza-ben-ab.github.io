@@ -1,0 +1,582 @@
+{
+    "confirmButton": "Συνεχίσει",
+    "profileUnfolowButton": "Καταργήστε την εγγραφή σας",
+    "cancelButton": "Ματαίωση",
+   
+
+    "profileAbout": "Περίπου",
+    "profileFollowing": "Συνδρομές",
+    "profileFollowers": "Συνδρομητές",
+   
+    "profileSkills": "Εκπαιδευτικό υπόβαθρο",
+    "profileSkillsEstablishment": "Ιδρυση",
+    "profileSkillsEstablishmentHint": "Πανεπιστήμιο ή Ινστιτούτο",
+    "profileSkillsDiploma": "Δίπλωμα",
+    "profileSkillsDiplomaHint": "Πιστοποιητικό ή Δίπλωμα",
+    "deleteAsk": "Θέλεις να συνεχίσεις ?",
+    
+    "profileExperience": "Εμπειρίες",
+    "profileExperienceCompany": "Η εταιρία",
+    "profileExperienceCompanyHint": "Τηλεοπτικός σταθμός, ραδιόφωνο, εφημερίδα",
+    "profileExperienceJobTitle": "Τίτλος εργασίας",
+    "profileExperienceJobTitleHint": "Δημοσιογράφος, Συντάκτης, Δημοσιογράφος",
+    "profileExperiencePeriode": "Περίοδος",
+    "profileExperiencePeriodeYear": "Ετος",
+    
+    "profileContacts": "Επαφές",
+  
+  
+  
+    "requiredFiled" : "πεδίο που απαιτείται",
+    "descriptionPoll" : "Σχετικά με τη δημοσκόπηση",
+
+    "articleReference" : "Παραπομπές άρθρου",
+    "snackBarAddParagph" : "Προσθέστε τουλάχιστον μία παράγραφο",
+   
+
+    "createProfileNationality" : "Ιθαγένεια",
+    "createProfileChildren" : "Παιδιά",
+    "createProfileRelation" :"Κατάσταση σχέσης",
+    "createProfileEducation" :"Εκπαίδευση",
+    "createProfileOccupation" :"Κατοχή",
+
+    "snackBarAddSteps" : "Προσθέστε τουλάχιστον ένα βήμα",
+  
+    "like": "Αρέσεις",
+    "postViewWrittenBy": "Γραμμένο από",
+    "postViewUpdate": "Ενημέρωση",
+    "pictureBy": "Φωτογραφία από",
+    "videoBy": "Βίντεο από",
+    "views": "Προβολές",
+
+
+    "pictureDetailsAddComment": "Πληκτρολογήστε την απάντησή σας",
+    "commentModifer": "Τροποποιώ",
+    "commentDelete": "Διαγράφω",
+    "commentReply": "Απαντήσεις",
+    "inviteButton" : "Προσκαλώ",
+    "iLikeButton" : "μου αρέσει",
+    "fullScreen" : "Πλήρης οθόνη",
+
+
+    "saveButton": "Σώζω",
+    "message": "Μηνύματα",
+    "notificationTitle": "Ειδοποιήσεις",
+    "account" : "λογαριασμός",
+  
+  
+  
+    "contactUs" : "Επικοινωνήστε μαζί μας",
+    "aboutUs" : "Σχετικά με εμάς",
+    "privacyPolicy": "Πολιτική απορρήτου",
+    "cookiePolicy": "Πολιτική cookie",
+    "copyrightPolicy": "Πολιτική πνευματικών δικαιωμάτων",
+    "terms": "Οροι",
+    "help" : "Βοηθώ",
+  
+    "accountMenuProfileSetting": "Ρύθμιση και απόρρητο",
+    "accountMenuLogOut": "Αποσύνδεση",
+    "seeYourProfile" : "Δείτε το προφίλ σας",
+    "helpAndSupport" : "Βοήθεια & Υποστήριξη",
+    "accountEmail" : "Email λογαριασμού",
+    "changePassword" : "Αλλαξε κωδικό",
+    "location": "Η τοποθεσία",
+    "language" : "Η γλώσσα",
+    "newEmail" : "Νέο email",
+    "currentPassword" : "Τρέχων κωδικός",
+  
+    "newEmailDescription" :  "Η προσθήκη ενός τρέχοντος μηνύματος ηλεκτρονικού ταχυδρομείου στον λογαριασμό σας Telltrue μπορεί να σας βοηθήσει να συνδεθείτε και να λάβετε ειδοποιήσεις καθώς και να επαναφέρετε εύκολα τον κωδικό πρόσβασής σας.",
+    "currentPassIsWrong" : "Ο τρέχων κωδικός πρόσβασης είναι λάθος",
+    "passWordCondition" : "Ο κωδικός πρέπει να έχει τουλάχιστον 8 χαρακτήρες",
+
+
+
+
+
+    "messageSorryCannotSend" : "Λυπούμαστε, δεν μπορείτε να στείλετε μήνυμα σε αυτόν τον λογαριασμό",
+    "blockButton": "Οικοδομικό τετράγωνο",
+    "suggestionChatUnBlock": "Ξεβουλώνω",
+    "suggestionChatTypeMsg": "Πληκτρολογήστε το μήνυμά σας",
+    "suggestionChatDeleteConversation": "Διαγραφή συνομιλίας",
+    "suggestionChatBlockMsgRequest": "Αποκλεισμός μηνυμάτων και κλήσεων ?",
+    "suggestionChatBlocktitle2": "Telltrue λογαριασμός",
+    "suggestionChatBlockDescrip": "Δεν μπορείτε να τους στείλετε μηνύματα ή να τους καλέσετε σε αυτήν τη συνομιλία και δεν θα λάβετε τα μηνύματα ή τις κλήσεις τους.",
+    "suggestionChatBlocktitle1": "Αποκλείσατε μηνύματα και κλήσεις από",
+    "suggestionChatBlockMsgDescrip1": "Ο λογαριασμός σας Telltrue δεν θα λαμβάνει μηνύματα ή κλήσεις από",
+    "suggestionChatBlockMsgDescrip2": "του λογαριασμού Telltrue \n Η συνομιλία θα παραμείνει στις Συνομιλίες εκτός αν την αποκρύψετε.",
+    "suggestionChatDeleteConversationDescrip": "Μόλις διαγράψετε το αντίγραφο αυτής της συνομιλίας, δεν μπορεί να αναιρεθεί.",
+
+
+    "messageNoMessageYet": "Δεν κάνατε ακόμα καμία συνομιλία",
+    "messageStartMessage": "Ξεκινήστε μια νέα συνομιλία",
+
+    "copyRight" : "© 2021 Εταιρεία Telltrue. Ολα τα δικαιώματα διατηρούνται.",
+    "addprofileImageDes" :   "Η φωτογραφία προφίλ σας βοηθά την ομάδα σας να γνωρίζει ποιος είστε στο Telltrue. Και αν η φωτογραφία σας είναι καθαρή, θα είναι ευκολότερο για κάποιον να σας επιλέξει σε ένα πλήθος ή μια συνάντηση!",
+    "personalPicture" : "Προσωπικές εικόνες",
+    "postPicture" : "Δημοσιεύστε εικόνες",
+    "noPictureToshow" : "Δεν υπάρχουν εικόνες για εμφάνιση",
+    "pictureSetAsProfilePic": "Ορισμός ως εικόνα προφίλ",
+    "pictureDelete": "Διαγράψτε αυτήν τη φωτογραφία",
+    "pictureDeleteRequest": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν τη φωτογραφία;",
+
+
+
+    "profilePicAndVid": "Εικόνες",
+    "profilePicturesOfYou": "Εικόνες σας",
+    "profileVideo": "Βίντεο",
+    "yourVideos": "Τα βίντεό σας",
+    "liveVideos": "Ζωντανά βίντεο",
+
+
+
+    "readers" : "Οι αναγνώσεις",
+    "nobreakingNewsyet" : "Δεν υπάρχουν έκτακτα νέα ακόμα",
+    "noBreakingNewsDes" :  "Όταν λαμβάνετε έκτακτα νέα, θα εμφανίζονται εδώ",
+    "breakingNewsisAvailable" :   "Αυτή η έκτακτη είδηση δυστυχώς δεν είναι διαθέσιμη.",
+   
+    "noCommentYetTitle": "Δεν υπάρχουν ακόμη απαντήσεις εδώ ...",
+    "noCommentsYetDes": "Γίνετε ο πρώτος που θα μοιραστείτε τη γνώμη σας!",
+
+
+
+
+    "readLess" : "Διαβάστε λιγότερο",
+    "vote": "ψήφος",
+    "undo" : "ξεκάνω",
+
+
+
+    "reportSelectProb" :  "Επιλέξτε ένα πρόβλημα για να συνεχίσετε",
+    "report1" : "Ανήθικο περιεχόμενο",
+    "report2" : "Άχρηστο περιεχόμενο",
+    "report3" : "Περιεχόμενο που βλάπτει τη θρησκεία",
+    "report4" : "Περιεχόμενο που βλάπτει την ασφάλεια και υποκινεί τη βία",
+    "sendButton" :  "Στείλετε",
+
+
+
+
+    "eventInterestedButton": "Ενδιαφερόμενος",
+    "eventNotInterestedButton": "Δεν ενδιαφέρομαι",
+
+    "Participants" : "Συμμετέχοντες",
+    "career" : "Καριέρα",
+    "closeButton" : "Κλείσε",
+    "abstrack": "Αφηρημένη",
+    "reference" : "Αναφορές",
+    
+
+    "noVideoShow" : "Δεν υπάρχουν βίντεο για εμφάνιση",
+    "noLiveVideoShow" : "Δεν υπάρχει ζωντανό βίντεο για προβολή",
+    "noPubmatching" : "Δεν βρέθηκαν αντίστοιχες δημοσιεύσεις",
+    "noEventmatching" : "Δεν βρέθηκε συμβάν που να ταιριάζει",
+    "noTelltruefound" :  "Δεν βρέθηκε αντίστοιχος χρήστης telltrue",
+    "result" : "αποτέλεσμα",
+    "seeAllpub" : "Δείτε όλα τα αποτελέσματα των δημοσιεύσεων",
+    "seeAllEvent" : "Δείτε όλα τα αποτελέσματα των εκδηλώσεων",
+    "telltrueUser": "Telltrue χρήστες",
+    "famousPersonIdentified" : "Ταυτοποιημένο άτομο",
+    "eventIdentified":"Ταυτοποιημένο συμβάν",
+    "placeIdentified":"Προσδιορισμένο μέρος",
+    "all" :  "Ολα",
+    "addBy" : "Προστέθηκε από",
+
+
+    "seeAllpeople" : "Δείτε το αποτέλεσμα όλων των ατόμων",
+    "searchTelltrue" : "Αναζήτηση στο Telltrue",
+    "searchFor" : "Αναζήτηση για",
+
+
+    "suggestionsForyou" : "Προτάσεις για εσάς",
+    "todayTopWritting": "Η κορυφαία γραφή του σήμερα",
+
+    "notificationNoYetTitle": "Δεν υπάρχουν ακόμη ειδοποιήσεις",
+    "notificationNoYetDes": "Όταν λαμβάνετε ειδοποιήσεις, θα εμφανίζονται εδώ",
+
+    "inviteYouToReadAn": "σας προσκαλούν να διαβάσετε",
+    "inviteYouToAnswer": "σας προσκαλώ να απαντήσετε",
+    "inviteYouToWatch": "σας προσκαλούν να παρακολουθήσετε",
+    "inviteYouToSee": "σας προσκαλώ να δείτε",
+    "inviteYouToReadEvent": "σας προσκαλούν να δείτε μια εκδήλωση",
+    "notificationSubscribe": "άρχισε να σε ακολουθεί.",
+    "and": "και",
+    "other": "οι υπολοιποι",
+    "commentedYour": "σχολίασε την ανάρτησή σου",
+    "likedYour": "αντέδρασε στην ανάρτησή σου",
+    "answerYour": "απάντησε στη δημοσκόπησή σας",
+    "reportYour" :"αναφέρετε την ανάρτησή σας",
+
+    
+    "deletePostDescription" :  "Αυτή η δημοσίευση είναι ίσως ψεύτικη.\n Επομένως, θα διαγραφεί από το Telltrue",
+    "notiDeletePost" : "Δυστυχώς, θα διαγράψουμε το δικό σας",
+    "fullNamerequired" : "Εισαγάγετε το πλήρες όνομά σας όπως αναγράφεται στο διαβατήριό σας ή στην εθνική σας ταυτότητα.",
+
+    "chooseFile" : "Επιλέξτε ένα αρχείο",
+    "driver'sLicence" : "Αδεια οδήγησης",
+    "driverLicenceDes" : "Ανεβάστε μια φωτογραφία ή σάρωση της άδειας οδήγησης.",
+    "driverLicenceFrontSideTitle" : "Μπροστινή πλευρά της άδειας οδήγησης",
+    "driverLicenceFrontSideDes" : "Ανεβάστε την μπροστινή πλευρά της άδειας οδήγησης",
+    "nationalId": "Εθνική ταυτότητα",
+    "nationalIdDes" : "Ανεβάστε μια φωτογραφία ή σάρωση του εγγράφου σας.",
+    "nationalIdFrontSideTitle" : "Η μπροστινή πλευρά του εγγράφου σας",
+    "nationalIdFrontSideDes" : "Ανεβάστε την μπροστινή πλευρά του εγγράφου σας",
+
+    "nationalIdBackSideTitle" : "Η πίσω πλευρά του εγγράφου σας",
+    "nationalIdBackSideDes" : "Ανεβάστε την πίσω πλευρά του εγγράφου σας",
+
+    "passport" : "Διαβατήριο",
+    "passportDes" : "Ανεβάστε μια φωτογραφία ή σάρωση της σελίδας φωτογραφίας του διαβατηρίου σας.",
+    "passportUploadDes" : "Σελίδα λεπτομερειών με την εικόνα",
+    "chooseOtherOption" : "Επιλέξτε ένα διαφορετικό έγγραφο ταυτότητας",
+
+
+    "driverLicenceBackSideTitle" : "Το πίσω μέρος της άδειας οδήγησης",
+    "driverLicenceBackideDes" :"Ανεβάστε το πίσω μέρος της άδειας οδήγησης",
+    "uploadAproofOfidendity" : "Ανεβάστε ένα αποδεικτικό της ταυτότητάς σας",
+    "chooseCountryDes":  "Επιλέξτε τη χώρα που εξέδωσε το έγγραφο ταυτότητας που έχετε στη διάθεσή σας.",
+    "countryDropDowntitle" : "χώρα έκδοσης ταυτότητας",
+    "selectCountry" : "Επιλέξτε χώρα...",
+    "documentType" : "Είδος αρχείου",
+    "selectDocType" : "Επιλέξτε έναν τύπο εγγράφου",
+
+
+
+
+    "firstAndlastName" : "Πλήρη νόμιμα ονόματα και επώνυμα",
+    "firstAndMiddleName" : "Πλήρη νόμιμα ονόματα",
+    "spellYourName" : "Γράψτε το όνομά σας ακριβώς όπως αναγράφεται στο διαβατήριό σας ή στην ταυτότητά σας.",
+    "fullLegalLastName": "Πλήρες νόμιμο επώνυμο(α)",
+    "spellHomeTwon": "Εισαγάγετε το hometwon σας όπως αναγράφεται στο διαβατήριό σας ή στην εθνική σας ταυτότητα.",
+    "spellCurrentLocation" : "Εισαγάγετε την τρέχουσα τοποθεσία σας όπως αναγράφεται στο διαβατήριό σας ή στην εθνική σας ταυτότητα.",
+    "passwordConditions" : "Ο κωδικός πρόσβασης πρέπει να περιέχει ένα γράμμα και έναν αριθμό και να είναι τουλάχιστον 8 χαρακτήρες",
+    "birthDayCondition" : "Εισαγάγετε τα γενέθλιά σας όπως αναγράφεται στο διαβατήριό σας ή στην εθνική σας ταυτότητα.",
+    "phone" : "Τηλέφωνο",
+    "phoneNumber" : "Τηλεφωνικό νούμερο",
+    "theAccountAlready": "Ο λογαριασμός υπάρχει ήδη για αυτό το email",
+    "welcomeToOurteam" : "Καλώς ήρθατε στην Ομάδα μας",
+
+    "snackBarNoUserFound": "No user found for that identifier",
+    "snackBarWrongPassword": "Wrong Password",
+
+
+
+
+
+
+  
+    "teltrueSayHey" : "Γεια!",
+    "teltrueWelcomIntro": "\nΗ μόνη πλατφόρμα όπου ο δημοσιογράφος είναι ο ηγέτης",
+    "formIdentifierLoginPage" : "Αναγνωριστικό",
+    "formPasswordLoginPage" : "Κωδικός πρόσβασης",
+    "onlyReaderOptionSignIn" : "Ή (Μόνο αναγνώστης)",
+    "forgotPasswordLoginPage" : "Ξεχάσατε τον κωδικό ?",
+    "askForSignUpLoginPage" : "Δεν έχετε λογαριασμό;",
+    "signUpFlatButtonLoginPage" : "Εγγραφείτε",
+    "connectButtonLoginPage" : "Σύνδεση",
+     "appBarTitleResetPassword" : "Επαναφέρετε τον κωδικό πρόσβασης",
+    "subtitleResetPassword" : "Βήμα 1: Βρείτε τον λογαριασμό σας",
+    "descriptionResetPassword" : "Απλώς χρειαζόμαστε το καταχωρημένο email σας για να σας στείλουμε τον κωδικό επαναφοράς κωδικού πρόσβασης",
+    "hintTextResetPassword" : "Εισαγάγετε σωστά το email σας",
+    "sendRequestResetPassword" : "Στείλε αίτημα",
+    
+    "subtitlePassCode" : "Βήμα 2: Κωδικός επαλήθευσης",
+    "descriptionPassCode" : "Εισαγάγετε τον κωδικό επαλήθευσης που μόλις σας στείλαμε στο καταχωρημένο σας",
+    "hintTextPassCode" : "Κώδικας",
+    "resendCodeFlatButtonPassCode" : "Ξαναστείλε τον κωδικό!",
+    "verifybuttonPassCode" : "Επαληθεύω",
+    "subtitleCreateNewPassword" : "Βήμα 3: Δημιουργία νέου κωδικού πρόσβασης",
+    "descriptionCreateNewPassword" : "ο νέος κωδικός πρόσβασής σας πρέπει να διαφέρει από τον κωδικό πρόσβασης που χρησιμοποιήθηκε προηγουμένως",
+    "hintTextNewPassword" : "νέος κωδικός πρόσβασης",
+    "hintTextConfirmNewPassword" : "Επιβεβαιώστε τον καινούριο σας κωδικό",
+    "resetPasswordCreatePassword" : "Επαναφέρετε τον κωδικό πρόσβασης",
+
+
+    "subtitleSignUpMode" : "Ποιος είσαι?",
+    "descriptionSignUpMode" : "είστε έτοιμοι να συμμετάσχετε μαζί μας ως δημοσιογράφος, Απλός αναγνώστης ή Μέσα (Εφημερίδες, Ραδιόφωνο, Τηλεόραση ...)",
+    "iamReaderSignUpMode" : "Είμαι αναγνώστης",
+    "iamJournalistSignUpMode" : "Είμαι δημοσιογράφος",
+    "weareMediaSignUpMode" : "Είμαστε ΜΜΕ",
+
+    "hintTextFullNameSignUpWithEmail": "Το ίδιο στο αναγνωριστικό",
+    "fullNameTitleSignUpWithEmail": "Πλήρες όνομα",
+    "emailTitleSignUpWithEmail": "Η επίσημη διεύθυνση ηλεκτρονικού ταχυδρομείου",
+    "locationTitleSignUpWithEmail": "Η τρέχουσα τοποθεσία",
+    "genderSignUpWithEmail": "Γένος",
+    "hintTextGetLocationSignUpWithEmail": "κωμόπολη",
+
+    "yesItsMeButton" : "Ναι εγώ είμαι",
+    "tryAgainButton" : "Προσπάθησε ξανά",
+    "noAccountAttachedDes" : "Λυπούμαστε, δεν έχει επισυναφθεί λογαριασμός σε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου",
+    "taostConfirmThePassWord" : "Επιβεβαιώστε τον κωδικό πρόσβασης",
+    "toastInvalidCode": "Μη έγκυρος κωδικός",
+   
+    
+    
+    "hintTextIdentifierSignUpWithEmail" : "Διεύθυνση ηλεκτρονικού ταχυδρομείου",
+    "hintTextPasswordSignUpWithEmail" : "Κωδικός πρόσβασης",
+    "hintTextConfirmPasswordSignUpWithEmail" : "Επιβεβαίωση Κωδικού",
+   
+    "hintTextSelectMale" : "Αρσενικός",
+    "hintTextSelectFemale" : "Θηλυκός",
+    "nextButton": "Επόμενο",
+    "snackBarInvalidFullName" : "Εισαγάγετε το πλήρες όνομά σας!",
+    "snackBarInvalidEmail" : "Εισαγάγετε έγκυρη διεύθυνση email!",
+    "snackBarInvalidPassword" : "Ο κωδικός πρόσβασης πρέπει να έχει 8 χαρακτήρες!",
+    "snackBarInvalidConfirmPassword" : "Επιβεβαιώστε τον κωδικό πρόσβασής σας",
+    "snackBarInvalidLocation" : "Επιλέξτε την τρέχουσα τοποθεσία σας",
+
+    
+
+
+    "subtitleJournalistSignUpWorkSpace" : "Όνομα χώρου εργασίας",
+    "subtitleJournalistSignUpBirthday" : "Ημερομηνια γεννησης",
+    "subtitleJournalistSignUpUploadId" : "Ανεβάστε το αναγνωριστικό της φωτογραφίας σας",
+    "hintTextChannelNameJournalistSignUp" : "Τηλεόραση ή ραδιόφωνο ή εφημερίδα ...",
+
+    "hintTextYear" : "Ετος",
+    "hintTextDay" : "Ημέρα",
+    "hintTextMonth" : "Μήνας",
+    "descriptionUploadPhotoId" : "Για να διασφαλίσουμε την ταυτότητά σας, χρειαζόμαστε να ανεβάσετε μια έγχρωμη φωτογραφία του αναγνωριστικού που εκδίδεται από την κυβέρνηση. Το αναγνωριστικό σας πρέπει να περιλαμβάνει το όνομά σας, την ημέρα γέννησης και τη φωτογραφία σας. \n τα αποδεκτά αναγνωριστικά περιλαμβάνουν τα εξής: \n- Διαβατήριο \n- Εθνική κάρτα ταυτότητας \n- άδεια οδήγησης \n Μόλις λάβουμε και εξετάσουμε μια σαφή φωτογραφία του αναγνωριστικού σας, θα διαγράψουμε το έγγραφο αναγνώρισης από τον διακομιστή μας",
+    "choosePhotoButton" : "Διάλεξε φωτογραφία",
+    "snackBarUploadImageId" : "η εικόνα μεταφορτώθηκε με επιτυχία",
+    "snackBarInvalidBirthday" : "Εισαγάγετε την έγκυρη ημέρα γέννησης!",
+    "snackBarSince" : "Εισαγάγετε έγκυρη ημέρα έναρξης!",
+    "snackBarInvalidUpload" : "Πρέπει να ανεβάσετε τη φωτογραφία ταυτότητάς σας",
+    
+
+
+    "journalistReporter" : "Δημοσιογράφος & Δημοσιογράφος",
+    "journalistWriter" : "Δημοσιογράφος & Συγγραφέας",
+    "journalistAnimator" : "Δημοσιογράφος & Παρουσιαστής",
+    "photoJournalist" : "Φωτορεπόρτερ",
+    "journalistEditor" : "Δημοσιογράφος & Συντάκτης",
+    "tvColumnist" : "Τηλεοπτικός αρθρογράφος",
+    "freelanceJournalist" : "Ανεξάρτητος δημοσιογράφος",
+    "investigativeJournalist" : "Ερευνητικός Δημοσιογράφος",
+    "onlineJournalistBloger" : "Δημοσιογράφος στο Διαδίκτυο ή Blogger",
+    "subtitleReviewPage" : "Επιτυχία!",
+    "descriptionP1ReviewPage" : "Ευχαριστώ",
+    "descriptionP3ReviewPage" : "Λάβαμε το αίτημά σας για λογαριασμό δημοσιογράφου και είμαστε στη διαδικασία ελέγχου του (24 ώρες). Λάβετε υπόψη ότι το αναγνωριστικό σας θα αποθηκευτεί και θα διαγραφεί με ασφάλεια εντός 30 ημερών από την επιβεβαίωση της ταυτότητάς σας",
+    "snackBarSelectOption" : "Πρέπει να επιλέξετε Option",
+
+
+    "doneButton" : "Εγινε",
+    "appBarTitleAddProfileImage" : "Εικόνα προφίλ",
+    "subtitleWelcomePage" : "Έχετε εγγραφεί με επιτυχία στην εφαρμογή μας και μπορείτε να ξεκινήσετε να εργάζεστε σε αυτήν",
+    "startButton" : "Αρχή",
+    "photoLibrary" : "Βιβλιοθήκη φωτογραφιών",
+    "photoCamera" : "ΦΩΤΟΓΡΑΦΙΚΗ ΜΗΧΑΝΗ",
+
+    "appBarTitleSuggestion" : "Πρόταση για παρακολούθηση",
+    "descriptionSuggestion" : "Επιλέξτε ορισμένα θέματα που σας ενδιαφέρουν για να εξατομικεύσετε την εμπειρία σας στο Teltrue, ξεκινώντας από την εύρεση δημοσιογράφου ή μέσων που θα ακολουθήσετε.",
+    "subtitleSuggestion1" : "Δημοσιογράφος της",
+    "subtitleSuggestion2" : "Τηλεόραση και ραδιόφωνο" ,
+    "subtitleSuggestion3" : "Εφημερίδες και περιοδικά",
+        "noJournalistYet" : "Κανένας δημοσιογράφος από τη χώρα σας δεν έχει εγγραφεί ακόμα",
+    "noTvRadioYet" : "Δεν έχει εγγραφεί ακόμη τηλεόραση ή ραδιόφωνο από τη χώρα σας",
+    "noNewspaperMagazine" : "Δεν έχει εγγραφεί ακόμη εφημερίδα ή περιοδικό από τη χώρα σας",
+
+
+    "addPostSearchPlaceHint": "Βρείτε το μέρος",
+    "addPostSearchEventHint": "Βρείτε τον τρέχοντα τίτλο συμβάντος",
+    "addPostSearchPersonHint": "Βρείτε το διάσημο όνομα του ατόμου",
+    "tagPerson": "Διάσημο πρόσωπο",
+    "tagEvent": "Εκδήλωση",
+    "tagPlace": "Θέση",
+    "addPostBreakingNewsDesHint": "Πείτε μας τι συνέβη",
+    "snackBarTopic": "Πρέπει να επιλέξετε θέμα",
+
+    "createPostCommentary" : "Σχόλιο και προοπτικές",
+    "feel" : "αφή",
+
+    "createPostQuestionDes": "Οι δημοσκοπήσεις είναι παρόμοιες με τις έρευνες ή μια έρευνα που έχει σχεδιαστεί για να εκτιμήσει την κοινή γνώμη σχετικά με ένα συγκεκριμένο ζήτημα ή μια σειρά θεμάτων με επιστημονικό και αμερόληπτο τρόπο.",
+    "feelingHappy": "Νιώθει χαρούμενος",
+    "feelingCool": "νιώθω δροσερός",
+    "feelingSurprised": "νιώθω έκπληκτος",
+    "feelingShocked": "Νιώθω σοκαρισμένος",
+    "feelingNervous": "Νιώθω νευρικό",
+    "feelingAngry": "νιώθεις θυμωμένος",
+    "feelingDrool": "αισθάνομαι σάλια",
+    "feelingSweat": "νιώθεις να ουρλιάζει",
+    "feelingCrying": "αισθάνομαι κλάμα",
+    "feelingSad": "νιώθω λυπημένος",
+    "feelingDead": "νιώθω νεκρός",
+    "feelingDubious": "νιώθεις αμφίβολος",
+    "feelingTired": "αισθάνομαι κουρασμένος",
+    "feelingLoved": "νιώθω αγαπημένη",
+    "feelingPain": "νιώθω πόνο",
+    "feelingMuted": "αισθάνονται σιωπηλοί",
+    "feelingGreed": "νιώθω απληστία",
+    "feelingSick": "νιώθω άρρωστος",
+    
+
+    "pollTitle" : "Ψηφοφορία",
+    "choiceOne" : "Επιλογή Ένα",
+    "choiceTwo" : "Επιλογή δύο",
+    "choiceThree" : "Επιλογή Τριών",
+    "pollLength" : "Μήκος ψηφοφορίας",
+    "days" : "ημέρες",
+    "hours" : "Ωρες",
+    "Minutes" : "Λεπτά",
+
+    "addPostArticle": "Ερευνητικό άρθρο",
+    "addPostArticleGeneralTitle": "Γενικός τίτλος",
+    "addPostArticleWrittersHintText": "Συγγραφείς",
+    "addPostArticleKeywords": "Λέξεις -κλειδιά",
+    "addPostArticleCoresspondence": "Αλληλογραφία",
+    "addPostArticleAbstract": "Γράψτε Περίληψη εδώ",
+
+    "addPostArticleFirstPartTitle" : "Τίτλος πρώτου μέρους",
+    "addPostArticleSecondPartTitle" : "Τίτλος δεύτερου μέρους",
+    "addPostArticleThirdPartTitle" : "Τίτλος τρίτου μέρους",
+    "addPostArticleFourthPartTitle" : "Τίτλος τέταρτου μέρους",
+
+    "addPostArticleFirstPartDes" : "Περιγραφή πρώτου μέρους",
+    "addPostArticleSecondPartDes" : "Περιγραφή δεύτερου μέρους",
+    "addPostArticleThirdPartDes" : "Περιγραφή τρίτου μέρους",
+    "addPostArticleFourthPartDes" : "Περιγραφή τέταρτου μέρους",
+    "addPostArticleConclusion" : "συμπέρασμα",
+
+    "addPostArticleIntro": "Εισαγωγή",
+    "unDoneDialogDiscardPost":   "Απόρριψη ανάρτησης",
+    "unDoneDialogDiscardDes":   "Αυτό δεν μπορεί να αναιρεθεί και θα χάσετε το πρόχειρό σας.",
+    "unDoneDialogDiscardButton":  "Απορρίπτω",
+
+    "createHowToTitle"  :"Πως να?",
+    "createHowToSuplliesHintText" : "Τα Προμήθειες",
+    "createHowToThinkInStep" : "Σκεφτείτε με βήματα",
+    "createHowToStepTitleHintText" : "Τίτλος βήματος (προαιρετικό)",
+    "createHowToStepDetailsHintText" :  "Λεπτομέρειες του βήματος",
+    "createHowToShowResult" : "Εμφάνιση αποτελέσματος",
+    "createHowToAddStepButton" :  "Προσθήκη βήματος",
+
+    "snackBarSupplies" : "Πρέπει να γράψετε μερικά εφόδια",
+    "snackBarSteps" : "πρέπει να γράψετε μερικά βήματα",
+    "snackBarBiography" : "Παρακαλώ γράψτε μερικές λέξεις για",
+
+    "createProfiletitle" : "Βιογραφικό σημείωμα",
+    "createProfileAgeHintText" : "Ηλικία",
+    "createProfileHomeTwonHintText": "Ιδιαίτερη πατρίδα",
+    "createProfilecurrentCityHintText" : "τόπος διαμονής",
+    "createProfileCvHintText" : "Βιογραφικό σημείωμα",
+
+    "createAnalysisAddpart": "Προσθήκη παραγράφου",
+    "createAnalysisTitle": "Ανάλυση και ανασκόπηση",
+    "createAnalysisPartTitle": "Τίτλος παραγράφου",
+    "createAnalysisPartDetails": "Λεπτομέρειες παραγράφου",
+
+    "feelingButton": "Συναισθήματα",
+    "topicButton": "Θέμα",
+    "uploadButton": "Μεταφόρτωση",
+
+    "snackBarEmptyTitle" : "παρακαλώ πληκτρολογήστε έναν τίτλο",
+    "snackBarEmptyDes" : "πληκτρολογήστε μερικές λέξεις στο πλαίσιο περιγραφής",
+    "snackBarEmptyParagraph" : "Εισαγάγετε τουλάχιστον μία παράγραφο",
+
+    "broadcastingHintTextDes" : "Περιγραφή εκπομπής",
+    "inPictureHintTextDes" : "Περιγραφή εικόνας",
+
+    "createStoryTitle" : "Ιστορία",
+    "createStorytitleHintText" : "Τίτλος ιστορίας (προαιρετικό)",
+    "createStoryDesHintText" : "Γράψτε την ιστορία σας εδώ",
+
+    "createPostBreakingNewsDes": "Κορυφαία νέα για σήμερα",
+    "createPostLastestNewsTitle" : "Τελευταία νέα",
+    "createPostLastestNewsDes" : "Βρείτε τα τελευταία νέα και πληροφορίες για τις κορυφαίες ιστορίες, τον καιρό, τις επιχειρήσεις, την ψυχαγωγία, την πολιτική και πολλά άλλα.",
+    "createPostCommentaryDes" : "Τα σχόλια είναι συνήθως σύντομα άρθρα που αποτελούνται από 1.000 έως 1.500 λέξεις και εφιστούν την προσοχή ή ασκούν κριτική σε ένα βιβλίο, έκθεση ή άρθρο που έχει ήδη δημοσιευτεί.",
+    "createPostEssay" : "Εκθεση ΙΔΕΩΝ",
+    "createPostEssayDes" : "Τα περισσότερα δοκίμια είναι μικρά έως μεσαίου μήκους κομμάτια για μια προσωπική εμπειρία ή μια γνώμη. Συνήθως, ένα δοκίμιο περιστρέφεται γύρω από ένα θέμα και παρουσιάζει τις απόψεις σας.",
+    "createPostHowToDes" : "Αυτά τα συντακτικά κομμάτια περιέχουν βήματα, τρόπους ή συμβουλές που βοηθούν τον αναγνώστη να κάνει κάτι συγκεκριμένο. Παρέχουν τη (λύση) για ένα πρόβλημα ή την απάντηση σε μια ερώτηση",
+    "createPostProfileDes" : "Αυτός ο τύπος άρθρου περιστρέφεται γύρω από τη ζωή ενός ατόμου (όχι τη δική σας) και τα επιτεύγματά του. Με βάση μια συνέντευξη, παρέχετε μια εις βάθος ματιά στη ζωή της ...",
+    "createPostAnalysisDes" : "Τα άρθρα αναθεώρησης παρουσιάζουν μια εποικοδομητική και κριτική ανάλυση της υπάρχουσας βιβλιογραφίας, που επιτυγχάνεται μέσω ανάλυσης, σύγκρισης και περίληψης. Μπορούν να εντοπίσουν συγκεκριμένα προβλήματα ή κενά και μπορούν ακόμη και να δώσουν συστάσεις για έρευνα στο μέλλον.", 
+    "createPostStoryDes" : "Παραμύθι, Ειδήσεις, Ιστορία, Θρύλος, Επιστημονική Φαντασία, Διήγημα, Τραγωδία, Κωμωδία",
+    "createPostSponsored" : "ευγενική χορηγία",
+    "createPostSponsoredDes" : "Τα άρθρα με χορηγία είναι, στην ουσία, ένα είδος διαφήμισης. Μοιάζουν και διαβάζουν σαν τακτικά συντακτικά, αλλά πληρώνονται από έναν συγκεκριμένο διαφημιζόμενο και ως εκ τούτου",
+    "createPostArticleDes": "τα ερευνητικά άρθρα είναι πολύ λεπτομερείς μελέτες που αναφέρουν την αρχική έρευνα. Ως πρωτογενής βιβλιογραφία, τα πρωτότυπα ερευνητικά άρθρα περιλαμβάνουν τη βασική μελέτη, τις μεθόδους, την υπόθεση, τα αποτελέσματα και την ερμηνεία των ευρημάτων",
+
+
+    "createPostBreakingNewsTitle": "Εκτακτες ειδήσεις",
+    "createPostBroadcastTitle": "Ραδιοφωνικός",
+    "createPostInpicTitle": "Σε εικόνα",
+    "createPostInvestigationTitle": "Ερευνα",
+   
+
+    "addPostBreakingNewsTitleHint": "Τίτλος έκρηξης ειδήσεων",
+   
+
+    "createPostBroadCastDes": "Μοιραστείτε μια συνέντευξη δημοσιογραφίας, ρεπορτάζ ή ζωντανή ροή για μια εκδήλωση με μια σύντομη περιγραφή",
+    "createPostInPicDes": "Κάντε κουβέντα με εικόνες!",
+    "createPostInvestigationDes": "Μοιραστείτε την έρευνά σας σχετικά με το έγκλημα ή το πραγματικό φαινόμενο ή την Καταστροφή με αληθινές αποδείξεις ή μαρτυρίες",
+    "createPostEvent": "Προγραμματισμός πολιτιστικής εκδήλωσης ή εκδήλωσης εργασίας",
+
+    "tagTypeToSearch" : "Πληκτρολογήστε για αναζήτηση",
+    "tagNoTagSearchFound" : "Δεν βρέθηκε αναζήτηση χωρίς ετικέτα",
+
+    "tagSearchNumberOf" : "Teltrue άτομα δημοσιεύουν σχετικά με αυτό",
+    "useButton" :"Χρησιμοποίησε αυτό",
+    "addPostOpinionHint" : "Τι νομίζετε",
+    "addPostEssayDesHintText" : "Περιγράψτε μια γνώμη ή μια προσωπική εμπειρία",
+    "askQuestionTitleHint": "Ρώτα κάτι",
+
+    "addEventTitle" : "Οργανώστε μια εκδήλωση",
+    "addEventTitleHint": "Τίτλος εκδήλωσης",
+    "addEventPlaceLabel": "Τόπος εκδήλωσης",
+    "addEventPlaceHint": "Ξενοδοχείο, Συνεδριακό Μέγαρο, Διεύθυνση οδού, Online Εκδήλωση",
+    "addEventSpeakerLabel": "δωρητής",
+    "addEventSpeakerHint": "Πλήρες όνομα ομιλητή",
+    "addEventDateLabel": "Ημερομηνία",
+    "addEventMonthHint": "Μήνας",
+    "addEventDayHint": "Ημέρα",
+    "addStartEventTime": "Ωρα έναρξης",
+    "addEndEventTime": "Τέλος χρόνου",
+    "addEventPoster": "Αφίσα εκδηλώσεων",
+    "addEventAboutHint": "Σχετικά με την εκδήλωση ..."  ,
+
+
+    "noContentAvailable" : "Δεν υπάρχει διαθέσιμο περιεχόμενο",
+    "noOtherPublication" : "Δεν υπάρχουν άλλες δημοσιεύσεις προς εμφάνιση",
+
+    "trueKey" : "αληθής",
+    "falseKey" : "ψευδής",
+    "report" : "αναφορά" ,
+    "dislike" : "αντιπάθεια", 
+    "fiveMostRead" :  "Τα πέντε πιο διαβασμένα",
+    "fiveMostViews" : "Οι πέντε περισσότερες προβολές",
+    "deletedPost" : "Διαγραφή δημοσίευσης",
+    "noPostDeletedYet" : "Δεν δημοσίευση έχει διαγραφεί ακόμα",
+
+
+    "interestAll" : "Ολα",
+    "interestWorld" : "Κόσμος",
+    "interestBusiness" : "Επιχειρήσεις και Οικονομικά",
+    "interestLifestyle" : "Τρόπος ζωής",
+    "interestTechnology" : "Επιστήμη και Τεχνολογία Υπολογιστών",
+    "interestSport" : "Αθλημα",
+    "interestHealth" : "Υγεία & Ιατρική",
+    "interestScience" : "Επιστήμη",
+    "interestEntertainment" : "Ψυχαγωγία",
+    "interestAgriculture" : "Γεωργία",
+    "interestMechanical" : "Μηχανική",
+    "interestOther" : "Αλλα",
+
+    "filter" : "Φίλτρο" , 
+    "watch" : "Παρακολουθώ",
+    "trending" : "Τάσεις",
+    "home" : "Σπίτι",
+    "write" : "Γράφω",
+    "readLater" : "Διαβάστε αργότερα",
+    "watchLater" : "Δείτε αργότερα",
+    "dashbord" : "Ταμπλό",
+    "payment" : "Πληρωμή",
+
+    "read": "Διαβάστε",
+    "biography" : "Βιογραφία",
+    "readMore" : "Διάβασε περισσότερο",
+
+    "profileExperienceSnackBarCompanyName": "Εισαγάγετε το όνομα της εταιρείας",
+    "profileExperienceSnackBarJobTitle":  "Εισαγάγετε τον τίτλο εργασίας",
+    "profileExperienceSnackBarInvalidPeriode":  "Μη έγκυρη περίοδος",
+    "addButton" : "Προσθήκη"
+
+    ,"profileInterest" : "Τα ενδιαφέροντα"
+}

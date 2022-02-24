@@ -1,0 +1,598 @@
+{
+    "confirmButton": "Devam et",
+    "profileUnfolowButton": "abonelikten çık",
+    "cancelButton": "İptal",
+   
+  
+
+    "profileAbout": "Hakkında",
+    "profileFollowing": "abonelikler",
+    "profileFollowers": "aboneler",
+   
+
+    "profileSkills": "Eğitim arkaplanı",
+    "profileSkillsEstablishment": "Kuruluş",
+    "profileSkillsEstablishmentHint": "Üniversite veya Enstitü",
+    "profileSkillsDiploma": "Diploma",
+    "profileSkillsDiplomaHint": "Sertifika veya Diploma",
+    "deleteAsk": "Devam etmek istiyor musun ?",
+    
+    "profileExperience": "deneyimler",
+    "profileExperienceCompany": "Şirket",
+    "profileExperienceCompanyHint": "Tv İstasyonu, Radyo, Gazete",
+    "profileExperienceJobTitle": "İş unvanı",
+    "profileExperienceJobTitleHint": "Gazeteci, Editör, Muhabir",
+    "profileExperiencePeriode": "Dönem",
+    "profileExperiencePeriodeYear": "Yıl",
+    
+    
+    "profileContacts": "İletişim",
+    
+    
+    
+    "requiredFiled" : "alan gerekli",
+    "descriptionPoll" : "Anket hakkında",
+
+    "articleReference" : "Makale referansları",
+    "snackBarAddParagph" : "En az bir paragraf ekleyin",
+   
+
+    "createProfileNationality" : "Milliyet",
+    "createProfileChildren" : "Çocuklar",
+    "createProfileRelation" :"ilişki durumu",
+    "createProfileEducation" :"Eğitim",
+    "createProfileOccupation" :"İşgal",
+
+    "snackBarAddSteps" : "En az bir adım ekleyin",
+    
+    
+     
+    "like": "beğeniler",
+    "postViewWrittenBy": "Tarafından yazılmıştır",
+    "postViewUpdate": "Güncelleme",
+    "pictureBy": "tarafından resim",
+    "videoBy": "Videoyu hazırlayan",
+    "views": "Görünümler",
+
+
+
+
+
+    "pictureDetailsAddComment": "Cevabınızı yazın",
+    "commentModifer": "değiştir",
+    "commentDelete": "Sil",
+    "commentReply": "Cevaplar",
+    "inviteButton" : "Davet et",
+    "iLikeButton" : "severim",
+    "fullScreen" : "Tam ekran",
+
+
+
+
+    "saveButton": "Kaydet",
+    "message": "Mesajlar",
+    "notificationTitle": "Bildirimler",
+    "account" : "Hesap",
+
+
+
+    "contactUs" : "Temas",
+    "aboutUs" : "Hakkında",
+    "privacyPolicy": "Gizlilik Politikası",
+    "cookiePolicy": "Kurabiye",
+    "copyrightPolicy": "Telif Hakkı Politikası",
+    "terms": "Şartlar",
+    "help" : "Yardım",
+    
+    
+    
+    
+    
+    "accountMenuProfileSetting": "Ayar ve Gizlilik",
+    "accountMenuLogOut": "Çıkış Yap",
+    "seeYourProfile" : "profilinize bakın",
+    "helpAndSupport" : "Yardım ve Destek",
+    "accountEmail" : "Hesap E-posta",
+    "changePassword" : "Şifre değiştir",
+    "location": "Konum",
+    "language" : "Dil",
+    "newEmail" : "Yeni E-posta",
+    "currentPassword" : "Şimdiki Şifre",
+    
+    
+    "newEmailDescription" :  "Telltrue hesabınıza güncel bir e-posta eklemek, oturum açmanıza ve bildirimler almanıza ve parolanızı kolayca sıfırlamanıza yardımcı olabilir.",
+    "currentPassIsWrong" : "Mevcut şifre yanlış",
+    "passWordCondition" : "Şifre en az 8 karakter olmalıdır",
+
+
+
+    
+
+
+    "messageSorryCannotSend" : "Üzgünüz, bu hesaba mesaj gönderemezsiniz",
+    "blockButton": "Blok",
+    "suggestionChatUnBlock": "engeli kaldırmak",
+    "suggestionChatTypeMsg": "Mesajını yaz",
+    "suggestionChatDeleteConversation": "Sohbeti sil",
+    "suggestionChatBlockMsgRequest": "Mesajları ve aramaları engelle?",
+    "suggestionChatBlocktitle2": "Telltrue hesabı",
+    "suggestionChatBlockDescrip": "Bu sohbette onlara mesaj gönderemez veya onları arayamazsınız ve onların mesajlarını veya aramalarını almayacaksınız.",
+    "suggestionChatBlocktitle1": "Gelen Mesajları ve Aramaları Engellediniz",
+    "suggestionChatBlockMsgDescrip1": "Telltrue hesabınız şu kişilerden mesaj veya arama almayacak ?",
+    "suggestionChatBlockMsgDescrip2": "Telltrue hesabı \n Siz gizlemediğiniz sürece sohbet Sohbetler'de kalır.",
+    "suggestionChatDeleteConversationDescrip": "Bu konuşmanın kendi kopyasını sildikten sonra geri alınamaz.",
+
+
+    "messageNoMessageYet": "Henüz herhangi bir konuşma yapmadınız",
+    "messageStartMessage": "Yeni bir konuşma başlat",
+
+
+
+
+
+    "copyRight" : "©2020 Telltrue Şirketi. Her hakkı saklıdır.",
+    "addprofileImageDes" :   "Profil fotoğrafınız, ekibinizin Telltrue'da kim olduğunuzu bilmesine yardımcı olur. Ve fotoğrafınız netse, birinin sizi kalabalıkta veya toplantıda seçmesi daha kolay olacaktır!",
+    "personalPicture" : "Kişisel resimler",
+    "postPicture" : "Resim yayınla",
+    "noPictureToshow" : "Gösterilecek Resim Yok",
+    "pictureSetAsProfilePic": "Profil fotoğrafı olarak ayarlamak",
+    "pictureDelete": "Bu fotoğrafı sil",
+    "pictureDeleteRequest": "Bu fotoğrafı silmek istediğinizden emin misiniz?",
+
+
+
+    "profilePicAndVid": "Resimler",
+    "profilePicturesOfYou": "Senin resimler",
+    "profileVideo": "Videolar",
+    "yourVideos": "Videolarınız",
+    "liveVideos": "Canlı Video",
+
+
+
+    "readers" : "okumalar",
+    "nobreakingNewsyet" : "Henüz bir son dakika haberi yok",
+    "noBreakingNewsDes" :  "Son dakika haberlerini aldığınızda, burada görünecekler",
+    "breakingNewsisAvailable" :   "Bu son dakika haberi maalesef mevcut değil.",
+   
+    "noCommentYetTitle": "Burada henüz cevap yok...",
+    "noCommentsYetDes": "Düşüncelerinizi ilk paylaşan siz olun!",
+    
+    "readLess" : "Az oku",
+    "vote": "oy",
+    "undo" : "geri alma",
+
+
+    "reportSelectProb" :  "Devam etmek için lütfen bir sorun seçin",
+    "report1" : "Etik olmayan içerik",
+    "report2" : "önemsiz içerik",
+    "report3" : "Dine zarar veren içerik",
+    "report4" : "Güvenliğe zarar veren ve şiddeti teşvik eden içerik",
+    "sendButton" :  "Göndermek",
+
+
+   
+    "eventInterestedButton": "Ilgilenen",
+    "eventNotInterestedButton": "İlgilenmiyorum",
+
+
+    "Participants" : "Katılımcılar",
+    "career" : "Kariyer",
+    "closeButton" : "Kapat",
+    "abstrack": "Soyut",
+    "reference" : "Referanslar",
+
+
+
+    "noVideoShow" : "Görüntülenecek video yok",
+    "noLiveVideoShow" : "Görüntülenecek canlı video yok",
+    "noPubmatching" : "Eşleşen yayın bulunamadı",
+    "noEventmatching" : "Eşleşen etkinlik bulunamadı",
+    "noTelltruefound" :  "Eşleşen Telltrue kullanıcısı bulunamadı",
+    "result" : "sonuç",
+    "seeAllpub" : "Tüm yayınların sonucunu görün",
+    "seeAllEvent" : "Tüm etkinliklerin sonucunu görün",
+    "telltrueUser": "Telltrue kullanıcılar",
+    "famousPersonIdentified" : "tanımlanan kişi",
+    "eventIdentified":"tanımlanan olay",
+     "placeIdentified":"belirlenen yer",
+     "all" :  "Tüm",
+     "addBy" : "Tarafından eklendi",
+
+
+     "seeAllpeople" : "Tüm insanların sonucunu gör",
+     "searchTelltrue" : "Telltrue'da Ara",
+     "searchFor" : "Ara",
+
+
+
+     "suggestionsForyou" : "sizin için öneriler",
+     "todayTopWritting": "Bugünün en çok yazılan yazısı",
+ 
+     "notificationNoYetTitle": "Henüz bildirim yok",
+     "notificationNoYetDes": "Bildirim aldığınızda burada görünürler",
+     "inviteYouToReadAn": "seni okumaya davet et",
+    "inviteYouToAnswer": "seni cevaplamaya davet et",
+    "inviteYouToWatch": "seni izlemeye davet ediyorum",
+    "inviteYouToSee": "seni görmeye davet ediyorum",
+    "inviteYouToReadEvent": "sizi bir etkinlik görmeye davet ediyor",
+    "notificationSubscribe": "seni takip etmeye başladı",
+    "and": "ve",
+    "other": "diğerleri",
+    "commentedYour": "yayınına yorum yaptı",
+    "likedYour": "yazınıza tepki verdi",
+    "answerYour": "anketinize cevap verdi",
+    "reportYour" :"gönderinizi şikayet edin",
+
+
+    "deletePostDescription" :  "Bu yayın sahte olabilir.\n Bu nedenle Telltrue'dan silinecek",
+    "notiDeletePost" : "Maalesef sileceğiz",
+    "fullNamerequired" : "Tam adınızı pasaportunuzda veya nüfus cüzdanınızda olduğu gibi girin.",
+
+    "chooseFile" : "Bir dosya seçin",
+    "driver'sLicence" : "Ehliyet",
+    "driverLicenceDes" : "Ehliyetinizin bir fotoğrafını veya taramasını yükleyin.",
+    "driverLicenceFrontSideTitle" : "Ehliyetinizin ön yüzü",
+    "driverLicenceFrontSideDes" : "Ehliyetinizin ön yüzünü yükleyin",
+    "nationalId": "Ulusal Kimliği",
+    "nationalIdDes" : "Belgenizin bir fotoğrafını veya taramasını yükleyin.",
+    "nationalIdFrontSideTitle" : "Belgenizin ön yüzü",
+    "nationalIdFrontSideDes" : "Belgenizin ön yüzünü yükleyin",
+
+    "nationalIdBackSideTitle" : "Belgenizin arka tarafı",
+    "nationalIdBackSideDes" : "Belgenizin arka yüzünü yükleyin",
+
+    "passport" : "Pasaport",
+    "passportDes" : "Pasaportunuzun fotoğraf sayfasının bir fotoğrafını veya taramasını yükleyin.",
+    "passportUploadDes" : "Resimli ayrıntılar sayfası",
+    "chooseOtherOption" : "Farklı bir kimlik belgesi seçin",
+
+
+    "driverLicenceBackSideTitle" : "Ehliyetinizin arka yüzü",
+    "driverLicenceBackideDes" :"Ehliyetinizin arka yüzünü yükleyin",
+    "uploadAproofOfidendity" : "Kimliğinizin bir kanıtını yükleyin",
+    "chooseCountryDes":  "Lütfen elinizdeki kimlik belgesini düzenleyen ülkeyi seçin.",
+    "countryDropDowntitle" : "kimlik veren ülke",
+    "selectCountry" : "Ülke Seç...",
+    "documentType" : "Döküman tipi",
+    "selectDocType" : "Bir belge türü seçin",
+
+
+
+
+
+
+    "firstAndlastName" : "Tam yasal ad ve soyadları",
+    "firstAndMiddleName" : "Tam yasal ad ve göbek adları",
+    "spellYourName" : "Adınızı tam olarak pasaportunuzda veya kimlik kartınızda gösterildiği gibi yazın.",
+    "fullLegalLastName": "Tam yasal soyad(lar)",
+    "spellHomeTwon": "Ev sahibinizi pasaportunuzda veya nüfus cüzdanınızda yazdığı gibi girin.",
+    "spellCurrentLocation" : "Pasaportunuzda veya nüfus cüzdanınızda yazılı olduğu şekilde mevcut konumunuzu girin.",
+    "passwordConditions" : "Şifre bir harf ve bir sayı içermeli ve en az 8 karakter olmalıdır",
+    "birthDayCondition" : "Doğum gününüzü pasaportunuzda veya nüfus cüzdanınızda yazdığı gibi girin.",
+    "phone" : "Telefon",
+    "phoneNumber" : "Telefon numarası",
+    "theAccountAlready": "Bu e-posta için hesap zaten var",
+    "welcomeToOurteam" : "Ekibimize hoş geldiniz",
+
+
+    "snackBarNoUserFound": "No user found for that identifier",
+    "snackBarWrongPassword": "Wrong Password",
+
+
+
+
+
+    "teltrueSayHey" : "Hey!",
+    "teltrueWelcomIntro":"\nGazetecinin lider olduğu tek platform",
+    "formIdentifierLoginPage" : "Tanımlayıcı",
+    "formPasswordLoginPage" : "Parola",
+    "onlyReaderOptionSignIn" : "Veya (Sadece Okuyucu)",
+    "forgotPasswordLoginPage" : "Parolanızı mı unuttunuz ?",
+    "askForSignUpLoginPage" : "Hesabın yok mu?",
+    "signUpFlatButtonLoginPage" : "Kaydol",
+    "connectButtonLoginPage" : "Oturum aç",
+    "appBarTitleResetPassword" : "Şifreyi yenile",
+    "subtitleResetPassword" : "1. Adım: Hesabınızı Bulun",
+    "descriptionResetPassword" : "Size şifre sıfırlama kodunu göndermek için kayıtlı e-postanıza ihtiyacımız var",
+    "hintTextResetPassword" : "E-postanızı doğru girin",
+    "sendRequestResetPassword" : "İstek gönder",
+
+    "subtitlePassCode" : "2. Adım: Doğrulama Kodu",
+    "descriptionPassCode" : "Kaydınıza az önce gönderdiğimiz doğrulama kodunu girin",
+    "hintTextPassCode" : "Kod",
+    "resendCodeFlatButtonPassCode" : "Yeniden gönderme kodu !",
+    "verifybuttonPassCode" : "Doğrulayın",
+    "subtitleCreateNewPassword" : "3. Adım: Yeni Parola Oluşturun",
+    "descriptionCreateNewPassword" : "yeni şifreniz daha önce kullanılan şifreden farklı olmalıdır",
+    "hintTextNewPassword" : "Yeni Şifre",
+    "hintTextConfirmNewPassword" : "Yeni şifreyi onayla",
+    "resetPasswordCreatePassword" : "Şifreyi yenile",
+
+    "yesItsMeButton" : "Evet benim",
+    "tryAgainButton" : "Tekrar deneyin",
+    "noAccountAttachedDes" : "Üzgünüz, bu e-postaya eklenmiş bir hesap yok",
+    "taostConfirmThePassWord" : "Lütfen şifreyi onaylayın",
+    "toastInvalidCode": "Geçersiz kod",
+
+
+    "subtitleSignUpMode" : "Kimsin ?",
+    "descriptionSignUpMode" : "bir gazeteci, Basit okuyucu veya Medya olarak bize katılmaya hazırsınız (Gazeteler, Radyo, Tv ...)",
+    "iamReaderSignUpMode" : "Ben Okuyucuyum",
+    "iamJournalistSignUpMode" : "Ben Gazeteciyim",
+    "weareMediaSignUpMode" : "Biz Medyayız",
+
+
+    "hintTextFullNameSignUpWithEmail": "Tanımlayıcıda Aynı",
+    "fullNameTitleSignUpWithEmail": "Ad Soyad",
+    "emailTitleSignUpWithEmail": "Resmi E-posta Adresi",
+    "locationTitleSignUpWithEmail": "The Current Location",
+    "genderSignUpWithEmail": "Cinsiyet",
+    "hintTextGetLocationSignUpWithEmail": "ülke, şehir",
+    
+    "hintTextIdentifierSignUpWithEmail" : "E-posta Adresi",
+    "hintTextPasswordSignUpWithEmail" : "Parola",
+    "hintTextConfirmPasswordSignUpWithEmail" : "Şifreyi Onayla",
+    
+    "hintTextSelectMale" : "Erkek",
+    "hintTextSelectFemale" : "Kadın",
+    "nextButton": "Sonraki",
+    "snackBarInvalidFullName" : "Ad ve soyadınızı girin !",
+    "snackBarInvalidEmail" : "Geçerli bir E-posta adresi girin!",
+    "snackBarInvalidPassword" : "Parola 8 karakterden oluşmalıdır!",
+    "snackBarInvalidConfirmPassword" : "Parolanızı onaylayın",
+    "snackBarInvalidLocation" : "Mevcut Konumunuzu seçin",
+
+    
+
+    "subtitleJournalistSignUpWorkSpace" : "Çalışma Alanı Adı",
+    "subtitleJournalistSignUpBirthday" : "Doğum tarihi",
+    "subtitleJournalistSignUpUploadId" : "Fotoğraflı kimliğinizi yükleyin",
+    "hintTextChannelNameJournalistSignUp" : "Tv veya Radyo veya Gazete ...",
+
+    "hintTextYear" : "Yıl",
+    "hintTextDay" : "Gün",
+    "hintTextMonth" : "Ay",
+    "descriptionUploadPhotoId" : "Kimliğinizden emin olmak için, devlet tarafından verilmiş kimliğinizin renkli bir fotoğrafını yüklemeniz gerekiyor. Kimliğiniz adınızı, Doğum gününüzü ve fotoğrafınızı içermelidir. \n Kabul edilebilir Kimlikler şunları içerir: \n- Pasaport \n- Ulusal Kimlik kartı \n- sürücü belgesi \n Kimliğinizin net bir fotoğrafını alıp inceledikten sonra Kimlik belgenizi sunucumuzdan sileceğiz",
+    "choosePhotoButton" : "Fotoğraf seç",
+    "snackBarUploadImageId" : "resim başarıyla yüklendi",
+    "snackBarInvalidBirthday" : "Geçerli Doğum gününü girin!",
+    "snackBarSince" : "Geçerli bir Başlangıç günü girin!",
+    "snackBarInvalidUpload" : "Kimlik fotoğrafınızı yüklemelisiniz",
+    
+
+
+    "journalistReporter" : "Gazeteci ve Muhabir",
+    "journalistWriter" : "Gazeteci ve Yazar",
+    "journalistAnimator" : "Gazeteci ve Sunucu",
+    "photoJournalist" : "Foto Muhabiri",
+    "journalistEditor" : "Gazeteci ve Editör",
+    "tvColumnist" : "TV köşe yazarı",
+    "freelanceJournalist" : "Serbest gazeteci",
+    "investigativeJournalist" : "araştırmacı gazeteci",
+    "onlineJournalistBloger" : "blog yazarı & çevrimiçi gazeteci",
+    "subtitleReviewPage" : "Başarılı!",
+    "descriptionP1ReviewPage" : "Teşekkürler",
+    "descriptionP3ReviewPage" : ", Gazeteci hesabı talebinizi aldık ve onu inceleme sürecindeyiz (24 saat). Kimliğinizin, kimliğinizi onayladıktan sonra 30 gün içinde güvenli bir şekilde saklanacağını ve silineceğini unutmayın.",
+    "snackBarSelectOption" : "Seçeneği seçmelisiniz",
+
+
+    "doneButton" : "Bitti",
+    "appBarTitleAddProfileImage" : "Profil Resmi",
+    "subtitleWelcomePage" : "Uygulamamıza başarıyla kaydoldunuz ve üzerinde çalışmaya başlayabilirsiniz",
+    "startButton" : "Başlat",
+    "photoLibrary" : "Fotoğraf kütüphanesi",
+    "photoCamera" : "Kamera",
+
+    "appBarTitleSuggestion" : "Takip edilecek öneri",
+    "descriptionSuggestion" : "Takip edecek bir gazeteci veya Medya bulmakla başlayarak, Teltrue deneyiminizi kişiselleştirmenize yardımcı olması için ilgilendiğiniz bazı konuları seçin.",
+    "subtitleSuggestion1" : "Gazeteciler",
+    "subtitleSuggestion2" : "Televizyon ve Radyo" ,
+    "subtitleSuggestion3" : "Gazete ve Dergiler",
+    "noJournalistYet" : "Henüz ülkenizden hiçbir gazeteci kaydolmadı",
+    "noTvRadioYet" : "Henüz ülkenizden hiçbir TV veya Radyo kayıtlı değil",
+    "noNewspaperMagazine" : "Henüz ülkenizden hiçbir Gazete veya Dergi kaydolmadı",
+
+    "addPostSearchPlaceHint": "yeri bul",
+    "addPostSearchEventHint": "Geçerli etkinlik başlığını bulun",
+    "addPostSearchPersonHint": "Ünlü kişinin adını bulun",
+    "tagPerson": "Ünlü kişi",
+    "tagEvent": "Etkinlik",
+    "tagPlace": "Yer",
+    "addPostBreakingNewsDesHint": "Bize ne olduğunu anlat ",
+    "snackBarTopic": "Konu Seçmelisiniz",
+
+    "createPostCommentary" : "Yorum ve Perspektifler",
+    "feel" : "hissetmek",
+
+    "createPostQuestionDes": "Kamuoyu araştırmaları, belirli bir konu veya bir dizi konu hakkında kamuoyunu bilimsel ve tarafsız bir şekilde ölçmek için tasarlanmış anketlere veya soruşturmalara benzer.",
+    "feelingHappy": "mutlu hissetmek",
+    "feelingCool": "havalı hissediyor",
+    "feelingSurprised": "şaşırmış hissediyor",
+    "feelingShocked": "şok olmuş hissediyor",
+    "feelingNervous": "gergin hissediyor",
+    "feelingAngry": "kızgın hissediyor",
+    "feelingDrool": "salyası geliyor",
+    "feelingSweat": "çığlık atıyor",
+    "feelingCrying": "ağlıyor",
+    "feelingSad": "Üzgün hissediyor",
+    "feelingDead": "ölü hissediyor",
+    "feelingDubious": "şüpheli hissediyor",
+    "feelingTired": "yorgun hissediyor",
+    "feelingLoved": "sevildiğini hissetmek",
+    "feelingPain": "acı hissediyor",
+    "feelingMuted": "sessiz hissediyor",
+    "feelingGreed": "açgözlülük hissediyor",
+    "feelingSick": "hasta hissediyor",
+    
+
+    "pollTitle" : "Anket",
+    "choiceOne" : "Seçim Bir",
+    "choiceTwo" : "İkinci Seçenek",
+    "choiceThree" : "Seçim Üç",
+    "pollLength" : "Anket uzunluğu",
+    "days" : "günler",
+    "hours" : "Saatler",
+    "Minutes" : "dakika",
+
+    "addPostArticle": "Araştırma makalesi",
+    "addPostArticleGeneralTitle": "Genel başlık",
+    "addPostArticleWrittersHintText": "yazarlar",
+    "addPostArticleKeywords": "anahtar kelimeler",
+    "addPostArticleCoresspondence": "Yazışma",
+    "addPostArticleAbstract": "Özeti buraya yazın",
+
+    "addPostArticleFirstPartTitle" : "İlk bölüm başlığı",
+    "addPostArticleSecondPartTitle" : "İkinci bölüm başlığı",
+    "addPostArticleThirdPartTitle" : "Üçüncü bölüm başlığı",
+    "addPostArticleFourthPartTitle" : "Dördüncü bölüm başlığı",
+
+    "addPostArticleFirstPartDes" : "İlk bölüm açıklaması",
+    "addPostArticleSecondPartDes" : "İkinci bölüm açıklaması",
+    "addPostArticleThirdPartDes" : "Üçüncü bölüm açıklaması",
+    "addPostArticleFourthPartDes" : "Dördüncü bölüm açıklaması",
+    "addPostArticleConclusion" : "Çözüm",
+
+    "addPostArticleIntro": "Tanıtım",
+    "unDoneDialogDiscardPost":   "Gönderiyi Sil",
+    "unDoneDialogDiscardDes":   "Bu geri alınamaz ve taslağınızı kaybedersiniz.",
+    "unDoneDialogDiscardButton":  "atmak",
+
+    "createHowToTitle"  :"Nasıl?",
+    "createHowToSuplliesHintText" : "Malzemeler",
+    "createHowToThinkInStep" : "Adımlar halinde düşünün",
+    "createHowToStepTitleHintText" : "Adım başlığı (İsteğe bağlı)",
+    "createHowToStepDetailsHintText" :  "Adımın ayrıntıları",
+    "createHowToShowResult" : "Görünen sonuç",
+    "createHowToAddStepButton" :  "Adım ekle",
+
+    "snackBarSupplies" : "Bazı malzemeleri yazmanız gerekiyor",
+    "snackBarSteps" : "bazı adımları yazman gerekiyor",
+    "snackBarBiography" : "Lütfen hakkında bazı kelimeler yazın",
+
+    "createProfiletitle" : "Kişisel profil",
+    "createProfileAgeHintText" : "Yaş",
+    "createProfileHomeTwonHintText": "Memleket",
+    "createProfilecurrentCityHintText" : "Şu anki şehir",
+    "createProfileCvHintText" : "Özgeçmiş",
+
+    "createAnalysisAddpart": "paragraf ekle",
+    "createAnalysisTitle": "Analiz ve İnceleme",
+    "createAnalysisPartTitle": "paragraf başlığı",
+    "createAnalysisPartDetails": "Paragraf ayrıntıları",
+
+    "feelingButton": "duygular",
+    "topicButton": "Başlık",
+    "uploadButton": "yüklemek",
+
+    "snackBarEmptyTitle" : "lütfen bir başlık yazın",
+    "snackBarEmptyDes" : "lütfen açıklama kutusuna bazı kelimeler yazın",
+    "snackBarEmptyParagraph" : "Lütfen en az bir paragraf girin",
+
+    "broadcastingHintTextDes" : "Yayın açıklaması",
+    "inPictureHintTextDes" : "Resim açıklaması",
+
+    "createStoryTitle" : "Öykü",
+    "createStorytitleHintText" : "Hikaye başlığı (İsteğe bağlı)",
+    "createStoryDesHintText" : "Hikayeni buraya yaz",
+
+    "createPostBreakingNewsDes": "Bugün için son dakika haberi",
+    "createPostLastestNewsTitle" : "Son Haberler",
+    "createPostLastestNewsDes" : "En çok okunan haberler, hava durumu, iş dünyası, eğlence, politika ve daha fazlası hakkında en son haberleri ve bilgileri bulun.",
+    "createPostCommentaryDes" : "Yorumlar genellikle 1.000 ila 1.500 kelimeden oluşan kısa makalelerdir ve daha önce yayınlanmış bir kitap, rapor veya makaleye dikkat çeker veya bunları eleştirir.",
+    "createPostEssay" : "Makale",
+    "createPostEssayDes" : "Çoğu deneme, kişisel bir deneyim veya görüş hakkında kısa ila orta uzunlukta parçalardır. Tipik olarak, bir makale bir konu etrafında döner ve görüşlerinizi sunar.",
+    "createPostHowToDes" : "Bu kuralcı parçalar, okuyucunun belirli bir şey yapmasına yardımcı olan adımlar, yollar veya ipuçları içerir. Bir sorun için (çözüm) veya bir sorunun cevabını sağlarlar.",
+    "createPostProfileDes" : "Bu tür bir makale, bir kişinin hayatı (sizinki değil) ve başarıları etrafında döner. Bir röportaja dayanarak, hayatına derinlemesine bir bakış sağlıyorsunuz...",
+    "createPostAnalysisDes" : "İnceleme makaleleri, analiz, karşılaştırma ve özet yoluyla elde edilen mevcut literatürün yapıcı ve eleştirel bir analizini sunar. Belirli sorunları veya boşlukları belirleyebilirler ve hatta gelecekteki araştırmalar için önerilerde bulunabilirler.", 
+    "createPostStoryDes" : "Masal, Haber, Tarih, Efsane, Bilim Kurgu, Kısa Öykü, Trajedi, Komedi",
+    "createPostSponsored" : "sponsorlu",
+    "createPostSponsoredDes" : "Sponsorlu içerik makaleleri özünde bir tür reklamdır. Normal başyazılar gibi görünürler ve okurlar, ancak belirli bir reklamveren tarafından ödenirler."
+    ,"createPostArticleDes": "araştırma makaleleri, orijinal araştırmayı rapor eden çok ayrıntılı çalışmalardır. Birincil literatür olarak kabul edilen orijinal araştırma makaleleri, arka plan çalışmasını, yöntemleri, hipotezi, sonuçları ve bulguların yorumlanmasını içerir.",
+
+
+    "createPostBreakingNewsTitle": "Flaş Haber",
+    "createPostBroadcastTitle": "yayın",
+    "createPostInpicTitle": "Resimde",
+    "createPostInvestigationTitle": "Soruşturma",
+   
+
+    "addPostBreakingNewsTitleHint": "Son dakika haber başlığı",
+   
+
+    "createPostBroadCastDes": "Kısa bir açıklama ile bir etkinlik hakkında Gazetecilik Röportajı, röportaj veya canlı yayın paylaşın",
+    "createPostInPicDes": "Resim konuşsun!",
+    "createPostInvestigationDes": "Suç veya gerçek bir fenomen veya Afet hakkındaki Soruşturmanızı gerçek kanıtlar veya tanıklarla paylaşın",
+    "createPostEvent": "Kültürel bir etkinlik veya iş etkinliği planlama",
+
+    "tagTypeToSearch" : "Aramak için yazın",
+    "tagNoTagSearchFound" : "Etiketsiz arama bulundu",
+
+    "tagSearchNumberOf" : "Teltrue insanlar bu konuda paylaşımda bulunuyor",
+    "useButton" :"Bunu kullan",
+    "addPostOpinionHint" : "Ne düşünüyorsun",
+    "addPostEssayDesHintText" : "Bir fikri veya kişisel deneyimi tanımlayın",
+    "askQuestionTitleHint": "Bir şey sor",
+
+    "addEventTitle" : "Bir etkinlik düzenleyin",
+    "addEventTitleHint": "Olay başlığı",
+    "addEventPlaceLabel": "Etkinlik Yeri",
+    "addEventPlaceHint": "Otel, Kongre Salonu, Sokak adresi, Online Etkinlik",
+    "addEventSpeakerLabel": "sunucu",
+    "addEventSpeakerHint": "Konuşmacının tam adı",
+    "addEventDateLabel": "Tarih",
+    "addEventMonthHint": "Ay",
+    "addEventDayHint": "Gün",
+    "addStartEventTime": "Başlangıç saati",
+    "addEndEventTime": "Bitiş zamanı",
+    "addEventPoster": "Etkinlik Posteri",
+    "addEventAboutHint": "Etkinlik Hakkında..."  ,
+
+
+    "noContentAvailable" : "İçerik yok",
+    "noOtherPublication" : "Gösterilecek başka yayın yok",
+
+    "trueKey" : "doğru",
+    "falseKey" : "yanlış",
+    "report" : "rapor" ,
+    "dislike" : "Beğenmemek", 
+    "fiveMostRead" :  "En çok okunan beş",
+    "fiveMostViews" : "Beş En-görünümler",
+    "deletedPost" : "Silinen yayın",
+    "noPostDeletedYet" : "Hiçbir yayın henüz silindi",
+
+    "interestAll" : "Tüm",
+    "interestWorld" : "Dünya",
+    "interestBusiness" : "İş ve finans",
+    "interestLifestyle" : "Yaşam tarzı",
+    "interestTechnology" : "teknoloji",
+    "interestSport" : "Spor",
+    "interestHealth" : "Sağlık ve Tıp",
+    "interestScience" : "Bilim",
+    "interestEntertainment" : "Eğlence",
+    "interestAgriculture" : "Tarım",
+    "interestMechanical" : "mekanik",
+    "interestOther" : "Başka",
+
+
+    "filter" : "Filtre" , 
+    "watch" : "izle",
+    "trending" : "Trend olan",
+    "home" : "Ana Sayfa",
+    "write" : "Yazı yazmak",
+    "readLater" : "Sonra Oku",
+    "watchLater" : "Daha sonra izle",
+    "dashbord" : "Gösterge Paneli",
+    "payment" : "Ödeme",
+
+    "read": "Oku",
+    "biography" : "Biyografi",
+    "readMore" : "Devamını oku",
+
+    "profileExperienceSnackBarCompanyName": "Şirket adını girin",
+    "profileExperienceSnackBarJobTitle":  "İş unvanını girin",
+    "profileExperienceSnackBarInvalidPeriode":  "Geçersiz dönem",
+    "addButton" : "Ekle"
+
+    ,"profileInterest" : "ilgi alanları"
+
+}

@@ -1,0 +1,583 @@
+{
+    "confirmButton": "継続する",
+    "profileUnfolowButton": "登録を解除する",
+    "cancelButton": "キャンセル",
+   
+  
+
+    "profileAbout": "だいたい",
+    "profileFollowing": "サブスクリプション",
+    "profileFollowers": "サブスクライバー",
+   
+
+    "profileSkills": "学歴",
+    "profileSkillsEstablishment": "確率",
+    "profileSkillsEstablishmentHint": "大学または機関",
+    "profileSkillsDiploma": "ディプロマ",
+    "profileSkillsDiplomaHint": "証明書または卒業証書",
+    "deleteAsk": "続けますか ？",
+    
+    "profileExperience": "経験",
+    "profileExperienceCompany": "会社",
+    "profileExperienceCompanyHint": "テレビ局、ラジオ、新聞",
+    "profileExperienceJobTitle": "職名",
+    "profileExperienceJobTitleHint": "ジャーナリスト、編集者、レポーター",
+    "profileExperiencePeriode": "期間",
+    "profileExperiencePeriodeYear": "年",
+    
+    
+    "profileContacts": "連絡先", 
+   
+   
+   
+   
+    "requiredFiled" : "必要なフィールド",
+    "descriptionPoll" : "世論調査について",
+
+    "articleReference" : "記事の参照",
+    "snackBarAddParagph" : "少なくとも1つの段落を追加します",
+   
+
+    "createProfileNationality" : "国籍",
+    "createProfileChildren" : "子供達",
+    "createProfileRelation" :"関係の状態",
+    "createProfileEducation" :"教育",
+    "createProfileOccupation" :"職業",
+
+    "snackBarAddSteps" : "少なくとも1つのステップを追加します",
+   
+   
+   
+   
+     
+    "like": "いいね",
+    "postViewWrittenBy": "によって書かれた",
+    "postViewUpdate": "アップデート",
+    "pictureBy": "による画像",
+    "videoBy": "によるビデオ",
+    "views": "ビュー",
+   
+   
+   
+    "pictureDetailsAddComment": "返信を入力してください",
+    "commentModifer": "変更",
+    "commentDelete": "削除",
+    "commentReply": "返信",
+    "inviteButton" : "招待する",
+    "iLikeButton" : "好き",
+    "fullScreen" : "全画面表示",
+
+
+
+    "saveButton": "保存する",
+    "message": "メッセージ",
+    "notificationTitle": "お知らせ",
+    "account" : "アカウント",
+   
+   
+    "contactUs" : "接触",
+    "aboutUs" : "私たちについて",
+    "privacyPolicy": "プライバシーポリシ",
+    "cookiePolicy": "クッキ",
+    "copyrightPolicy": "著作権ポリシ",
+    "terms": "規約",
+    "help" : "ヘルプ",
+   
+   
+    "accountMenuProfileSetting": "設定とプライバシ",
+    "accountMenuLogOut": "ログアウト",
+    "seeYourProfile" : "あなたのプロフィールを見る",
+    "helpAndSupport" : "ヘルプとサポート",
+    "accountEmail" : "アカウントのメール",
+    "changePassword" : "パスワードを変更する",
+    "location": "場所",
+    "language" : "言語",
+    "newEmail" : "新しいメール",
+    "currentPassword" : "現在のパスワード",
+   
+   
+    "newEmailDescription" :  "現在の電子メールをTelltrueアカウントに追加すると、ログインして通知を受信したり、パスワードを簡単にリセットしたりするのに役立ちます。",
+    "currentPassIsWrong" : "現在のパスワードが間違っています",
+    "passWordCondition" : "パスワードは8文字以上でなければなりません",
+
+
+
+
+
+    "messageSorryCannotSend" : "申し訳ありませんが、このアカウントにメッセージを送信することはできません",
+    "blockButton": "ブロック",
+    "suggestionChatUnBlock": "ブロックを解除する",
+    "suggestionChatTypeMsg": "メッセージを入力してください",
+    "suggestionChatDeleteConversation": "チャットの削除",
+    "suggestionChatBlockMsgRequest": "メッセージと通話をブロックしますか？",
+    "suggestionChatBlocktitle2": "Telltrue アカウント",
+    "suggestionChatBlockDescrip": "このチャットでメッセージを送信したり電話をかけたりすることはできません。また、メッセージや電話を受信することもできません。",
+    "suggestionChatBlocktitle1": "からのメッセージと通話をブロックしました",
+    "suggestionChatBlockMsgDescrip1": "あなたのTelltrueアカウントはからのメッセージや電話を受信しません",
+    "suggestionChatBlockMsgDescrip2": "のTelltrueアカウント \n 非表示にしない限り、会話はチャットに残ります。",
+    "suggestionChatDeleteConversationDescrip": "この会話のコピーを削除すると、元に戻すことはできません。",
+
+
+    "messageNoMessageYet": "まだ会話をしていません",
+    "messageStartMessage": "新しい会話を始める",
+
+    "copyRight" : "©2021 Telltrue Company。 全著作権所有。",
+    "addprofileImageDes" :  "あなたのプロフィール写真はあなたのチームがあなたがTelltrueにいる人を知るのに役立ちます。 また、写真が鮮明であれば、人ごみや会議で誰かがあなたを見つけやすくなります。",
+    "personalPicture" : "個人的な写真",
+    "postPicture" : "写真を投稿する",
+    "noPictureToshow" : "表示する写真がありません",
+    "pictureSetAsProfilePic": "プロフィール写真として設定",
+    "pictureDelete": "この写真を削除する",
+    "pictureDeleteRequest": "この写真を削除してもよろしいですか？",
+
+
+    "profilePicAndVid": "ピクチャー",
+    "profilePicturesOfYou": "あなたの写真",
+    "profileVideo": "ビデオ",
+    "yourVideos": "あなたのビデオ",
+    "liveVideos": "ライブビデオ",
+
+
+    "readers" : "読書",
+    "nobreakingNewsyet" : "速報はまだありません",
+    "noBreakingNewsDes" :  "ニュース速報を受け取ると、ここに表示されます",
+    "breakingNewsisAvailable" :   "この最新ニュースは残念ながら利用できません。",
+   
+    "noCommentYetTitle": "ここにはまだ返信がありません...",
+    "noCommentsYetDes": "あなたの考えを最初に共有してください！",
+
+
+    "readLess" : "続きを読む",
+    "vote": "投票",
+    "undo" : "元に戻す",
+
+
+
+
+    "reportSelectProb" :  "問題を選択して続行してください",
+    "report1" : "非倫理的なコンテンツ",
+    "report2" : "ささいな内容",
+    "report3" : "宗教を害するコンテンツ",
+    "report4" : "セキュリティを害し、暴力を扇動するコンテンツ",
+    "sendButton" :  "送信",
+
+
+    "eventInterestedButton": "興味がある",
+    "eventNotInterestedButton": "興味ありません",
+
+
+
+    "Participants" : "参加者",
+    "career" : "キャリア",
+    "closeButton" : "閉じる",
+    "abstrack": "抽象",
+    "reference" : "参考文献",
+
+
+
+
+
+    "noVideoShow" : "表示する動画はありません",
+    "noLiveVideoShow" : "表示するライブビデオはありません",
+    "noPubmatching" : "致する出版物が見つかりません",
+    "noEventmatching" : "致するイベントが見つかりませんでした",
+    "noTelltruefound" :  "一致する Telltrue ユーザーが見つかりません",
+    "result" : "結果",
+    "seeAllpub" : "すべての出版物の結果を見る",
+    "seeAllEvent" : "すべてのイベント結果を見る",
+    "telltrueUser": "Telltrue ユーザー",
+    "famousPersonIdentified" : "識別された人",
+    "eventIdentified":"識別されたイベント",
+     "placeIdentified":"特定された場所",
+     "all" :  "全て",
+     "addBy" : "によって追加",
+
+
+     "seeAllpeople" : "すべての人の結果を見る",
+     "searchTelltrue" : "Telltrue を検索",
+     "searchFor" : "検索する",
+
+
+
+     "suggestionsForyou" : "あなたへの提案",
+     "todayTopWritting": "今日のトップライティング",
+ 
+     "notificationNoYetTitle": "通知はまだありません",
+     "notificationNoYetDes": "通知を受け取ると、ここに表示されます",
+
+
+     "inviteYouToReadAn": "読むように招待します",
+     "inviteYouToAnswer": "答えるためにあなたを招待します",
+     "inviteYouToWatch": "あなたを見て招待",
+     "inviteYouToSee": "ご覧ください",
+     "inviteYouToReadEvent": "彼はあなたをイベントに招待します",
+     "notificationSubscribe": "あなたをフォロー始めました。",
+     "and": "そして",
+     "other": "その他",
+     "commentedYour": "あなたの投稿にコメントしました",
+     "likedYour": "あなたの投稿に反応しました",
+     "answerYour": "あなたの世論調査に答えました",
+     "reportYour" :"あなたの投稿を報告する",
+
+
+
+     "deletePostDescription" :  "この出版物は偽物である可能性があります。\nしたがって、Telltrueから削除されます",
+     "notiDeletePost" : "残念ながら、私たちはあなたを削除します",
+     "fullNamerequired" : "パスポートまたは国民身分証明書に記載されている氏名を入力してください。",
+ 
+     "chooseFile" : "ファイルを選択してください",
+     "driver'sLicence" : "運転免許証",
+     "driverLicenceDes" : "運転免許証の写真またはスキャンをアップロードします。",
+     "driverLicenceFrontSideTitle" : "運転免許証の表側",
+     "driverLicenceFrontSideDes" : "運転免許証の表側をアップロードする",
+     "nationalId": "国民ID",
+     "nationalIdDes" : "写真をアップロードするか、ドキュメントをスキャンします",
+     "nationalIdFrontSideTitle" : "ドキュメントの表側",
+     "nationalIdFrontSideDes" : "ドキュメントの表側をアップロードします",
+ 
+     "nationalIdBackSideTitle" : "ドキュメントの裏側",
+     "nationalIdBackSideDes" : "ドキュメントの裏面をアップロードします",
+ 
+     "passport" : "パスポート",
+     "passportDes" : "パスポート写真ページの写真またはスキャンをアップロードします。",
+     "passportUploadDes" : "写真付きの詳細ページ",
+     "chooseOtherOption" : "別のIDドキュメントを選択してください",
+
+
+
+     "driverLicenceBackSideTitle" : "運転免許証の裏側",
+     "driverLicenceBackideDes" :"運転免許証の裏側をアップロードする",
+     "uploadAproofOfidendity" : "あなたの身元の証明をアップロードする",
+     "chooseCountryDes":  "お手持ちの身分証明書を発行した国をお選びください。",
+     "countryDropDowntitle" : "ID発行国",
+     "selectCountry" : "国を選択...",
+     "documentType" : "ドキュメントタイプ",
+     "selectDocType" : "ドキュメントタイプを選択します",
+
+
+
+
+     "firstAndlastName" : "完全な合法的な姓名",
+     "firstAndMiddleName" : "完全な合法的なファーストネームとミドルネーム",
+     "spellYourName" : "パスポートまたはIDカードに記載されているとおりに名前を入力してください。",
+     "fullLegalLastName": "完全な正式な姓",
+     "spellHomeTwon": "パスポートまたは国民身分証明書に記載されているホームトンを入力してください。",
+     "spellCurrentLocation" : "パスポートまたは国民身分証明書に記載されている現在地を入力してください。",
+     "passwordConditions" : "パスワードには文字と数字が含まれている必要があり、8文字以上である必要があります",
+     "birthDayCondition" : "パスポートまたは国民身分証明書に記載されている誕生日を入力してください。",
+     "phone" : "電話",
+     "phoneNumber" : "電話番号",
+     "theAccountAlready": "そのメールのアカウントはすでに存在します",
+     "welcomeToOurteam" : "私たちのチームへようこそ",
+
+
+     "snackBarNoUserFound": "No user found for that identifier",
+     "snackBarWrongPassword": "Wrong Password",
+    
+    "teltrueSayHey": "ねえ！",
+    "teltrueWelcomIntro": "\nジャーナリストがリーダーである唯一のプラットフォーム",
+    "formIdentifierLoginPage": "識別子",
+    "formPasswordLoginPage": "パスワード",
+    "onlyReaderOptionSignIn": "または（リーダーのみ）",
+    "forgotPasswordLoginPage": "パスワードをお忘れですか ？",
+    "askForSignUpLoginPage": "アカウントをお持ちではありませんか？",
+    "signUpFlatButtonLoginPage": "サインアップ",
+    "connectButtonLoginPage": "ログインする",
+    "appBarTitleResetPassword": "パスワードを再設定する",
+    "subtitleResetPassword": "ステップ1：アカウントを探す",
+    "descriptionResetPassword": "パスワードリセットコードを送信するには、登録済みのメールアドレスが必要です",
+    "hintTextResetPassword": "メールアドレスを正しく入力してください",
+    "sendRequestResetPassword": "リクエストを送信",
+    "subtitlePassCode": "ステップ2：検証コード",
+    "descriptionPassCode": "登録時に送信した確認コードを入力してください",
+    "hintTextPassCode": "コード",
+    "resendCodeFlatButtonPassCode": "コードを再送してください！",
+    "verifybuttonPassCode": "確認",
+    "subtitleCreateNewPassword": "ステップ3：新しいパスワードを作成する",
+    "descriptionCreateNewPassword": "新しいパスワードは、以前に使用したパスワードとは異なる必要があります",
+    "hintTextNewPassword": "新しいパスワード",
+    "hintTextConfirmNewPassword": "新しいパスワードを確認",
+    "resetPasswordCreatePassword": "パスワードを再設定する",
+
+    "yesItsMeButton" : "はい、私です",
+    "tryAgainButton" : "再試行",
+    "noAccountAttachedDes" : "申し訳ありませんが、このメールにはアカウントが添付されていません",
+    "taostConfirmThePassWord" : "パスワードを確認してください",
+    "toastInvalidCode": "無効なコード",
+
+
+
+
+
+    "subtitleSignUpMode": "あなたは誰 ？",
+    "descriptionSignUpMode": "あなたはジャーナリスト、シンプルな読者、またはメディア（新聞、ラジオ、テレビ...）として私たちに参加する準備ができています",
+    "iamReaderSignUpMode": "私は読者です",
+    "iamJournalistSignUpMode": "私はジャーナリストです",
+    "weareMediaSignUpMode": "私たちはメディアです",
+    "hintTextFullNameSignUpWithEmail": "識別子も同じ",
+    "fullNameTitleSignUpWithEmail": "フルネーム",
+    "emailTitleSignUpWithEmail": "公式メールアドレス",
+    "locationTitleSignUpWithEmail": "現在の場所",
+    "genderSignUpWithEmail": "性別",
+    "hintTextGetLocationSignUpWithEmail": "いなか町",
+    "hintTextIdentifierSignUpWithEmail": "電子メールアドレス",
+    "hintTextPasswordSignUpWithEmail": "パスワード",
+    "hintTextConfirmPasswordSignUpWithEmail": "パスワードを認証する",
+    "hintTextSelectMale": "男性",
+    "hintTextSelectFemale": "女性",
+    "nextButton": "次",
+    "snackBarInvalidFullName": "氏名を入力してください ！",
+    "snackBarInvalidEmail": "有効なメールアドレスを入力してください！",
+    "snackBarInvalidPassword": "パスワードは8文字である必要があります！",
+    "snackBarInvalidConfirmPassword": "あなたのパスワードを確認",
+    "snackBarInvalidLocation": "現在地を選択してください",
+    "appBarTitleJournalistSignUp": "ジャーナリスト情報",
+    "subtitleJournalistSignUpWorkSpace": "ワークスペース名",
+    "subtitleJournalistSignUpBirthday": "生年月日",
+    "subtitleJournalistSignUpUploadId": "写真付き身分証明書をアップロードする",
+    "hintTextChannelNameJournalistSignUp": "テレビまたはラジオまたは新聞...",
+    "since": "以来",
+    "hintTextYear": "年",
+    "hintTextDay": "日",
+    "hintTextMonth": "月",
+    "descriptionUploadPhotoId": "あなたの身元を確認するために、政府発行のIDのカラー写真をアップロードする必要があります。 IDには、名前、生年月日、写真を含める必要があります。 \n 受け入れ可能なIDには次のものが含まれます：\n-パスポート\n-国民IDカード\n-運転免許証\n IDの鮮明な写真を受け取って確認したら、サーバーから身分証明書を削除します",
+    "choosePhotoButton": "写真を選んでください",
+    "snackBarUploadImageId": "画像が正常にアップロードされました",
+    "snackBarInvalidBirthday": "有効な生年月日を入力してください！",
+    "snackBarSince": "有効な開始日を入力してください！",
+    "snackBarInvalidUpload": "身分証明書をアップロードする必要があります",
+    "appBarTitleJournalistKind": "ジャーナリストの種類",
+    "journalistReporter": "ジャーナリスト＆レポーター",
+    "journalistWriter": "ジャーナリスト＆ライター",
+    "journalistAnimator": "ジャーナリスト＆プレゼンター",
+    "photoJournalist": "フォトジャーナリスト",
+    "journalistEditor": "ジャーナリスト＆編集者",
+    "tvColumnist": "テレビコラムニスト",
+    "freelanceJournalist": "フリーランスの記者",
+    "investigativeJournalist": "調査ジャーナリスト",
+    "onlineJournalistBloger": "オンラインジャーナリストまたはブロガー",
+    "subtitleReviewPage": "成功 ！",
+    "descriptionP1ReviewPage": "ありがとうございます",
+    "descriptionP3ReviewPage": "、ジャーナリストアカウントのリクエストを受け取りました。現在、審査中です（24時間）。 IDは、本人確認後30日以内に安全に保管および削除されることに注意してください。",
+    "snackBarSelectOption": "オプションを選択する必要があります",
+    "doneButton": "完了",
+    "appBarTitleAddProfileImage": "プロフィール画像",
+    "subtitleWelcomePage": "あなたは私たちのアプリに正常に登録し、それに取り組み始めることができます",
+    "startButton": "開始",
+    "photoLibrary": "フォトライブラリ",
+    "photoCamera": "カメラ",
+    "appBarTitleSuggestion": "従うべき提案",
+    "descriptionSuggestion": "フォローするジャーナリストやメディアを見つけることから始めて、Teltrueエクスペリエンスをパーソナライズするのに役立つ、興味のあるトピックをいくつか選択してください。",
+    "subtitleSuggestion1": "のジャーナリスト",
+    "subtitleSuggestion2": "テレビとラジオ",
+    "subtitleSuggestion3": "新聞や雑誌",
+    "noJournalistYet": "あなたの国のジャーナリストはまだ登録していません",
+    "noTvRadioYet": "あなたの国のテレビやラジオはまだ登録されていません",
+    "noNewspaperMagazine": "あなたの国の新聞や雑誌はまだ登録されていません",
+
+    "addPostSearchPlaceHint": "場所を探す",
+    "addPostSearchEventHint": "現在のイベントタイトルを探す",
+    "addPostSearchPersonHint": "有名人の名前を探す",
+    "tagPerson": "有名人",
+    "tagEvent": "イベント",
+    "tagPlace": "場所",
+    "addPostBreakingNewsDesHint": "何が起こったのか教えてください ",
+    "snackBarTopic": "トピックを選択する必要があります",
+
+    "createPostCommentary" : "解説と展望",
+    "feel" : "感じられる",
+
+    "createPostQuestionDes": "「世論調査は、特定の問題または一連の問題に関する世論を科学的かつ偏りのない方法で評価するために設計された調査または調査に似ています。」",
+    "feelingHappy": "幸せだ",
+    "feelingCool":"かっこいい",
+    "feelingSurprised":"驚きを感じる" ,
+    "feelingShocked": "ショックを受ける",
+    "feelingNervous": "緊張する",
+    "feelingAngry": "怒りを感じる",
+    "feelingDrool": "よだれを感じる",
+    "feelingSweat": "悲鳴を上げる",
+    "feelingCrying": "泣きそう",
+    "feelingSad": "悲しく感じる",
+    "feelingDead": "死んだと感じる",
+    "feelingDubious":"疑わしいと感じる" ,
+    "feelingTired": "疲れる",
+    "feelingLoved":"愛されていると感じる",
+    "feelingPain": "痛みを感じる",
+    "feelingMuted": "落ち着いた感じ",
+    "feelingGreed":"貪欲を感じる",
+    "feelingSick":"体調が悪い",
+    
+
+    "pollTitle" : "投票",
+    "choiceOne" : "選択肢1",
+    "choiceTwo" : "選択肢2",
+    "choiceThree" :"選択肢3" ,
+    "pollLength" : "投票の長さ",
+    "days" : "日々",
+    "hours" :"時間",
+    "Minutes" :"分" ,
+
+    "addPostArticle": "研究論文",
+    "addPostArticleGeneralTitle": "一般的なタイトル",
+    "addPostArticleWrittersHintText": "作家",
+    "addPostArticleKeywords": "キーワード",
+    "addPostArticleCoresspondence": "対応",
+    "addPostArticleAbstract": "ここに要約を書く",
+
+    "addPostArticleFirstPartTitle" : "前編タイトル",
+    "addPostArticleSecondPartTitle" : "第二部タイトル",
+    "addPostArticleThirdPartTitle" : "第三部タイトル",
+    "addPostArticleFourthPartTitle" : "第4部のタイトル",
+
+    "addPostArticleFirstPartDes" : "最初の部分の説明",
+    "addPostArticleSecondPartDes" : "第二部の説明",
+    "addPostArticleThirdPartDes" : "第三部の説明",
+    "addPostArticleFourthPartDes" : "第4部の説明",
+    "addPostArticleConclusion" : "結論",
+
+    "addPostArticleIntro": "序章",
+    "unDoneDialogDiscardPost":   "投稿を破棄",
+    "unDoneDialogDiscardDes":   "これを元に戻すことはできず、ドラフトが失われます。",
+    "unDoneDialogDiscardButton":  "破棄",
+
+    "createHowToTitle"  :"方法？",
+    "createHowToSuplliesHintText" : "用品",
+    "createHowToThinkInStep" : "段階的に考える",
+    "createHowToStepTitleHintText" : "ステップタイトル（オプション）",
+    "createHowToStepDetailsHintText" :  "ステップの詳細",
+    "createHowToShowResult" : "表示結果",
+    "createHowToAddStepButton" :  "ステップを追加",
+
+    
+    "snackBarSupplies" : "あなたはいくつかの物資を書き留める必要があります",
+    "snackBarSteps" : "あなたはいくつかのステップを書き留める必要があります",
+    "snackBarBiography" : "についていくつかの言葉を書き留めてください",
+
+    "createProfiletitle" : "性格プロファイル",
+    "createProfileAgeHintText" : "年",
+    "createProfileHomeTwonHintText": "出身地",
+    "createProfilecurrentCityHintText" : "現代都市",
+    "createProfileCvHintText" : "履歴書",
+
+    "createAnalysisAddpart": "段落を追加",
+    "createAnalysisTitle": "分析とレビュー",
+    "createAnalysisPartTitle": "段落タイトル",
+    "createAnalysisPartDetails": "段落の詳細",
+
+    "feelingButton": "気持ち",
+    "topicButton": "トピック",
+    "uploadButton": "アップロード",
+
+    "snackBarEmptyTitle" : "タイトルを入力してください",
+    "snackBarEmptyDes" : "説明ボックスに単語を入力してください",
+    "snackBarEmptyParagraph" : "少なくとも1つの段落を入力してください",
+
+    "broadcastingHintTextDes" : "放送の説明",
+    "inPictureHintTextDes" : "画像の説明",
+
+    "createStoryTitle" : "物語",
+    "createStorytitleHintText" : "ストーリータイトル（オプション）",
+    "createStoryDesHintText" : "ここにあなたの物語を書いてください",
+
+    "createPostBreakingNewsDes": "今日の最新ニュース",
+    "createPostLastestNewsTitle" : "最新ニュース",
+    "createPostLastestNewsDes" : "トップストーリー、天気、ビジネス、エンターテインメント、政治などに関する最新のニュースや情報を見つけましょう。",
+    "createPostCommentaryDes" : "コメンタリーは通常、1,000〜1,500語で構成される短い記事であり、すでに発行されている本、レポート、または記事に注目したり、批評したりします。",
+    "createPostEssay" : "エッセイ",
+    "createPostEssayDes" : "ほとんどのエッセイは、個人的な経験や意見についての短編から中編の作品です。通常、エッセイは1つの主題を中心に展開し、あなたの意見を提示します。",
+    "createPostHowToDes" : "これらの規範的な部分には、読者が特定のことを行うのに役立つ手順、方法、またはヒントが含まれています。それらは、問題または質問への回答の（解決策）を提供します",
+    "createPostProfileDes" : "このタイプの記事は、（あなたではなく）人の人生と業績を中心に展開します。インタビューに基づいて、あなたは彼女の人生の詳細な観察を提供します...",
+    "createPostAnalysisDes" : "総説は、分析、比較、および要約を通じて達成された、既存の文献の建設的かつ批判的な分析を提示します。彼らは特定の問題やギャップを特定することができ、将来の研究のための推奨事項を提供することさえできます。", 
+    "createPostStoryDes" : "物語、ニュース、歴史、伝説、サイエンスフィクション、短編小説、悲劇、コメディ",
+    "createPostSponsored" : "後援",
+    "createPostSponsoredDes" : "スポンサー付きコンテンツの記事は、本質的に、一種の広告です。それらは通常の社説のように見え、読みますが、特定の広告主によって支払われます。"
+    ,"createPostArticleDes": "研究記事は、元の研究を報告する非常に詳細な研究です。 一次文献と見なされ、元の研究記事には、背景研究、方法、仮説、結果、および調査結果の解釈が含まれます",
+
+
+    "createPostBreakingNewsTitle": "ニュース速報",
+    "createPostBroadcastTitle": "放送",
+    "createPostInpicTitle": "写真で",
+    "createPostInvestigationTitle": "調査",
+   
+
+    "addPostBreakingNewsTitleHint": "ニュース速報",
+   
+
+    "createPostBroadCastDes": "ジャーナリズムのインタビュー、ルポルタージュ、またはイベントに関するライブストリーミングを簡単な説明とともに共有する",
+    "createPostInPicDes": "絵話をしよう！",
+    "createPostInvestigationDes": "犯罪や実際の現象、災害についての調査を、真の証拠や目撃者と共有してください",
+    "createPostEvent": "文化イベントや仕事のイベントを計画する",
+
+    "tagTypeToSearch" : "検索するタイプ",
+    "tagNoTagSearchFound" : "タグなしの検索が見つかりました",
+
+    "tagSearchNumberOf" : "Teltrue 人々はこれについて投稿します",
+    "useButton" :"これを使って",
+    "addPostOpinionHint" : "どう思いますか",
+    "addPostEssayDesHintText" : "意見や個人的な経験を説明してください",
+    "askQuestionTitleHint": "何かを求めます",
+
+    "addEventTitle" : "イベントを開催する",
+    "addEventTitleHint": "イベントタイトル",
+    "addEventPlaceLabel": "イベント会場",
+    "addEventPlaceHint": "ホテル、コンベンションホール、住所、オンラインイベント",
+    "addEventSpeakerLabel": "プレゼンター",
+    "addEventSpeakerHint": "スピーカーのフルネーム",
+    "addEventDateLabel": "日にち",
+    "addEventMonthHint": "月",
+    "addEventDayHint": "日",
+    "addStartEventTime": "始まる時間",
+    "addEndEventTime": "終了時間",
+    "addEventPoster": "イベントポスター",
+    "addEventAboutHint": "イベントについて..."  ,
+
+
+    "noContentAvailable" : "利用可能なコンテンツはありません",
+    "noOtherPublication" : "表示する他の出版物はありません",
+
+
+    "trueKey" : "真",
+    "falseKey" : "偽",
+    "report" : "報告" ,
+    "dislike" : "嫌い", 
+    "fiveMostRead" :  "最も読まれた5つ",
+    "fiveMostViews" : "最も多い5つのビュー",
+    "deletedPost" : "パブリケーションを削除しました",
+    "noPostDeletedYet" : "パブリケーションはまだ削除されていません",
+
+
+    "interestAll" : "全て",
+    "interestWorld" : "世界",
+    "interestBusiness" : "ビジネスと金融",
+    "interestLifestyle" : "ライフスタイル",
+    "interestTechnology" : "テクノロジー",
+    "interestSport" : "スポーツ",
+    "interestHealth" : "健康と医学",
+    "interestScience" : "化学",
+    "interestEntertainment" : "エンターテイメント",
+    "interestAgriculture" : "農業",
+    "interestMechanical" : "力学",
+    "interestOther" : "他の",
+
+    "filter" : "フィルター" , 
+    "watch" : "ウォッチ",
+    "trending" : "トレンド",
+    "home" : "ホーム",
+    "write" : "書きます",
+    "readLater" : "後で読む",
+    "watchLater" : "後で見る",
+    "dashbord" : "ダッシュボード",
+    "payment" : "支払い",
+
+    "read": "読んだ",
+    "biography" : "バイオグラフィー",
+    "readMore" : "続きを読む",
+
+    "profileExperienceSnackBarCompanyName": "会社名を入力してください",
+    "profileExperienceSnackBarJobTitle":  "役職を入力してください",
+    "profileExperienceSnackBarInvalidPeriode":  "無効な期間",
+    "addButton" : "に追加"
+
+    ,"profileInterest" : "興味"
+
+}

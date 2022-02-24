@@ -1,0 +1,590 @@
+{
+    "confirmButton": "Continuar",
+    "profileUnfolowButton": "Cancelar inscrição",
+    "cancelButton": "Cancelar",
+   
+  
+
+    "profileAbout": "Cerca de",
+    "profileFollowing": "Subscrições",
+    "profileFollowers": "Subscritores",
+   
+
+    "profileSkills": "Formação Educacional",
+    "profileSkillsEstablishment": "Estabelecimento",
+    "profileSkillsEstablishmentHint": "Universidade ou instituto",
+    "profileSkillsDiploma": "Diploma",
+    "profileSkillsDiplomaHint": "Certificado ou Diploma",
+    "deleteAsk": "Você quer continuar ?",
+    
+    "profileExperience": "Experiências",
+    "profileExperienceCompany": "A empresa",
+    "profileExperienceCompanyHint": "Estação de TV, rádio, jornal",
+    "profileExperienceJobTitle": "Titulo do trabalho",
+    "profileExperienceJobTitleHint": "Jornalista, editor, repórter",
+    "profileExperiencePeriode": "Período",
+    "profileExperiencePeriodeYear": "Ano",
+    
+
+    "profileContacts": "Contatos",
+    
+    
+    
+    
+    "requiredFiled" : "campo requerido",
+    "descriptionPoll" : "Sobre a enquete",
+
+    "articleReference" : "Referências de artigos",
+    "snackBarAddParagph" : "Adicione pelo menos um parágrafo",
+   
+
+    "createProfileNationality" : "Nacionalidade",
+    "createProfileChildren" : "Crianças",
+    "createProfileRelation" :"Status de relacionamento",
+    "createProfileEducation" :"Educação",
+    "createProfileOccupation" :"Ocupação",
+
+    "snackBarAddSteps" : "Adicione pelo menos uma etapa",
+    
+    
+    
+    
+     
+    "like": "Curtidas",
+    "postViewWrittenBy": "Escrito por",
+    "postViewUpdate": "Atualizar",
+    "pictureBy": "Foto de",
+    "videoBy": "Vídeo por",
+    "views": "Visualizações",
+    
+    
+    
+    "pictureDetailsAddComment": "Digite sua resposta",
+    "commentModifer": "Modificar",
+    "commentDelete": "Excluir",
+    "commentReply": "Respostas",
+    "inviteButton" : "Convidar",
+    "iLikeButton" : "eu gosto",
+    "fullScreen" : "Tela cheia",
+
+
+    
+    
+    
+    "saveButton": "Poupar",
+    "message": "Mensagens",
+    "notificationTitle": "Notificações",
+    "account" : "Conta",
+    
+    
+    "contactUs" : "Contato",
+    "aboutUs" : "Cerca de",
+    "privacyPolicy": "Política de Privacidade",
+    "cookiePolicy": "Biscoito",
+    "copyrightPolicy": "Política de Copyright",
+    "terms": "Termos",
+    "help" : "Ajuda",
+    
+    "accountMenuProfileSetting": "Configuração e privacidade",
+    "accountMenuLogOut": "Deslogar",
+    "seeYourProfile" : "Veja o seu perfil",
+    "helpAndSupport" : "Ajuda e Suporte",
+    "accountEmail" : "Email da conta",
+    "changePassword" : "Mudar senha",
+    "location": "A localização",
+    "language" : "O idioma",
+    "newEmail" : "Novo Email",
+    "currentPassword" : "Senha atual",
+    
+    "newEmailDescription" :  "Adicionar um e-mail atual à sua conta Telltrue pode ajudá-lo a fazer login e receber notificações, bem como redefinir sua senha facilmente.",
+    "currentPassIsWrong" : "A senha atual está errada",
+    "passWordCondition" : "A senha deve conter pelo menos 8 caracteres",
+
+
+
+
+    "messageSorryCannotSend" : "Desculpe, você não pode enviar uma mensagem para esta conta",
+    "blockButton": "Bloquear",
+    "suggestionChatUnBlock": "Desbloquear",
+    "suggestionChatTypeMsg": "Digite sua mensagem",
+    "suggestionChatDeleteConversation": "Excluir bate-papo",
+    "suggestionChatBlockMsgRequest": "Bloquear mensagens e chamadas?",
+    "suggestionChatBlocktitle2": "Conta Telltrue",
+    "suggestionChatBlockDescrip": "Você não pode enviar mensagens ou ligar para eles neste bate-papo e não receberá suas mensagens ou chamadas.",
+    "suggestionChatBlocktitle1": "Você bloqueou mensagens e chamadas de",
+    "suggestionChatBlockMsgDescrip1": "Sua conta Telltrue não receberá mensagens ou chamadas de",
+    "suggestionChatBlockMsgDescrip2": "conta Telltrue de \n A conversa permanecerá nos Bate-papos, a menos que você a oculte.",
+    "suggestionChatDeleteConversationDescrip": "Depois de excluir sua cópia desta conversa, ela não poderá ser desfeita.",
+
+
+
+
+    "messageNoMessageYet": "Você ainda não conversou",
+    "messageStartMessage": "Inicie uma nova conversa",
+
+
+
+
+    "copyRight" : "©2021 Telltrue Company. Todos os direitos reservados.",
+    "addprofileImageDes" :   "Sua foto de perfil ajuda sua equipe a saber quem você é no Telltrue. E se sua foto estiver nítida, será mais fácil alguém identificá-lo no meio da multidão ou em uma reunião!",
+    "personalPicture" : "Fotos pessoais",
+    "postPicture" : "Postar fotos",
+    "noPictureToshow" : "Sem imagens para mostrar",
+    "pictureSetAsProfilePic": "Definir como imagem de perfil",
+    "pictureDelete": "Exclua esta foto",
+    "pictureDeleteRequest": "Tem certeza que deseja excluir esta foto?",
+
+
+
+
+    "profilePicAndVid": "Fotos",
+    "profilePicturesOfYou": "Fotos de voce",
+    "profileVideo": "Vídeos",
+    "yourVideos": "Seus vídeos",
+    "liveVideos": "Vídeos ao vivo",
+
+
+
+    "readers" : "As leituras",
+    "nobreakingNewsyet" : "Ainda não há notícias de última hora",
+    "noBreakingNewsDes" :  "Quando você receber as últimas notícias, elas aparecerão aqui",
+    "breakingNewsisAvailable" :   "Esta notícia de última hora infelizmente não está disponível.",
+   
+    "noCommentYetTitle": "Nenhuma resposta aqui ainda ...",
+    "noCommentsYetDes": "Seja o primeiro a compartilhar o que você pensa!",
+
+    "readLess" : "Leia menos",
+    "vote": "voto",
+    "undo" : "desfazer",
+
+
+
+
+
+    "reportSelectProb" :  "Selecione um problema para continuar",
+    "report1" : "Conteúdo antiético",
+    "report2" : "Conteúdo trivial",
+    "report3" : "Conteúdo que prejudica a religião",
+    "report4" : "Conteúdo que prejudica a segurança e incita à violência",
+    "sendButton" :  "Mandar",
+
+
+   
+    "eventInterestedButton": "Interessado",
+    "eventNotInterestedButton": "Não interessado",
+
+    "Participants" : "Participantes",
+    "career" : "Carreira",
+    "closeButton" : "Perto",
+    "abstrack": "Resumo",
+    "reference" : "Referências",
+
+
+    "noVideoShow" : "Não há vídeos para exibir",
+    "noLiveVideoShow" : "Não há vídeo ao vivo para exibir",
+    "noPubmatching" : "Nenhuma publicação correspondente encontrada",
+    "noEventmatching" : "Nenhum evento correspondente foi encontrado",
+    "noTelltruefound" :  "Nenhum usuário Telltrue correspondente encontrado",
+    "result" : "resultado",
+    "seeAllpub" : "Veja o resultado de todas as publicações",
+    "seeAllEvent" : "Veja o resultado de todos os eventos",
+    "telltrueUser": "Telltrue usuários",
+    "famousPersonIdentified" : "Pessoa identificada",
+    "eventIdentified":"Evento identificado",
+     "placeIdentified":"Lugar identificado",
+     "all" :  "Todo",
+     "addBy" : "Adicionado por",
+
+
+     "seeAllpeople" : "Veja o resultado de todas as pessoas",
+     "searchTelltrue" : "Pesquisa Telltrue",
+     "searchFor" : "Procurar por",
+
+     "suggestionsForyou" : "Sugestões para você",
+     "todayTopWritting": "Os melhores textos de hoje",
+ 
+     "notificationNoYetTitle": "Ainda sem notificações",
+     "notificationNoYetDes": "Quando você receber notificações, elas aparecerão aqui",
+     "inviteYouToReadAn": "convidar você para ler",
+     "inviteYouToAnswer": "convido você para responder",
+     "inviteYouToWatch": "convidar você para assistir",
+     "inviteYouToSee": "convidar você para ver",
+     "inviteYouToReadEvent": "ele te convidou para ver um evento",
+     "notificationSubscribe": "começou a seguir você.",
+     "and": "e",
+     "other": "outros",
+     "commentedYour": "comentou sua postagem",
+     "likedYour": "reagiu à sua postagem",
+     "answerYour": "respondeu a sua enquete",
+     "reportYour" :"relatar sua postagem",
+
+
+     "deletePostDescription" :  "Esta publicação pode ser falsa. \n Então, ela será excluída do Telltrue",
+     "notiDeletePost" : "Infelizmente, iremos deletar seu",
+     "fullNamerequired" : "Digite seu nome completo conforme está escrito em seu passaporte ou carteira de identidade nacional.",
+ 
+     "chooseFile" : "Escolha um arquivo",
+     "driver'sLicence" : "Carteira de motorista",
+     "driverLicenceDes" : "Faça upload de uma foto ou digitalização de sua carteira de motorista.",
+     "driverLicenceFrontSideTitle" : "Parte da frente da sua carteira de motorista",
+     "driverLicenceFrontSideDes" : "Faça upload da frente da sua carteira de motorista",
+     "nationalId": "identidade nacional",
+     "nationalIdDes" : "Faça upload de uma foto ou digitalização de seu documento.",
+     "nationalIdFrontSideTitle" : "Frente do seu documento",
+     "nationalIdFrontSideDes" : "Carregue a frente do seu documento",
+ 
+     "nationalIdBackSideTitle" : "Verso do seu documento",
+     "nationalIdBackSideDes" : "Carregue o verso do seu documento",
+ 
+     "passport" : "Passaporte",
+     "passportDes" : "Faça upload de uma foto ou digitalize a página de fotos do seu passaporte.",
+     "passportUploadDes" : "Página de detalhes com a foto",
+     "chooseOtherOption" : "Escolha um documento de identidade diferente",
+
+
+
+
+
+    "driverLicenceBackSideTitle" : "Verso da carteira de motorista",
+    "driverLicenceBackideDes" :"Carregue o verso da sua carteira de motorista",
+    "uploadAproofOfidendity" : "Faça upload de uma prova de sua identidade",
+    "chooseCountryDes":  "Escolha o país que emitiu o documento de identidade que você tem em mãos.",
+    "countryDropDowntitle" : "País emissor da identidade",
+    "selectCountry" : "Selecione o pais...",
+    "documentType" : "Tipo de documento",
+    "selectDocType" : "Selecione um tipo de documento",
+
+
+
+    "firstAndlastName" : "Nome e sobrenome legais completos",
+    "firstAndMiddleName" : "Nomes do meio e nomes legais completos",
+    "spellYourName" : "Soletre seu nome exatamente como está mostrado em seu passaporte ou carteira de identidade.",
+    "fullLegalLastName": "Sobrenome (s) legal (is) completo (s)",
+    "spellHomeTwon": "Digite sua hometwon como está escrito em seu passaporte ou carteira de identidade nacional.",
+    "spellCurrentLocation" : "Digite sua localização atual, conforme está escrito em seu passaporte ou carteira de identidade nacional.",
+    "passwordConditions" : "A senha deve conter uma letra e um número e ter no mínimo 8 caracteres",
+    "birthDayCondition" : "Digite sua data de nascimento conforme está escrita em seu passaporte ou carteira de identidade nacional.",
+    "phone" : "Telefone",
+    "phoneNumber" : "Número de telefone",
+    "theAccountAlready": "A conta já existe para esse e-mail",
+    "welcomeToOurteam" : "Bem vindo a nossa equipe",
+
+    "snackBarNoUserFound": "No user found for that identifier",
+    "snackBarWrongPassword": "Wrong Password",
+
+    
+    "teltrueSayHey" : "Ei!",
+    "teltrueWelcomIntro":"\nA única plataforma onde o jornalista é o líder",
+    "formIdentifierLoginPage" : "Identificador",
+    "formPasswordLoginPage" : "Senha",
+    "onlyReaderOptionSignIn" : "Ou (apenas leitor)",
+    "forgotPasswordLoginPage" : "Esqueceu a senha ?",
+    "askForSignUpLoginPage" : "Não tem conta?",
+    "signUpFlatButtonLoginPage" : "Inscrever-se",
+    "connectButtonLoginPage" : "Conecte-se",
+    "appBarTitleResetPassword" : "Redefinir senha",
+    "subtitleResetPassword" : "Etapa 1: Encontre sua conta",
+    "descriptionResetPassword" : "Precisamos apenas do seu e-mail cadastrado para enviar o código de redefinição de senha",
+    "hintTextResetPassword" : "Digite seu e-mail corretamente",
+    "sendRequestResetPassword" : "Enviar pedido",
+
+    "subtitlePassCode" : "Etapa 2: Código de Verificação",
+    "descriptionPassCode" : "Digite o código de verificação que acabamos de enviar para sua conta cadastrada",
+    "hintTextPassCode" : "Código",
+    "resendCodeFlatButtonPassCode" : "Reenviar código !",
+    "verifybuttonPassCode" : "Verificar",
+    "subtitleCreateNewPassword" : "Etapa 3: Criar uma nova senha",
+    "descriptionCreateNewPassword" : "sua nova senha deve ser diferente da senha usada anteriormente",
+    "hintTextNewPassword" : "Nova senha",
+    "hintTextConfirmNewPassword" : "Confirme a nova senha",
+    "resetPasswordCreatePassword" : "Redefinir senha",
+
+    "yesItsMeButton" : "Sim, sou eu",
+    "tryAgainButton" : "Tente novamente",
+    "noAccountAttachedDes" : "Desculpe, nenhuma conta está anexada a este e-mail",
+    "taostConfirmThePassWord" : "Por favor confirme a senha",
+    "toastInvalidCode": "Código inválido",
+
+
+  
+    "subtitleSignUpMode" : "Quem é Você ?",
+    "descriptionSignUpMode" : "você está pronto para se juntar a nós como jornalista, leitor simples ou mídia (jornais, rádio, TV ...)",
+    "iamReaderSignUpMode" : "Sou leitor",
+    "iamJournalistSignUpMode" : "Sou jornalista",
+    "weareMediaSignUpMode" : "Nós somos mídia",
+
+ 
+    "hintTextFullNameSignUpWithEmail": "O mesmo no identificador",
+    "fullNameTitleSignUpWithEmail": "Full Name",
+    "emailTitleSignUpWithEmail": "O endereço de e-mail oficial",
+    "locationTitleSignUpWithEmail": "A localização atual",
+    "genderSignUpWithEmail": "Gênero",
+    "hintTextGetLocationSignUpWithEmail": "país, cidade",
+    
+    "hintTextIdentifierSignUpWithEmail" : "Endereço de e-mail",
+    "hintTextPasswordSignUpWithEmail" : "Senha",
+    "hintTextConfirmPasswordSignUpWithEmail" : "Confirme a Senha",
+   
+    "hintTextSelectMale" : "Masculino",
+    "hintTextSelectFemale" : "Fêmea",
+    "nextButton": "próxima",
+    "snackBarInvalidFullName" : "Escreva seu nome completo !",
+    "snackBarInvalidEmail" : "Insira um endereço de e-mail válido!",
+    "snackBarInvalidPassword" : "A senha deve ter 8 caracteres!",
+    "snackBarInvalidConfirmPassword" : "Confirme sua senha",
+    "snackBarInvalidLocation" : "Selecione sua localização atual",
+
+    
+
+   
+    "subtitleJournalistSignUpWorkSpace" : "Nome do espaço de trabalho",
+    "subtitleJournalistSignUpBirthday" : "Data de nascimento",
+    "subtitleJournalistSignUpUploadId" : "Carregue o seu ID com foto",
+    "hintTextChannelNameJournalistSignUp" : "Tv ou rádio ou jornal ...",
+
+    "hintTextYear" : "Ano",
+    "hintTextDay" : "Dia",
+    "hintTextMonth" : "Mês",
+    "descriptionUploadPhotoId" : "Para ter certeza de sua identidade, precisamos que você carregue uma foto colorida de sua identidade emitida pelo governo. Sua identificação deve incluir seu nome, dia de nascimento e foto. \n IDs aceitáveis incluem: \n- Passaporte \n- Cartão de identidade nacional \n- carteira de habilitação \n Assim que recebermos e revisarmos uma foto nítida de sua identidade, excluiremos seu documento de identificação de nosso servidor",
+    "choosePhotoButton" : "Escolher Foto",
+    "snackBarUploadImageId" : "imagem carregada com sucesso",
+    "snackBarInvalidBirthday" : "Insira o dia de nascimento válido!",
+    "snackBarSince" : "Insira um dia de início válido!",
+    "snackBarInvalidUpload" : "Você deve enviar sua foto de identidade",
+    
+
+
+    "journalistReporter" : "Jornalista e repórter",
+    "journalistWriter" : "Jornalista e escritor",
+    "journalistAnimator" : "Jornalista e Apresentador",
+    "photoJournalist" : "Fotojornalista",
+    "journalistEditor" : "Jornalista e Editor",
+    "tvColumnist" : "Colunista de tv",
+    "freelanceJournalist" : "Jornalista freelancer",
+    "investigativeJournalist" : "Jornalista Investigativo",
+    "onlineJournalistBloger" : "Blogueiro & jornalista online ",
+    "subtitleReviewPage" : "Sucesso!",
+    "descriptionP1ReviewPage" : "Obrigado",
+    "descriptionP3ReviewPage" : ", Recebemos sua solicitação de conta de jornalista e estamos analisando-a (24 horas). Lembre-se de que sua identidade será armazenada com segurança e excluída em 30 dias após a confirmação de sua identidade",
+    "snackBarSelectOption" : "Você deve escolher a opção",
+
+
+    "doneButton" : "Feito",
+    "appBarTitleAddProfileImage" : "Imagem de perfil",
+    "subtitleWelcomePage" : "Você se registrou com sucesso em nosso aplicativo e pode começar a trabalhar nele",
+    "startButton" : "Começar",
+    "photoLibrary" : "Biblioteca de fotos",
+    "photoCamera" : "Câmera",
+
+    "appBarTitleSuggestion" : "Sugestão a seguir",
+    "descriptionSuggestion" : "Selecione alguns tópicos de seu interesse para ajudar a personalizar sua experiência com a Teltrue, começando por encontrar um jornalista ou mídia para seguir.",
+    "subtitleSuggestion1" : "Jornalistas de",
+    "subtitleSuggestion2" : "Televisão e rádio" ,
+    "subtitleSuggestion3" : "Jornais e Revistas",
+    "noJournalistYet" : "Nenhum jornalista do seu país se cadastrou ainda",
+    "noTvRadioYet" : "Nenhuma TV ou rádio de seu país foi registrada ainda",
+    "noNewspaperMagazine" : "Nenhum jornal ou revista de seu país foi registrado ainda",
+
+    "addPostSearchPlaceHint": "Encontre o lugar",
+    "addPostSearchEventHint": "Encontre o título do evento atual",
+    "addPostSearchPersonHint": "Encontre o nome da pessoa famosa",
+    "tagPerson": "Pessoa famosa",
+    "tagEvent": "Evento",
+    "tagPlace": "Lugar",
+    "addPostBreakingNewsDesHint": "Conte-nos o que aconteceu ",
+    "snackBarTopic": "Você deve selecionar o tópico",
+
+
+    "createPostCommentary" : "Comentário e perspectivas",
+    "feel" : "sentir",
+
+    "createPostQuestionDes": "As pesquisas de opinião são semelhantes a pesquisas ou pesquisas destinadas a avaliar a opinião pública sobre um assunto específico ou uma série de questões de maneira científica e imparcial.",
+    "feelingHappy": "sentindo feliz",
+    "feelingCool": "parece legal",
+    "feelingSurprised": "se sente surpreso",
+    "feelingShocked": "se sente chocado",
+    "feelingNervous": "se sente nervoso",
+    "feelingAngry": "sente raiva",
+    "feelingDrool": "sente babar",
+    "feelingSweat": "parece gritando",
+    "feelingCrying": "sente-se chorando",
+    "feelingSad": "se sente triste",
+    "feelingDead": "parece morto",
+    "feelingDubious": "parece duvidoso",
+    "feelingTired": "sente-se cansado",
+    "feelingLoved": "se sente amado",
+    "feelingPain": "sente dor",
+    "feelingMuted": "parece mudo",
+    "feelingGreed": "sente ganância",
+    "feelingSick": "se sente doente",
+    
+
+    "pollTitle" : "Votação",
+    "choiceOne" : "Escolha Um",
+    "choiceTwo" : "Escolha Dois",
+    "choiceThree" : "Escolha Três",
+    "pollLength" : "Comprimento da enquete",
+    "days" : "dias",
+    "hours" : "Horas",
+    "Minutes" : "Minutos",
+
+    "addPostArticle": "Artigo de Pesquisa",
+    "addPostArticleGeneralTitle": "Título geral",
+    "addPostArticleWrittersHintText": "Escritoras",
+    "addPostArticleKeywords": "Palavras-chave",
+    "addPostArticleCoresspondence": "Correspondência",
+    "addPostArticleAbstract": "Escreva o resumo aqui",
+
+    "addPostArticleFirstPartTitle" : "Título da primeira parte",
+    "addPostArticleSecondPartTitle" : "Título da segunda parte",
+    "addPostArticleThirdPartTitle" : "Título da terceira parte",
+    "addPostArticleFourthPartTitle" : "Título da quarta parte",
+
+    "addPostArticleFirstPartDes" : "Descrição da primeira parte",
+    "addPostArticleSecondPartDes" : "Descrição da segunda parte",
+    "addPostArticleThirdPartDes" : "Descrição da terceira parte",
+    "addPostArticleFourthPartDes" : "Descrição da quarta parte",
+    "addPostArticleConclusion" : "Conclusão",
+
+    "addPostArticleIntro": "Introdução",
+    "unDoneDialogDiscardPost":   "Descartar postagem",
+    "unDoneDialogDiscardDes":   "Isso não pode ser desfeito e você perderá seu rascunho.",
+    "unDoneDialogDiscardButton":  "Descartar",
+
+    "createHowToTitle"  :"Como fazer?",
+    "createHowToSuplliesHintText" : "Os suprimentos",
+    "createHowToThinkInStep" : "Pense em etapas",
+    "createHowToStepTitleHintText" : "Título da etapa (opcional)",
+    "createHowToStepDetailsHintText" :  "Detalhes da etapa",
+    "createHowToShowResult" : "Resultado de exibição",
+    "createHowToAddStepButton" :  "Adicionar passo",
+
+    "snackBarSupplies" : "Você precisa anotar alguns suprimentos",
+    "snackBarSteps" : "você precisa anotar alguns passos",
+    "snackBarBiography" : "Por favor, escreva algumas palavras sobre",
+
+    "createProfiletitle" : "Perfil de Personalidade",
+    "createProfileAgeHintText" : "Idade",
+    "createProfileHomeTwonHintText": "Cidade natal",
+    "createProfilecurrentCityHintText" : "Cidade Atual",
+    "createProfileCvHintText" : "Curriculum vitae",
+
+    "createAnalysisAddpart": "Adicionar parágrafo",
+    "createAnalysisTitle": "Análise e revisão",
+    "createAnalysisPartTitle": "Título do parágrafo",
+    "createAnalysisPartDetails": "Detalhes do parágrafo",
+
+    "feelingButton": "Sentimentos",
+    "topicButton": "Tema",
+    "uploadButton": "Envio",
+
+    "snackBarEmptyTitle" : "Por favor digite um título",
+    "snackBarEmptyDes" : "Por favor digite algumas palavras na caixa de descrição",
+    "snackBarEmptyParagraph" : "Por favor, insira pelo menos um parágrafo",
+
+    "broadcastingHintTextDes" : "Descrição da transmissão",
+    "inPictureHintTextDes" : "Descrição da imagem",
+
+    "createStoryTitle" : "História",
+    "createStorytitleHintText" : "Título da história (opcional)",
+    "createStoryDesHintText" : "Escreva sua história aqui",
+
+    "createPostBreakingNewsDes": "Notícias de última hora para hoje",
+    "createPostLastestNewsTitle" : "Últimas notícias",
+    "createPostLastestNewsDes" : "Encontre as últimas notícias e informações sobre as principais notícias, clima, negócios, entretenimento, política e muito mais.",
+    "createPostCommentaryDes" : "Os comentários são geralmente artigos curtos que consistem de 1.000 a 1.500 palavras e chamam a atenção ou fazem uma crítica a um livro, relatório ou artigo que já foi publicado.",
+    "createPostEssay" : "Ensaio",
+    "createPostEssayDes" : "A maioria dos ensaios são artigos curtos a médios sobre uma experiência pessoal ou uma opinião. Normalmente, um ensaio gira em torno de um assunto e apresenta seus pontos de vista.",
+    "createPostHowToDes" : "Essas peças prescritivas contêm etapas, maneiras ou dicas que ajudam o leitor a fazer algo específico. Eles fornecem a (solução) para um problema ou a resposta a uma pergunta",
+    "createPostProfileDes" : "Este tipo de artigo gira em torno da vida de uma pessoa (não a sua) e realizações. Com base em uma entrevista, você fornece uma visão aprofundada da vida dela ...",
+    "createPostAnalysisDes" : "Os artigos de revisão apresentam uma análise construtiva e crítica da literatura existente, realizada por meio de análise, comparação e resumo. Eles podem identificar problemas ou lacunas específicos e podem até fornecer recomendações para pesquisas no futuro.", 
+    "createPostStoryDes" : "Conto, Notícias, História, Lenda, Ficção científica, Conto, Tragédia, Comédia",
+    "createPostSponsored" : "Patrocinadas",
+    "createPostSponsoredDes" : "Os artigos de conteúdo patrocinado são, em essência, um tipo de publicidade. Eles parecem e leem editoriais regulares, mas são pagos por um anunciante específico."
+    ,"createPostArticleDes": "artigos de pesquisa são estudos muito detalhados que relatam a pesquisa original. Considerada literatura primária, os artigos de pesquisa originais incluem o estudo de fundo, métodos, hipóteses, resultados e a interpretação dos achados",
+
+
+    "createPostBreakingNewsTitle": "Últimas notícias",
+    "createPostBroadcastTitle": "Transmissão",
+    "createPostInpicTitle": "Na foto",
+    "createPostInvestigationTitle": "Investigação",
+
+
+    "addPostBreakingNewsTitleHint": "Título da notícia de última hora",
+   
+
+    "createPostBroadCastDes": "Compartilhe uma entrevista de jornalismo, reportagem ou transmissão ao vivo sobre um evento com uma breve descrição",
+    "createPostInPicDes": "Faça a imagem falar!",
+    "createPostInvestigationDes": "Compartilhe sua investigação sobre crime ou sobre o fenômeno real ou sobre desastre com provas verdadeiras ou testemunhos",
+    "createPostEvent": "Planejando um evento cultural ou evento de trabalho",
+
+    "tagTypeToSearch" : "Escreva para pesquisar",
+    "tagNoTagSearchFound" : "Pesquisa sem tag encontrada",
+
+    "tagSearchNumberOf" : "Teltrue pessoas postam sobre isso",
+    "useButton" :"Usa isto",
+    "addPostOpinionHint" : "O que você acha",
+    "addPostEssayDesHintText" : "Descreva uma opinião ou experiência pessoal",
+    "askQuestionTitleHint": "Pergunta algo",
+
+    "addEventTitle" : "Organize um evento",
+    "addEventTitleHint": "Título do evento",
+    "addEventPlaceLabel": "Local do Evento",
+    "addEventPlaceHint": "Hotel, salão de convenções, endereço, evento online",
+    "addEventSpeakerLabel": "Apresentador",
+    "addEventSpeakerHint": "Nome completo do palestrante",
+    "addEventDateLabel": "Encontro: Data",
+    "addEventMonthHint": "Mês",
+    "addEventDayHint": "Dia",
+    "addStartEventTime": "Hora de início",
+    "addEndEventTime": "Fim do tempo",
+    "addEventPoster": "Cartaz do Evento",
+    "addEventAboutHint": "Sobre o evento ..."  ,
+
+    "noContentAvailable" : "Nenhum conteúdo disponível",
+    "noOtherPublication" : "Não há outras publicações para exibir",
+
+    "trueKey" : "verdade",
+    "falseKey" : "falso",
+    "report" : "relatório" ,
+    "dislike" : "desgostar", 
+    "fiveMostRead" :  "Os cinco mais lidos",
+    "fiveMostViews" : "As cinco mais visualizações",
+    "deletedPost" : "Publicação excluída",
+    "noPostDeletedYet" : "Nenhuma publicação foi excluída ainda",
+
+    "interestAll" : "Tudo",
+    "interestWorld" : "Mundo",
+    "interestBusiness" : "Negócios e Finanças",
+    "interestLifestyle" : "Estilo de vida",
+    "interestTechnology" : "Tecnologia",
+    "interestSport" : "Esporte",
+    "interestHealth" : "Saúde e Medicina",
+    "interestScience" : "Ciência",
+    "interestEntertainment" : "Entretenimento",
+    "interestAgriculture" : "Agricultura",
+    "interestMechanical" : "Mecânica",
+    "interestOther" : "De outros",
+
+
+    "filter" : "Filtro" , 
+    "watch" : "Assista",
+    "trending" : "Tendendo",
+    "home" : "Casa",
+    "write" : "Escrever",
+    "readLater" : "Leia mais tarde",
+    "watchLater" : "Assistir depois",
+    "dashbord" : "Dashboard",
+    "payment" : "Pagamento",
+
+    "read": "Ler",
+    "biography" : "Biografia",
+    "readMore" : "Leia mais",
+
+    "profileExperienceSnackBarCompanyName": "Insira o nome da empresa",
+    "profileExperienceSnackBarJobTitle":  "Insira o cargo",
+    "profileExperienceSnackBarInvalidPeriode":  "Período inválido",
+    "addButton" : "Adicionar"
+
+    ,"profileInterest" : "Interesses"
+}

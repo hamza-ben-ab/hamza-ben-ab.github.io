@@ -1,0 +1,593 @@
+{
+    "confirmButton": "Продолжать",
+    "profileUnfolowButton": "Отписаться",
+    "cancelButton": "Отмена",
+   
+  
+
+    "profileAbout": "Около",
+    "profileFollowing": "Подписки",
+    "profileFollowers": "Подписчики",
+   
+
+    "profileSkills": "Образование",
+    "profileSkillsEstablishment": "Учреждение",
+    "profileSkillsEstablishmentHint": "Университет или институт",
+    "profileSkillsDiploma": "Диплом",
+    "profileSkillsDiplomaHint": "Сертификат или диплом",
+    "deleteAsk": "Вы хотите продолжить ?",
+    
+    "profileExperience": "Опыт",
+    "profileExperienceCompany": "Компания",
+    "profileExperienceCompanyHint": "Телестанция, Радио, Газета",
+    "profileExperienceJobTitle": "Название работы",
+    "profileExperienceJobTitleHint": "Журналист, редактор, репортер",
+    "profileExperiencePeriode": "Период",
+    "profileExperiencePeriodeYear": "Год",
+    
+ 
+    "profileContacts": "Контакты",
+   
+   
+    "requiredFiled" : "обязательное поле",
+    "descriptionPoll" : "Об опросе",
+
+    "articleReference" : "Ссылки на статьи",
+    "snackBarAddParagph" : "Добавьте хотя бы один абзац",
+   
+
+    "createProfileNationality" : "Национальность",
+    "createProfileChildren" : "Дети",
+    "createProfileRelation" :"Статус отношений",
+    "createProfileEducation" :"Образование",
+    "createProfileOccupation" :"Оккупационный",
+
+    "snackBarAddSteps" : "Добавьте хотя бы один шаг",
+   
+   
+   
+    
+    "like": "Нравится",
+    "postViewWrittenBy": "Написано",
+    "postViewUpdate": "Обновлять",
+    "pictureBy": "Изображение автора",
+    "videoBy": "Видео от",
+    "views": "Просмотры",
+
+
+
+
+
+    "pictureDetailsAddComment": "Напечатайте свой ответ",
+    "commentModifer": "Изменить",
+    "commentDelete": "Удалить",
+    "commentReply": "Ответов",
+    "inviteButton" : "Приглашать",
+    "iLikeButton" : "Мне нравится",
+    "fullScreen" : "Полноэкранный",
+
+
+
+
+
+
+
+    "saveButton": "Сохранить",
+    "message": "Сообщения",
+    "notificationTitle": "Уведомления",
+    "account" : "Аккаунт",
+
+
+
+
+    "contactUs" : "Контакт",
+    "aboutUs" : "Около",
+    "privacyPolicy": "Политика конфиденциальности",
+    "cookiePolicy": "Cookie-файлы",
+    "copyrightPolicy": "Политика авторских прав",
+    "terms": "Условия",
+    "help" : "Помощь",
+   
+   
+   
+    "accountMenuProfileSetting": "Настройка и конфиденциальность",
+    "accountMenuLogOut": "Выйти",
+    "seeYourProfile" : "Смотрите свой профиль",
+    "helpAndSupport" : "Помощь и поддержка",
+    "accountEmail" : "Адрес электронной почты",
+    "changePassword" : "Измени пароль",
+    "location": "Местоположение",
+    "language" : "Язык",
+    "newEmail" : "Новый E-mail",
+    "currentPassword" : "Текущий пароль",
+   
+   
+    "newEmailDescription" :  "Добавление текущего адреса электронной почты в вашу учетную запись Telltrue может помочь вам войти в систему и получать уведомления, а также легко сбросить пароль.",
+    "currentPassIsWrong" : "Текущий пароль неверен",
+    "passWordCondition" : "Пароль должен состоять не менее чем из 8 символов.",
+
+
+
+
+
+    "messageSorryCannotSend" : "Извините, вы не можете отправить сообщение на этот аккаунт",
+    "blockButton": "Блокировать",
+    "suggestionChatUnBlock": "Разблокировать",
+    "suggestionChatTypeMsg": "Напишите ваше сообщение",
+    "suggestionChatDeleteConversation": "Удалить чат",
+    "suggestionChatBlockMsgRequest": "Блокировать сообщения и звонки?",
+    "suggestionChatBlocktitle2": "Аккаунт Telltrue",
+    "suggestionChatBlockDescrip": "Вы не можете писать или звонить им в этом чате, и вы не будете получать их сообщения или звонки.",
+    "suggestionChatBlocktitle1": "Вы заблокировали сообщения и звонки от",
+    "suggestionChatBlockMsgDescrip1": "В вашу учетную запись Telltrue не будут поступать сообщения или звонки от",
+    "suggestionChatBlockMsgDescrip2": "аккаунт Telltrue \n Разговор останется в чатах, если вы его не скроете.",
+    "suggestionChatDeleteConversationDescrip": "После того, как вы удалите свою копию этого разговора, ее нельзя будет отменить.",
+
+
+
+    "messageNoMessageYet": "Вы еще не разговаривали",
+    "messageStartMessage": "Начать новый разговор",
+
+
+    "copyRight" : "©2021 Компания Telltrue. Все права защищены.",
+    "addprofileImageDes" :   "Ваше фото профиля помогает вашей команде узнать, кто вы в Telltrue. А если ваше фото будет четким, вам будет легче выделить вас в толпе или на встрече!",
+    "personalPicture" : "Личные фотографии",
+    "postPicture" : "Опубликовать фотографии",
+    "noPictureToshow" : "Нет фотографий для показа",
+    "pictureSetAsProfilePic": "Установить как изображение профиля",
+    "pictureDelete": "Удалить это фото",
+    "pictureDeleteRequest": "Вы уверены, что хотите удалить это фото?",
+
+
+
+    "profilePicAndVid": "Картинки",
+    "profilePicturesOfYou": "Ваши фотографии",
+    "profileVideo": "Видео",
+    "yourVideos": "Ваши видео",
+    "liveVideos": "Живое видео",
+
+
+    "readers" : "Чтения",
+    "nobreakingNewsyet" : "Пока нет последних новостей",
+    "noBreakingNewsDes" :  "Когда вы получите последние новости, они появятся здесь",
+    "breakingNewsisAvailable" :   "К сожалению, эта последняя новость недоступна.",
+   
+    "noCommentYetTitle": "Здесь пока нет ответов ...",
+    "noCommentsYetDes": "Будьте первым, кто поделится своим мнением!",
+
+    "readLess" : "Читать меньше",
+    "vote": "голос",
+    "undo" : "отменить",
+
+
+
+    "reportSelectProb" :  "Пожалуйста, выберите проблему, чтобы продолжить",
+    "report1" : "Неэтичный контент",
+    "report2" : "Тривиальный контент",
+    "report3" : "Контент, наносящий вред религии",
+    "report4" : "Контент, который наносит ущерб безопасности и подстрекает к насилию",
+    "sendButton" :  "послать",
+
+
+  
+    "eventInterestedButton": "Заинтересованы",
+    "eventNotInterestedButton": "Не интересует",
+
+
+
+    "Participants" : "Участников",
+    "career" : "Карьера",
+    "closeButton" : "Закрывать",
+    "abstrack": "Абстрактный",
+    "reference" : "использованная литература",
+
+
+    "noVideoShow" : "Нет видео для отображения",
+    "noLiveVideoShow" : "Нет живого видео для отображения",
+    "noPubmatching" : "Подходящих публикаций не найдено",
+    "noEventmatching" : "Соответствующее событие не найдено",
+    "noTelltruefound" :  "Подходящего пользователя Telltrue не найдено",
+    "result" : "результат",
+    "seeAllpub" : "Посмотреть результаты всех публикаций",
+    "seeAllEvent" : "Посмотреть результат всех событий",
+    "telltrueUser": "Telltrue пользователи",
+    "famousPersonIdentified" : "Идентифицированное лицо",
+    "eventIdentified":"Выявленное событие",
+     "placeIdentified":"Выявленное место",
+     "all" :  "Все",
+     "addBy" : "Добавлено",
+
+
+
+     "seeAllpeople" : "Посмотреть всех людей результат",
+     "searchTelltrue" : "Искать в Telltrue",
+     "searchFor" : "Искать",
+
+
+     "suggestionsForyou" : "Предложения для вас",
+     "todayTopWritting": "Лучшее сочинение сегодня",
+ 
+     "notificationNoYetTitle": "Уведомлений пока нет",
+     "notificationNoYetDes": "Когда вы получите уведомления, они будут здесь",
+     "inviteYouToReadAn": "приглашаю вас прочитать",
+    "inviteYouToAnswer": "приглашаю вас ответить",
+    "inviteYouToWatch": "приглашаю вас посмотреть",
+    "inviteYouToSee": "приглашаю вас посмотреть",
+    "inviteYouToReadEvent": "он приглашает вас на мероприятие",
+    "notificationSubscribe": "начал следовать за вами.",
+    "and": "а также",
+    "other": "другие",
+    "commentedYour": "прокомментировал ваш пост",
+    "likedYour": "отреагировал на ваш пост",
+    "answerYour": "ответил на ваш опрос",
+    "reportYour" :"сообщить о своем сообщении",
+
+
+    "deletePostDescription" :  "Возможно, эта публикация поддельная.\n Поэтому она будет удалена из Telltrue.",
+    "notiDeletePost" : "К сожалению, мы удалим ваш",
+    "fullNamerequired" : "Введите свое полное имя, как оно написано в вашем паспорте или национальном удостоверении личности.",
+
+    "chooseFile" : "Выберите файл",
+    "driver'sLicence" : "Водительское удостоверение",
+    "driverLicenceDes" : "Загрузите фотографию или скан вашего водительского удостоверения.",
+    "driverLicenceFrontSideTitle" : "Лицевая сторона ваших водительских прав",
+    "driverLicenceFrontSideDes" : "Загрузите лицевую сторону ваших водительских прав",
+    "nationalId": "Национальный идентификатор",
+    "nationalIdDes" : "Загрузите фотографию или отсканированный документ.",
+    "nationalIdFrontSideTitle" : "Лицевая сторона вашего документа",
+    "nationalIdFrontSideDes" : "Загрузите лицевую сторону документа",
+
+    "nationalIdBackSideTitle" : "Оборотная сторона вашего документа",
+    "nationalIdBackSideDes" : "Загрузите обратную сторону документа",
+
+    "passport" : "Заграничный пасспорт",
+    "passportDes" : "Загрузите фотографию или скан страницы с фотографией вашего паспорта.",
+    "passportUploadDes" : "Страница деталей с изображением",
+    "chooseOtherOption" : "Выберите другой документ, удостоверяющий личность",
+
+
+
+
+    "driverLicenceBackSideTitle" : "Оборотная сторона ваших водительских прав",
+    "driverLicenceBackideDes" :"Загрузите обратную сторону ваших водительских прав",
+    "uploadAproofOfidendity" : "Загрузите удостоверение личности",
+    "chooseCountryDes":  "Пожалуйста, выберите страну, выдавшую имеющийся у вас документ, удостоверяющий личность.",
+    "countryDropDowntitle" : "Страна выдачи удостоверения личности",
+    "selectCountry" : "Выберите страну...",
+    "documentType" : "Тип документа",
+    "selectDocType" : "Выберите тип документа",
+
+    "firstAndlastName" : "Полные юридические имя и фамилия",
+    "firstAndMiddleName" : "Полные юридические имя и отчество",
+    "spellYourName" : "Напишите свое имя точно так, как оно указано в паспорте или удостоверении личности.",
+    "fullLegalLastName": "Полная официальная фамилия (и)",
+    "spellHomeTwon": "Укажите свой дом, как он написан в вашем паспорте или национальном удостоверении личности.",
+    "spellCurrentLocation" : "Введите свое текущее местонахождение, как указано в вашем паспорте или национальном удостоверении личности.",
+    "passwordConditions" : "Пароль должен состоять из буквы и цифры и состоять не менее чем из 8 символов.",
+    "birthDayCondition" : "Укажите дату рождения, указанную в паспорте или национальном удостоверении личности.",
+    "phone" : "Телефон",
+    "phoneNumber" : "Номер телефона",
+    "theAccountAlready": "Аккаунт для этого адреса электронной почты уже существует",
+    "welcomeToOurteam" : "Добро пожаловать в нашу команду",
+
+
+    "snackBarNoUserFound": "No user found for that identifier",
+    "snackBarWrongPassword": "Wrong Password",
+
+
+    
+    "teltrueSayHey" : "Привет!",
+    "teltrueWelcomIntro":"\nЕдинственная площадка, где журналист - лидер",
+    "formIdentifierLoginPage" : "Идентификатор",
+    "formPasswordLoginPage" : "пароль",
+    "onlyReaderOptionSignIn" : "Или (только читатель)",
+    "forgotPasswordLoginPage" : "Забыли пароль ?",
+    "askForSignUpLoginPage" : "Нет учетной записи?",
+    "signUpFlatButtonLoginPage" : "Подписаться",
+    "connectButtonLoginPage" : "Авторизоваться",
+    "appBarTitleResetPassword" : "Сброс пароля",
+    "subtitleResetPassword" : "Шаг 1. Найдите свою учетную запись",
+    "descriptionResetPassword" : "Нам просто нужен ваш зарегистрированный адрес электронной почты, чтобы отправить вам код для сброса пароля.",
+    "hintTextResetPassword" : "Введите свой адрес электронной почты правильно",
+    "sendRequestResetPassword" : "Послать запрос",
+
+    "subtitlePassCode" : "Шаг 2: код подтверждения",
+    "descriptionPassCode" : "Введите проверочный код, который мы только что отправили вам на вашем зарегистрированном",
+    "hintTextPassCode" : "Код",
+    "resendCodeFlatButtonPassCode" : "Отправить код еще раз !",
+    "verifybuttonPassCode" : "Проверить",
+    "subtitleCreateNewPassword" : "Шаг 3. Создайте новый пароль",
+    "descriptionCreateNewPassword" : "ваш новый пароль должен отличаться от ранее использованного пароля",
+    "hintTextNewPassword" : "Новый пароль",
+    "hintTextConfirmNewPassword" : "Подтвердите новый пароль",
+    "resetPasswordCreatePassword" : "Сброс пароля",
+
+    "yesItsMeButton" : "Да, это я",
+    "tryAgainButton" : "Попробуй еще раз",
+    "noAccountAttachedDes" : "К сожалению, к этому письму не привязан аккаунт",
+    "taostConfirmThePassWord" : "Пожалуйста, подтвердите пароль",
+    "toastInvalidCode": "Неверный код",
+
+
+    "subtitleSignUpMode" : "Кто ты ?",
+    "descriptionSignUpMode" : "вы готовы присоединиться к нам в качестве журналиста, простого читателя или СМИ (газеты, радио, телевидение ...)",
+    "iamReaderSignUpMode" : "Я читатель",
+    "iamJournalistSignUpMode" : "Я журналист",
+    "weareMediaSignUpMode" : "Мы СМИ",
+
+
+    "hintTextFullNameSignUpWithEmail": "То же в идентификаторе",
+    "fullNameTitleSignUpWithEmail": "ФИО",
+    "emailTitleSignUpWithEmail": "Официальный адрес электронной почты",
+    "locationTitleSignUpWithEmail": "Текущее местоположение",
+    "genderSignUpWithEmail": "Пол",
+    "hintTextGetLocationSignUpWithEmail": "страна город",
+    
+    "hintTextIdentifierSignUpWithEmail" : "Адрес электронной почты",
+    "hintTextPasswordSignUpWithEmail" : "пароль",
+    "hintTextConfirmPasswordSignUpWithEmail" : "Подтвердите Пароль",
+    
+    "hintTextSelectMale" : "мужчина",
+    "hintTextSelectFemale" : "женский",
+    "nextButton": "следующий",
+    "snackBarInvalidFullName" : "Введите свое полное имя !",
+    "snackBarInvalidEmail" : "Введите действующий адрес электронной почты!",
+    "snackBarInvalidPassword" : "Пароль должен состоять из 8 символов!",
+    "snackBarInvalidConfirmPassword" : "Подтвердите ваш пароль",
+    "snackBarInvalidLocation" : "Выберите ваше текущее местоположение",
+
+    
+
+
+    "subtitleJournalistSignUpWorkSpace" : "Имя рабочей области",
+    "subtitleJournalistSignUpBirthday" : "Дата рождения",
+    "subtitleJournalistSignUpUploadId" : "Загрузите свое удостоверение личности с фотографией",
+    "hintTextChannelNameJournalistSignUp" : "Телевидение, радио или газета ...",
+
+    "hintTextYear" : "Год",
+    "hintTextDay" : "День",
+    "hintTextMonth" : "Месяц",
+    "descriptionUploadPhotoId" : "Чтобы удостовериться в вашей личности, нам нужно, чтобы вы загрузили цветную фотографию своего удостоверения личности государственного образца. Ваш идентификатор должен включать ваше имя, день рождения и фотографию. \n допустимые идентификаторы включают ваш: \n- паспорт \n- национальную идентификационную карту \n- водительские права \n Как только мы получим и проверим четкую фотографию вашего идентификатора, мы удалим ваш документ, удостоверяющий личность, с нашего сервера.",
+    "choosePhotoButton" : "Выбрать фото",
+    "snackBarUploadImageId" : "изображение успешно загружено",
+    "snackBarInvalidBirthday" : "Введите действительный день рождения!",
+    "snackBarSince" : "Введите действительный день начала!",
+    "snackBarInvalidUpload" : "Вы должны загрузить свое удостоверение личности",
+    
+
+
+    "journalistReporter" : "Журналист и репортер",
+    "journalistWriter" : "Журналист и писатель",
+    "journalistAnimator" : "Журналист и ведущий",
+    "photoJournalist" : "Фотожурналист",
+    "journalistEditor" : "Журналист и редактор",
+    "tvColumnist" : "Телеведущий",
+    "freelanceJournalist" : "Независимый журналист",
+    "investigativeJournalist" : "Журналист-расследователь",
+    "onlineJournalistBloger" : "Интернет-журналист или блоггер",
+    "subtitleReviewPage" : "Успех!",
+    "descriptionP1ReviewPage" : "Благодаря",
+    "descriptionP3ReviewPage" : ", Мы получили ваш запрос на создание учетной записи для журналиста и находимся в процессе его рассмотрения (24 часа). Имейте в виду, что ваш идентификатор будет надежно сохранен и удален в течение 30 дней после подтверждения вашей личности.",
+    "snackBarSelectOption" : "Вы должны выбрать вариант",
+
+
+    "doneButton" : "Готово",
+    "appBarTitleAddProfileImage" : "Изображение профиля",
+    "subtitleWelcomePage" : "Вы успешно зарегистрировались в нашем приложении и можете приступить к работе над ним",
+    "startButton" : "Начало",
+    "photoLibrary" : "Фото библиотека",
+    "photoCamera" : "Камера",
+
+    "appBarTitleSuggestion" : "Предложение следовать",
+    "descriptionSuggestion" : "Выберите несколько тем, которые вам интересны, чтобы персонализировать свой опыт в Teltrue, начиная с поиска журналиста или СМИ, на которые можно подписаться.",
+    "subtitleSuggestion1" : "Журналисты",
+    "subtitleSuggestion2" : "Телевидение и Радио" ,
+    "subtitleSuggestion3" : "Газеты и журналы",
+    "noJournalistYet" : "Ни один журналист из вашей страны еще не зарегистрировался",
+    "noTvRadioYet" : "Телевидение или радио из вашей страны еще не зарегистрированы",
+    "noNewspaperMagazine" : "Ни одна газета или журнал из вашей страны еще не зарегистрированы",
+
+    "addPostSearchPlaceHint": "Найдите место",
+    "addPostSearchEventHint": "Найдите название текущего события",
+    "addPostSearchPersonHint": "Найдите имя известного человека",
+    "tagPerson": "Знаменитая личность",
+    "tagEvent": "Событие",
+    "tagPlace": "Место",
+    "addPostBreakingNewsDesHint": "Расскажите нам, что случилось ",
+    "snackBarTopic": "Вы должны выбрать тему",
+
+    "createPostCommentary" : "Комментарии и перспективы",
+    "feel" : "Чувствовать",
+
+    "createPostQuestionDes": "Опросы общественного мнения похожи на опросы или запросы, предназначенные для оценки общественного мнения по конкретной проблеме или серии вопросов на научной и беспристрастной основе",
+    "feelingHappy": "чувствовать себя счастливым",
+    "feelingCool": "чувствует себя круто",
+    "feelingSurprised": "чувствует себя удивленным",
+    "feelingShocked": "чувствует себя шокированным",
+    "feelingNervous": "нервничает",
+    "feelingAngry": "злится",
+    "feelingDrool": "чувствует слюни",
+    "feelingSweat": "чувствует крик",
+    "feelingCrying": "плачет",
+    "feelingSad": "грустно",
+    "feelingDead": "чувствует себя мертвым",
+    "feelingDubious": "чувствует себя сомнительно",
+    "feelingTired": "чувствует усталость",
+    "feelingLoved": "чувствует себя любимым",
+    "feelingPain": "чувствует боль",
+    "feelingMuted": "чувствует себя приглушенным",
+    "feelingGreed": "чувствует жадность",
+    "feelingSick": "чувствует себя больным",
+    
+
+    "pollTitle" : "Голосование",
+    "choiceOne" : "Выбор один",
+    "choiceTwo" : "Второй вариант",
+    "choiceThree" : "Вариант третий",
+    "pollLength" : "Длина опроса",
+    "days" : "дней",
+    "hours" : "Часы",
+    "Minutes" : "Минуты",
+
+    "addPostArticle": "Исследовательская статья",
+    "addPostArticleGeneralTitle": "Общее название",
+    "addPostArticleWrittersHintText": "Писатели",
+    "addPostArticleKeywords": "Ключевые слова",
+    "addPostArticleCoresspondence": "Переписка",
+    "addPostArticleAbstract": "Напишите здесь аннотацию",
+
+    "addPostArticleFirstPartTitle" : "Название первой части",
+    "addPostArticleSecondPartTitle" : "Название второй части",
+    "addPostArticleThirdPartTitle" : "Название третьей части",
+    "addPostArticleFourthPartTitle" : "Название четвертой части",
+
+    "addPostArticleFirstPartDes" : "Описание первой части",
+    "addPostArticleSecondPartDes" : "Описание второй части",
+    "addPostArticleThirdPartDes" : "Описание третьей части",
+    "addPostArticleFourthPartDes" : "Описание четвертой части",
+    "addPostArticleConclusion" : "Вывод",
+
+    "addPostArticleIntro": "Вступление",
+    "unDoneDialogDiscardPost":   "Отменить публикацию",
+    "unDoneDialogDiscardDes":   "Это нельзя будет отменить, и вы потеряете свой черновик.",
+    "unDoneDialogDiscardButton":  "Отказаться",
+
+
+    "createHowToTitle"  :"Как?",
+    "createHowToSuplliesHintText" : "Принадлежности",
+    "createHowToThinkInStep" : "Думайте шагами",
+    "createHowToStepTitleHintText" : "Название шага (необязательно)",
+    "createHowToStepDetailsHintText" :  "Детали шага",
+    "createHowToShowResult" : "Отображаемый результат",
+    "createHowToAddStepButton" :  "Добавить шаг",
+
+    "snackBarSupplies" : "Вам нужно записать некоторые припасы",
+    "snackBarSteps" : "вам нужно записать несколько шагов",
+    "snackBarBiography" : "Напишите, пожалуйста, несколько слов о",
+
+    "createProfiletitle" : "Профиль личности",
+    "createProfileAgeHintText" : "Возраст",
+    "createProfileHomeTwonHintText": "Родной город",
+    "createProfilecurrentCityHintText" : "Текущий город проживания",
+    "createProfileCvHintText" : "Биография",
+
+    "createAnalysisAddpart": "Добавить абзац",
+    "createAnalysisTitle": "Анализ и обзор",
+    "createAnalysisPartTitle": "Заголовок абзаца",
+    "createAnalysisPartDetails": "Детали абзаца",
+
+    "feelingButton": "Чувства",
+    "topicButton": "Тема",
+    "uploadButton": "загрузить",
+
+    "snackBarEmptyTitle" : "пожалуйста, введите заголовок",
+    "snackBarEmptyDes" : "пожалуйста, введите несколько слов в поле описания",
+    "snackBarEmptyParagraph" : "Пожалуйста, введите хотя бы один абзац",
+
+    "broadcastingHintTextDes" : "Описание трансляции",
+    "inPictureHintTextDes" : "Описание изображения",
+
+    "createStoryTitle" : "История",
+    "createStorytitleHintText" : "Название истории (необязательно)",
+    "createStoryDesHintText" : "Напишите здесь свою историю",
+
+    "createPostBreakingNewsDes": "Последние новости на сегодня",
+    "createPostLastestNewsTitle" : "Последние новости",
+    "createPostLastestNewsDes" : "Найдите последние новости и информацию о главных новостях, погоде, бизнесе, развлечениях, политике и многом другом.",
+    "createPostCommentaryDes" : "Комментарии обычно представляют собой короткие статьи, содержащие от 1000 до 1500 слов, и они привлекают внимание или критикуют книгу, отчет или статью, которые уже опубликованы.",
+    "createPostEssay" : "Сочинение",
+    "createPostEssayDes" : "Большинство эссе представляют собой отрывки от короткого до среднего, посвященные личному опыту или мнению. Обычно эссе вращается вокруг одной темы и представляет ваши взгляды.",
+    "createPostHowToDes" : "Эти предписания содержат шаги, способы или советы, которые помогут читателю сделать что-то конкретное. Они предоставляют (решение) проблемы или ответ на вопрос",
+    "createPostProfileDes" : "Этот тип статей вращается вокруг жизни человека (не вашей) и его достижений. На основе интервью вы подробно разглядываете ее жизнь ...",
+    "createPostAnalysisDes" : "Обзорные статьи представляют собой конструктивный и критический анализ существующей литературы, выполненный посредством анализа, сравнения и обобщения. Они могут выявить конкретные проблемы или пробелы и даже предоставить рекомендации для будущих исследований.", 
+    "createPostStoryDes" : "Сказка, Новости, История, Легенда, Научная фантастика, Рассказ, Трагедия, Комедия",
+    "createPostSponsored" : "Спонсируемый",
+    "createPostSponsoredDes" : "Статьи с спонсируемым контентом, по сути, являются разновидностью рекламы. Они выглядят и читаются как обычные редакционные статьи, но оплачиваются конкретным рекламодателем."
+    ,"createPostArticleDes": "исследовательские статьи - это очень подробные исследования, в которых сообщается об оригинальном исследовании. Считается первичной литературой, оригинальные исследовательские статьи включают базовое исследование, методы, гипотезы, результаты и интерпретацию результатов.",
+
+
+    "createPostBreakingNewsTitle": "Последние новости",
+    "createPostBroadcastTitle": "Вещание",
+    "createPostInpicTitle": "На картине",
+    "createPostInvestigationTitle": "Расследование",
+
+
+    "addPostBreakingNewsTitleHint": "Заголовок последней новости",
+   
+
+    "createPostBroadCastDes": "Поделитесь журналистским интервью, репортажем или прямой трансляцией о событии с кратким описанием",
+    "createPostInPicDes": "Сделайте картинку говорящей!",
+    "createPostInvestigationDes": "Поделитесь своим расследованием преступления, реального явления или стихийного бедствия с помощью реальных доказательств или свидетельств",
+    "createPostEvent": "Планирование культурного или рабочего мероприятия",
+
+    "tagTypeToSearch" : "Введите для поиска",
+    "tagNoTagSearchFound" : "Поиск без тегов не найден",
+
+    "tagSearchNumberOf" : "Teltrue люди пишут об этом",
+    "useButton" :"Использовать этот",
+    "addPostOpinionHint" : "Что ты думаешь",
+    "addPostEssayDesHintText" : "Опишите свое мнение или личный опыт",
+    "askQuestionTitleHint": "Спросить что-то",
+
+    "addEventTitle" : "Организовать мероприятие",
+    "addEventTitleHint": "Название события",
+    "addEventPlaceLabel": "Место проведения",
+    "addEventPlaceHint": "Отель, Конференц-зал, Почтовый адрес, Онлайн-мероприятие",
+    "addEventSpeakerLabel": "ведущий",
+    "addEventSpeakerHint": "Ф.И.О докладчика",
+    "addEventDateLabel": "Дата",
+    "addEventMonthHint": "Месяц",
+    "addEventDayHint": "День",
+    "addStartEventTime": "Время начала",
+    "addEndEventTime": "Время окончания",
+    "addEventPoster": "Афиша мероприятия",
+    "addEventAboutHint": "О мероприятии ..."  ,
+
+    "noContentAvailable" : "Контент недоступен",
+    "noOtherPublication" : "Нет других публикаций для отображения",
+
+    "trueKey" : "истинный",
+    "falseKey" : "ложный",
+    "report" : "отчет" ,
+    "dislike" : "неприязнь", 
+    "fiveMostRead" :  "Пятерка самых читаемых",
+    "fiveMostViews" : "Пятерка самых популярных",
+    "deletedPost" : "Удаленная публикация",
+    "noPostDeletedYet" : "Публикация еще не удалена",
+
+    "interestAll" : "Все",
+    "interestWorld" : "Мир",
+    "interestBusiness" : "Бизнес и финансы",
+    "interestLifestyle" : "образ жизни",
+    "interestTechnology" : "Технология",
+    "interestSport" : "Спорт",
+    "interestHealth" : "Здоровье и медицина",
+    "interestScience" : "Наука",
+    "interestEntertainment" : "Развлечение",
+    "interestAgriculture" : "сельское хозяйство",
+    "interestMechanical" : "Механика",
+    "interestOther" : "Другой",
+
+
+    "filter" : "Фильтр" , 
+    "watch" : "Смотреть",
+    "trending" : "В тренде",
+    "home" : "Домой",
+    "write" : "Напишите",
+    "readLater" : "Прочтите позже",
+    "watchLater" : "Смотреть позже",
+    "dashbord" : "Щиток приборов",
+    "payment" : "Оплата",
+
+    "read": "Читать",
+    "biography" : "биография",
+    "readMore" : "Читать больше",
+
+    "profileExperienceSnackBarCompanyName": "Введите название компании",
+    "profileExperienceSnackBarJobTitle":  "Введите название должности",
+    "profileExperienceSnackBarInvalidPeriode":  "Недействительный период",
+    "addButton" : "Добавлять"
+
+    ,"profileInterest" : "Интересов"
+}   
+
