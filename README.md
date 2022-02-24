@@ -1,4 +1,4 @@
-# teltrue_web
+# telltrue_web
 
 A new Flutter project.
 
