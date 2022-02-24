@@ -39,7 +39,7 @@ class _LoginPageAppBarState extends State<LoginPageAppBar> {
       padding: EdgeInsets.only(left: w * .02, right: w * .01),
       height: h * .07,
       width: w,
-      color: Colors.white,
+      color: Colors.blue,
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.center,
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
